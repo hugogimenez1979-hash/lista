@@ -45,10 +45,12 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer
 
 #EXTGRP:Noticias
 #EXTINF:-1  tvg-id="A24.ar.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" tvg-group="Noticias", A24
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:0,ARG - A24 (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157616
+#EXTINF:0,ARG - A24 (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157613
 
 #EXTINF:-1  tvg-id="C5N.ar.uy" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" tvg-group="Noticias", C5N
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -982,3 +984,130 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8335
 #EXTINF:0,NOV-Pasiones (TV)(720)
 #EXTVLCOPT:network-caching=1000
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/67004
+
+#EXTINF:0,24/7 Cinema Ficcion - Sagas: Marvel (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165068
+#EXTINF:0,24/7 Cinema Ficcion - Sagas: Marvel Universo (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165065
+#EXTINF:0,24/7 Cinema Ficcion - Sagas: Spider Man (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165066
+#EXTINF:0,24/7 Cinema - Sagas: El Planeta de los Simios - Clasico (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164982
+#EXTINF:0,24/7 Cinema - Sagas: El Planeta de los Simios - Moderno (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164981
+#EXTINF:0,24/7 Cinema - Sagas: El Señor de los Anillos (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164974
+#EXTINF:0,24/7 Cinema - Sagas: Harry Potter (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164970
+#EXTINF:0,24/7 Cinema - Sagas: Harry Potter (e)(4K)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164971
+#EXTINF:0,24/7 Dragin Ball Z (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162896
+#EXTINF:0,24/7 DraginBall (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162893
+#EXTINF:0,24/7 Dragon Ball - Saga 21° Torneo de las artes Marciales (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179196
+#EXTINF:0,24/7 Dragon Ball - Saga 22° Torneo de las Artes Marciales (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179200
+#EXTINF:0,24/7 Dragon Ball - Saga 23° Torneo de las Artes Marciales (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179202
+#EXTINF:0,24/7 Dragon Ball - Saga de la Patrulla Roja (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179197
+#EXTINF:0,24/7 Dragon Ball - Saga de Pilaf (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179011
+#EXTINF:0,24/7 Dragon Ball - Saga el Palacio de Uranai Baba (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179198
+#EXTINF:0,24/7 Dragon Ball - Saga Piccolo Daimaku (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179201
+#EXTINF:0,24/7 Dragon Ball Daima (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179035
+#EXTINF:0,24/7 Dragon Ball GT - Saga Baby (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179025
+#EXTINF:0,24/7 Dragon Ball GT - Saga Estrella Negra (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179024
+#EXTINF:0,24/7 Dragon Ball GT - Saga Shadow Dragon (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179028
+#EXTINF:0,24/7 Dragon Ball GT - Saga Super Android 17 (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179026
+#EXTINF:0,24/7 Dragon Ball Heroes (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179036
+#EXTINF:0,24/7 Dragon Ball Super (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162895
+#EXTINF:0,24/7 Dragon Ball Super - Saga Golden Freezer (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179030
+#EXTINF:0,24/7 Dragon Ball Super - Saga la Batalla de los Dioses (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179029
+#EXTINF:0,24/7 Dragon Ball Super - Saga Torneo de la Fuerza (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179033
+#EXTINF:0,24/7 Dragon Ball Super - Saga Torneo del Universo 6 (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179031
+#EXTINF:0,24/7 Dragon Ball Super - Saga Zamasu (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179032
+#EXTINF:0,24/7 Dragon Ball Z - Saga 25º. Torneo de las artes Marciales (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179021
+#EXTINF:0,24/7 Dragon Ball Z - Saga Androides (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179018
+#EXTINF:0,24/7 Dragon Ball Z - Saga Cell (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179019
+#EXTINF:0,24/7 Dragon Ball Z - Saga Freezer (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179014
+#EXTINF:0,24/7 Dragon Ball Z - Saga Garlic Jr. (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179016
+#EXTINF:0,24/7 Dragon Ball Z - Saga Majin Buu (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179022
+#EXTINF:0,24/7 Dragon Ball Z - Saga Saiyajin (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179013
+#EXTINF:0,24/7 Dragon Ball Z - Saga Torneo del Otro Mundo (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179020
+#EXTINF:0,24/7 Dragon Ball Z Kai (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/179034
+#EXTINF:0,24/7 Dragon BallGT (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162894
+#EXTINF:0,24/7 Josué y la tierra prometida (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166970
+#EXTINF:0,24/7 Novelas - Rey David (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/168033
+#EXTINF:0,24/7 Retro - Looney Tunes and Merrie Melodies (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/169563
