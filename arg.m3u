@@ -1108,12 +1108,6 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/168033
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies" http-referrer="https://xtrematv.com/?p=1434",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Documentary;Science" http-referrer="https://xtrematv.com/?p=1504",Xtrema Animal
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1504
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation;Kids" http-referrer="https://xtrematv.com/?p=1390",Xtrema Cartoons
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:0,24/7 Cinema - 4K (e)(4K)(Dual Audio)
 #EXTVLCOPT:network-caching=1000
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164942
@@ -1281,4 +1275,34 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9772
 #EXTINF:0,CINE - Universal Reality (Z)(720)
 #EXTVLCOPT:network-caching=1000
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9773
+
+#EXTINF:-1 tvg-id="" tvg-name="Vengadores: Endgame (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/br6krBFpaYmCSglLBWRuhui7tPc.jpg" group-title="4 K",Vengadores: Endgame (2019)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/124737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vengadores: Infinity War (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="4 K",Vengadores: Infinity War (2018)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/124738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avengers Ultron (4K-Dual-2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="4 K",Avengers Ultron (4K-Dual-2015)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/124739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys (4K-Dual-1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="4 K",Bad Boys (4K-Dual-1995)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/124740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: El retorno del rey (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg" group-title="4 K",El señor de los anillos: El retorno del rey (2003)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/124775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: La comunidad del anillo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg" group-title="4 K",El señor de los anillos: La comunidad del anillo (2001)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/124776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: Las dos torres (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg" group-title="4 K",El señor de los anillos: Las dos torres (2002)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/124777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg" group-title="ACCION Y AVENTURA",Batman (2022)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/119602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman Begins (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yMWU1vWkOBbNRIwOxhetd2aHhO.jpg" group-title="ACCION Y AVENTURA",Batman Begins (2005)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/119240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman y el reino perdido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9Hv3b37ZErby79f4iqTZ8doaTp.jpg" group-title="4 K",Aquaman y el reino perdido (2023)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/103500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTzr6Nc4RcTXVw9SsWQNJdcjTz5.jpg" group-title="CIENCIA FICCION",Aquaman (2018)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/126078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg" group-title="CIENCIA FICCION",Ant-Man (2015)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/126014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man y la Avispa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvYI6i9lQ3bsup9PgnMF3YYr8ZR.jpg" group-title="CIENCIA FICCION",Ant-Man y la Avispa (2018)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/126015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg" group-title="CIENCIA FICCION",Doctor Strange (2016)
+http://planettvweb.com:8091/movie/Fernando44/ANge4038d/126016.mkv
+
 
