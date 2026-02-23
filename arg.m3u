@@ -47,9 +47,6 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer
 #EXTINF:-1  tvg-id="A24.ar.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" tvg-group="Noticias", A24
 #EXTINF:0,ARG - A24 (i)(720)
 #EXTVLCOPT:network-caching=1000
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157616
-#EXTINF:0,ARG - A24 (Z)(720)
-#EXTVLCOPT:network-caching=1000
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157613
 
 #EXTINF:-1  tvg-id="C5N.ar.uy" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" tvg-group="Noticias", C5N
@@ -1108,6 +1105,180 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/166970
 #EXTINF:0,24/7 Novelas - Rey David (e)(720)
 #EXTVLCOPT:network-caching=1000
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/168033
-#EXTINF:0,24/7 Retro - Looney Tunes and Merrie Melodies (e)(720)
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies" http-referrer="https://xtrematv.com/?p=1434",Xtrema Accion
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Documentary;Science" http-referrer="https://xtrematv.com/?p=1504",Xtrema Animal
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1504
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation;Kids" http-referrer="https://xtrematv.com/?p=1390",Xtrema Cartoons
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:0,24/7 Cinema - 4K (e)(4K)(Dual Audio)
 #EXTVLCOPT:network-caching=1000
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/169563
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164942
+#EXTINF:0,24/7 Cinema - Accion 1 (e)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164581
+#EXTINF:0,24/7 Cinema - Accion 10 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164788
+#EXTINF:0,24/7 Cinema - Accion 2 (e)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164582
+#EXTINF:0,24/7 Cinema - Accion 3 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164583
+#EXTINF:0,24/7 Cinema - Accion 4 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164584
+#EXTINF:0,24/7 Cinema - Accion 5 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164586
+#EXTINF:0,24/7 Cinema - Accion 6 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164781
+#EXTINF:0,24/7 Cinema - Accion 7 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164782
+#EXTINF:0,24/7 Cinema - Accion 8 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164783
+#EXTINF:0,24/7 Cinema - Accion 9 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164787
+#EXTINF:0,24/7 Cinema - Amazon Prime 1 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164869
+#EXTINF:0,24/7 Cinema - Amazon Prime 10 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164940
+#EXTINF:0,24/7 Cinema - Amazon Prime 2 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164870
+#EXTINF:0,24/7 Cinema - Amazon Prime 3 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164871
+#EXTINF:0,24/7 Cinema - Amazon Prime 4 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164934
+#EXTINF:0,24/7 Cinema - Amazon Prime 5 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164935
+#EXTINF:0,24/7 Cinema - Amazon Prime 6 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164936
+#EXTINF:0,24/7 Cinema - Amazon Prime 7 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164937
+#EXTINF:0,24/7 Cinema - Amazon Prime 8 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164938
+#EXTINF:0,24/7 Cinema - Amazon Prime 9 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164939
+#EXTINF:0,24/7 Cinema - Animacion 1 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164949
+#EXTINF:0,24/7 Cinema - Animacion 2 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164950
+#EXTINF:0,24/7 Cinema - APPLE TV (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164956
+#EXTINF:0,24/7 Cinema - Aventura (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164957
+
+#EXTINF:0,24/7 Cinema - Infantil 1 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164943
+#EXTINF:0,24/7 Cinema - Infantil 2 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164944
+#EXTINF:0,24/7 Cinema - Infantil 3 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164946
+#EXTINF:0,24/7 Cinema - Netflix Premier 1 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164802
+#EXTINF:0,24/7 Cinema - Netflix Premier 2 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164863
+#EXTINF:0,24/7 Cinema - Netflix Premier 3 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164864
+#EXTINF:0,24/7 Cinema - Netflix Premier 4 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164865
+#EXTINF:0,24/7 Cinema - Netflix Premier 5 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164866
+#EXTINF:0,24/7 Cinema - Netflix Premier 6 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164867
+#EXTINF:0,24/7 Cinema - Netflix Premier 7 (e)(1080)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164868
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178792
+#EXTINF:0,24/7 Series Crimen - La Ley y el Orden: Crimen Organizado (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165480
+#EXTINF:0,24/7 Series Crimen - La Ley y el Orden: U.V.C (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165479
+#EXTINF:0,24/7 Series Crimen - Mentes Criminales (e)(720)(Dual Audio)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/165365
+#EXTINF:0,CINE - Universal Channel (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9753
+#EXTINF:0,CINE - Universal Channel (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9755
+#EXTINF:0,CINE - Universal Cinema (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9756
+#EXTINF:0,CINE - Universal Cinema (M)(1080) [Dual Audio]
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9757
+#EXTINF:0,CINE - Universal Comedy (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9759
+#EXTINF:0,CINE - Universal Crime (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9761
+#EXTINF:0,CINE - Universal Crime (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9762
+#EXTINF:0,CINE - Universal Crime (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9763
+#EXTINF:0,CINE - Universal Crime (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9764
+#EXTINF:0,CINE - Universal Premier (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9765
+#EXTINF:0,CINE - Universal Premier (M)(1080) [Dual Audio]
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9766
+#EXTINF:0,CINE - Universal Premier (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9767
+#EXTINF:0,CINE - Universal Premiere Norte (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9768
+#EXTINF:0,CINE - Universal Reality (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9770
+#EXTINF:0,CINE - Universal Reality (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9771
+#EXTINF:0,CINE - Universal Reality (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9772
+#EXTINF:0,CINE - Universal Reality (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9773
+
