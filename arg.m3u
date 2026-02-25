@@ -1108,6 +1108,18 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/168033
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies" http-referrer="https://xtrematv.com/?p=1434",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:0,24/7 Rick y Morty (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/178792
+#EXTINF:0,24/7 Infantil - Looney Tunes Platinum V1 (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/169560
+#EXTINF:0,24/7 Infantil - Looney Tunes Platinum V2 (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/169561
+#EXTINF:0,24/7 Infantil - Looney Tunes Platinum V3 (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/169562
 #EXTINF:0,24/7 Cinema - 4K (e)(4K)(Dual Audio)
 #EXTVLCOPT:network-caching=1000
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164942
@@ -1318,6 +1330,7 @@ http://planettvweb.com:8091/movie/Fernando44/ANge4038d/119537.mkv
 http://planettvweb.com:8091/movie/Fernando44/ANge4038d/119646.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ghost Rider: Espíritu de venganza (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNk4q6f1sXRE8FEPpMiexCs5K20.jpg" group-title="POLICIAL, SUSPENSO. CRIMEN",Ghost Rider: Espíritu de venganza (2011)
 http://planettvweb.com:8091/movie/Fernando44/ANge4038d/119647.mkv
+
 
 
 
