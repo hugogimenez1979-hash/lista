@@ -1,5 +1,593 @@
 #EXTM3U
 
+#EXTINF:0,HON-TVC Deportes (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/153365
+#EXTINF:0,PPV 1 -  (e)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/178774
+#EXTINF:0,PPV 2 - (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/178775
+#EXTINF:0,PPV 3 - (E)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/178776
+#EXTINF:0,PPV 4 - (E)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/178777
+#EXTINF:0,ARG - A24 (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157616
+#EXTINF:0,ARG - A24 (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157613
+#EXTINF:0,ARG - America TV (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157612
+#EXTINF:0,ARG - America TV (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157624
+#EXTINF:0,ARG - America TV (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157623
+#EXTINF:0,ARG - America TV (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157622
+#EXTINF:0,ARG - Argentinisima (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157608
+#EXTINF:0,ARG - C5N (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157607
+#EXTINF:0,ARG - C5N (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157566
+#EXTINF:0,ARG - Canal 13 (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157567
+#EXTINF:0,ARG - Canal 26 (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157594
+#EXTINF:0,ARG - Canal 26 (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157568
+#EXTINF:0,ARG - Canal 9 (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157569
+#EXTINF:0,ARG - Canal de la Ciudad (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157570
+#EXTINF:0,ARG - Cinear (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157601
+#EXTINF:0,ARG - Ciudad Magazine (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157565
+#EXTINF:0,ARG - Cronica (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157598
+#EXTINF:0,ARG - Crónica TV (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157572
+#EXTINF:0,ARG - DEPORTV (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157596
+#EXTINF:0,ARG - Deportv (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157620
+#EXTINF:0,ARG - DeporTV (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157573
+#EXTINF:0,ARG - El Nueve (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157621
+#EXTINF:0,ARG - El Nueve (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157595
+#EXTINF:0,ARG - El Trece (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157615
+#EXTINF:0,ARG - El trece (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157591
+#EXTINF:0,ARG - ESPN (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157558
+#EXTINF:0,ARG - ESPN 2 (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157559
+#EXTINF:0,ARG - ESPN 3 (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157560
+#EXTINF:0,ARG - ESPN 4 (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157561
+#EXTINF:0,ARG - ESPN Premium (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157562
+#EXTINF:0,ARG - LN + (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157592
+#EXTINF:0,ARG - LN+ (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157593
+#EXTINF:0,ARG - LN+ (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157574
+#EXTINF:0,ARG - Metro (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157606
+#EXTINF:0,ARG - Multivision
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157618
+#EXTINF:0,ARG - Paka Paka (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157575
+#EXTINF:0,ARG - Telefe (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157590
+#EXTINF:0,ARG - Telefe (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157589
+#EXTINF:0,ARG - Telefe Noticias (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157617
+#EXTINF:0,ARG - Telesur (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157604
+#EXTINF:0,ARG - TN (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157577
+#EXTINF:0,ARG - TN Noticias (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157610
+#EXTINF:0,ARG - TNT Sports (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157585
+#EXTINF:0,ARG - TNT Sports (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157584
+#EXTINF:0,ARG - TV Publica (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157586
+#EXTINF:0,ARG - TV Publica (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157587
+#EXTINF:0,ARG - TV Pública (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157578
+#EXTINF:0,ARG - TV5 Monde (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157579
+#EXTINF:0,ARG - TyC Sports (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157583
+#EXTINF:0,ARG - TyC Sports (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157580
+#EXTINF:0,ARG - TyC Sports (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157614
+#EXTINF:0,ARG - Volver (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157581
+#EXTINF:0,CINE - A&E (L)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9614
+#EXTINF:0,CINE - A&E (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9615
+#EXTINF:0,CINE - A&E (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9616
+#EXTINF:0,CINE - A3 Cine INT (TV)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9617
+#EXTINF:0,CINE - A3 Series (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9618
+#EXTINF:0,CINE - AMC (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9619
+#EXTINF:0,CINE - AMC (M)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9702
+#EXTINF:0,CINE - AMC (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9620
+#EXTINF:0,CINE - AXN (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9623
+#EXTINF:0,CINE - AXN (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9624
+#EXTINF:0,CINE - AXN (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9625
+#EXTINF:0,CINE - Cine Latino (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9626
+#EXTINF:0,CINE - Cine Latino (Z)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9627
+#EXTINF:0,CINE - CineCanal (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9629
+#EXTINF:0,CINE - CineCanal (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9630
+#EXTINF:0,CINE - Cinecanal (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9631
+#EXTINF:0,CINE - Cinema Dinamita (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9632
+#EXTINF:0,CINE - Cinemax (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9633
+#EXTINF:0,CINE - Cinemax (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9635
+#EXTINF:0,CINE - Comedy Central (L)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9636
+#EXTINF:0,CINE - Comedy Central (M)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9637
+#EXTINF:0,CINE - De Pelicula (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9638
+#EXTINF:0,CINE - De Pelicula Plus (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9639
+#EXTINF:0,CINE - De Película (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9642
+#EXTINF:0,CINE - DHE (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9643
+#EXTINF:0,CINE - Distrito Comedia (L)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9644
+#EXTINF:0,CINE - Distrito Comedia (M)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9645
+#EXTINF:0,CINE - E! (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9646
+#EXTINF:0,CINE - El Gourmet (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9647
+#EXTINF:0,CINE - Europa Europa (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9648
+#EXTINF:0,CINE - Film & Arts (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9649
+#EXTINF:0,CINE - Film And Arts (M)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9650
+#EXTINF:0,CINE - Filmex (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9640
+#EXTINF:0,CINE - Filmex Clasico (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9641
+#EXTINF:0,CINE - Food Network (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9651
+#EXTINF:0,CINE - FX (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9652
+#EXTINF:0,CINE - FX (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9653
+#EXTINF:0,CINE - FX (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9654
+#EXTINF:0,CINE - FX MEX (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9655
+#EXTINF:0,CINE - Golden (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9657
+#EXTINF:0,CINE - Golden Edge (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9658
+#EXTINF:0,CINE - Golden Edge (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9659
+#EXTINF:0,CINE - Golden Plus (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9660
+#EXTINF:0,CINE - Golden Plus (M)(1080) [Dual Audio]
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9661
+#EXTINF:0,CINE - Golden Plus (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9662
+#EXTINF:0,CINE - Golden Premier 2 (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9663
+#EXTINF:0,CINE - Golden Premiere (M)(1080) [Dual Audio]
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9664
+#EXTINF:0,CINE - Golden Premiere 2 (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9665
+#EXTINF:0,CINE - HBO (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9666
+#EXTINF:0,CINE - HBO (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9667
+#EXTINF:0,CINE - HBO (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9668
+#EXTINF:0,CINE - HBO (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9670
+#EXTINF:0,CINE - HBO (TV)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9669
+#EXTINF:0,CINE - HBO 2 (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9671
+#EXTINF:0,CINE - HBO 2 (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9673
+#EXTINF:0,CINE - HBO 2 (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9674
+#EXTINF:0,CINE - HBO 2 (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9675
+#EXTINF:0,CINE - HBO Family (L)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9676
+#EXTINF:0,CINE - HBO Family (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9678
+#EXTINF:0,CINE - HBO Family (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9679
+#EXTINF:0,CINE - HBO Family (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9680
+#EXTINF:0,CINE - HBO Family. (TV)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9677
+#EXTINF:0,CINE - HBO Mundi (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9682
+#EXTINF:0,CINE - HBO Mundi (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9683
+#EXTINF:0,CINE - HBO Plus (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9685
+#EXTINF:0,CINE - HBO Plus (M)(SD) [Dual Audio]
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9686
+#EXTINF:0,CINE - HBO Plus (TV)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9687
+#EXTINF:0,CINE - HBO Plus (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9688
+#EXTINF:0,CINE - HBO POP (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9689
+#EXTINF:0,CINE - HBO POP (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9691
+#EXTINF:0,CINE - HBO POP. (TV)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9690
+#EXTINF:0,CINE - HBO Signature (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9692
+#EXTINF:0,CINE - HBO Signature (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9693
+#EXTINF:0,CINE - HBO Signature Dual Audio (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9695
+#EXTINF:0,CINE - HBO SUR (Z)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9696
+#EXTINF:0,CINE - HBO Xtream (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9697
+#EXTINF:0,CINE - HBO Xtreme (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9698
+#EXTINF:0,CINE - HBO Xtreme (TV)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9700
+#EXTINF:0,CINE - HBO Xtreme (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9701
+#EXTINF:0,CINE - HBO Xtreme Dual (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9779
+#EXTINF:0,CINE - HBO Xtreme. (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9699
+#EXTINF:0,CINE - HBO. 2 (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9672
+#EXTINF:0,CINE - Lifetime (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9703
+#EXTINF:0,CINE - Panico MEX (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9704
+#EXTINF:0,CINE - Paramount (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9705
+#EXTINF:0,CINE - Paramount Channel. (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9708
+#EXTINF:0,CINE - Showtime Extreme (Z)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9709
+#EXTINF:0,CINE - Showtime West Dual (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9710
+#EXTINF:0,CINE - Sony Channel (L)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9711
+#EXTINF:0,CINE - Sony Channel (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9712
+#EXTINF:0,CINE - Sony Cine (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9713
+#EXTINF:0,CINE - Sony Comedias (S)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9714
+#EXTINF:0,CINE - Sony Novelas (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9716
+#EXTINF:0,CINE - Space (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9717
+#EXTINF:0,CINE - Space (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9718
+#EXTINF:0,CINE - STAR Channel CO (M)(1080) [Dual Audio]
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9721
+#EXTINF:0,CINE - STAR Channel CO. (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9722
+#EXTINF:0,CINE - STAR Channel MX (L)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9723
+#EXTINF:0,CINE - Star Channel Norte (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9724
+#EXTINF:0,CINE - Star Channel Sur (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9725
+#EXTINF:0,CINE - Star TVE (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9726
+#EXTINF:0,CINE - Starz Comedy (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9728
+#EXTINF:0,CINE - Starz Encore Suspense (Z)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9730
+#EXTINF:0,CINE - Starz Family (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9731
+#EXTINF:0,CINE - Studio Universal (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9732
+#EXTINF:0,CINE - Syfy (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9735
+#EXTINF:0,CINE - TBS (Z)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9738
+#EXTINF:0,CINE - TBS Very Funny (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9739
+#EXTINF:0,CINE - TCM (M)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9740
+#EXTINF:0,CINE - TCM (Z)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9741
+#EXTINF:0,CINE - TNT (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9742
+#EXTINF:0,CINE - TNT (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9743
+#EXTINF:0,CINE - TNT (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9744
+#EXTINF:0,CINE - TNT (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9745
+#EXTINF:0,CINE - TNT Novelas  (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9747
+#EXTINF:0,CINE - TNT Novelas (M)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9737
+#EXTINF:0,CINE - TNT Series (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9748
+#EXTINF:0,CINE - TNT Series (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9749
+#EXTINF:0,CINE - TNT Series (Z)(720).
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9751
+#EXTINF:0,CINE - Universal Channel (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9753
+#EXTINF:0,CINE - Universal Channel (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9755
+#EXTINF:0,CINE - Universal Cinema (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9756
+#EXTINF:0,CINE - Universal Cinema (M)(1080) [Dual Audio]
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9757
+#EXTINF:0,CINE - Universal Comedy (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9759
+#EXTINF:0,CINE - Universal Crime (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9761
+#EXTINF:0,CINE - Universal Crime (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9762
+#EXTINF:0,CINE - Universal Crime (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9763
+#EXTINF:0,CINE - Universal Crime (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9764
+#EXTINF:0,CINE - Universal Premier (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9765
+#EXTINF:0,CINE - Universal Premier (M)(1080) [Dual Audio]
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9766
+#EXTINF:0,CINE - Universal Premier (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9767
+#EXTINF:0,CINE - Universal Premiere Norte (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9768
+#EXTINF:0,CINE - Universal Reality (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9770
+#EXTINF:0,CINE - Universal Reality (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9771
+#EXTINF:0,CINE - Universal Reality (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9772
+#EXTINF:0,CINE - Universal Reality (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9773
+#EXTINF:0,CINE - Warner Channel (L)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9774
+#EXTINF:0,CINE - Warner Channel (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9776
+#EXTINF:0,CINE - Warner Channel Dual Audio (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9775
 #EXTINF:-1 group-title="-",26TV
 http://138.121.114.91:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="-",A&E HD
@@ -2192,6 +2780,7 @@ https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://pl
 #KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 
 
