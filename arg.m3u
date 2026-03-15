@@ -851,7 +851,460 @@ http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/RedBull&token=tecn
 http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/musictop&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9ktBUrY.png" group-title="MUSICA",RETRO TV
 http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/retro&token=tecnotokenplustv230516F&f=.m3u8
-
+#EXTINF:-1,CINE | A&E HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/435979.ts
+#EXTINF:-1,CINE | A&E SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/435982.ts
+#EXTINF:-1,CINE | STAR CHANEL HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/436007.ts
+#EXTINF:-1,CINE | STAR CHANEL SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/436010.ts
+#EXTINF:-1,CINE | CINEMAX HD 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/435991.ts
+#EXTINF:-1,CINE | CINEMAX SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/435994.ts
+#EXTINF:-1,CINE | CINECANAL  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1251.ts
+#EXTINF:-1,CINE | CINECANAL  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1252.ts
+#EXTINF:-1,CINE | AXN  FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1254.ts
+#EXTINF:-1,CINE | AXN  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1255.ts
+#EXTINF:-1,CINE | AXN  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1257.ts
+#EXTINF:-1,CINE  | TNT SERIES  FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1247.ts
+#EXTINF:-1,CINE | TNT SERIES  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1248.ts
+#EXTINF:-1,CINE  | TⓝT  FHD 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1244.ts
+#EXTINF:-1,CINE  | TÑT  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1245.ts
+#EXTINF:-1,CINE  | TNT  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1246.ts
+#EXTINF:-1,CINE |  TNT SERIES  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1250.ts
+#EXTINF:-1,CINE | HBO  FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/54.ts
+#EXTINF:-1,CINE | HBO  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/55.ts
+#EXTINF:-1,CINE  | HBO  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1240.ts
+#EXTINF:-1,CINE | HBO 2 HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/435985.ts
+#EXTINF:-1,CINE | HBO 2 SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/435988.ts
+#EXTINF:-1,CINE  | HBO FAMILY FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/51.ts
+#EXTINF:-1,CINE | HBO FAMILY  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/52.ts
+#EXTINF:-1,CINE | HBO FAMILY  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53.ts
+#EXTINF:-1,CINE  | HBO PLUS  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/49.ts
+#EXTINF:-1,CINE  | HBO PLUS  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/50.ts
+#EXTINF:-1,CINE  | HBO XTREME HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/47.ts
+#EXTINF:-1,CINE | HBO XTREME SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/48.ts
+#EXTINF:-1,CINE | HBO SIGNATURE  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/46.ts
+#EXTINF:-1,CINE  | HBO POP  FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1242.ts
+#EXTINF:-1,CINE  | HBO .POP  HD 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1243.ts
+#EXTINF:-1,CINE | HBO MUNDl FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53937.ts
+#EXTINF:-1,CINE | HBO MUNDI HD 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53939.ts
+#EXTINF:-1,CINE l C∆N∆L CINE PREMlUM HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53938.ts
+#EXTINF:-1,CINE | SPACE CHANEL  FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1280.ts
+#EXTINF:-1,CINE | SPACE CHANEL  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1281.ts
+#EXTINF:-1,CINE | SPACE CHANEL  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1282.ts
+#EXTINF:-1,CINE | FX  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1275.ts
+#EXTINF:-1,CINE | FX  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1276.ts
+#EXTINF:-1,CINE | TCM  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1266.ts
+#EXTINF:-1,CINE |  TCM  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1267.ts
+#EXTINF:-1,CINE | CINE LATINO
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/100681.ts
+#EXTINF:-1,CINE GOLDEN PLUS FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53940.ts
+#EXTINF:-1,CINE | GOLDEN PLUS HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53941.ts
+#EXTINF:-1,CINE | GOLDEN PLUS SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53942.ts
+#EXTINF:-1,CINE | GOLDEN PREMIER  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1293.ts
+#EXTINF:-1,CINE | GOLDEN PREMIER  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1294.ts
+#EXTINF:-1,CINE | WARNER  FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1258.ts
+#EXTINF:-1,CINE | WARNER  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1259.ts
+#EXTINF:-1,CINE | WARNER  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1260.ts
+#EXTINF:-1,CINE | SONY M0VIES FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1261.ts
+#EXTINF:-1,CINE | SONY  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1263.ts
+#EXTINF:-1,CINE | SONY  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1264.ts
+#EXTINF:-1,CINE | GOLDEN  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1287.ts
+#EXTINF:-1,CINE | GOLDEN  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1288.ts
+#EXTINF:-1,CINE | GOLDEN EDG  HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1290.ts
+#EXTINF:-1,CINE | GOLDEN EDG  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1291.ts
+#EXTINF:-1,P | UNIVERSAL CINEMA HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111421.ts
+#EXTINF:-1,P | UNIVERSAL CRIMEN HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111422.ts
+#EXTINF:-1,P | UNIVERSAL COMEDY HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111417.ts
+#EXTINF:-1,P | UNIVERSAL PREMIER HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111419.ts
+#EXTINF:-1,P | UNIVERSAL REALITY HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111420.ts
+#EXTINF:-1,CINE | UNIVERSAL CHANEL FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1269.ts
+#EXTINF:-1,CINE | UNIVERSAL CHANEL  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1270.ts
+#EXTINF:-1,CINE | UNIVERSAL STUDIO FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1268.ts
+#EXTINF:-1,CINE | AMC  SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1285.ts
+#EXTINF:-1,CINE | AMC HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/1284.ts
+#EXTINF:-1,ClNE | AMC SERIES 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/376321.ts
+#EXTINF:-1,EUROPA EUROPA
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/317522.ts
+#EXTINF:-1,ClNE l °US∆ SERIES 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/346686.ts
+#EXTINF:-1,ClNE l DHE cine  HD 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/400290.ts
+#EXTINF:-1,Discovery Channel HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53457.ts
+#EXTINF:-1,Discovery Channel SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53458.ts
+#EXTINF:-1,DISCOVERY Science HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53464.ts
+#EXTINF:-1,DISCOVERY Turbo HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53467.ts
+#EXTINF:-1,DISCOVERY Turbo SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53468.ts
+#EXTINF:-1,DISCOVERY World SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53470.ts
+#EXTINF:-1,Discovery Investigation sd
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53463.ts
+#EXTINF:-1,Discovery Investigation HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53462.ts
+#EXTINF:-1,DISCOVERY Theater HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53465.ts
+#EXTINF:-1,DISCOVERY Theater sd
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53466.ts
+#EXTINF:-1,FOOD NETWORK 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/227677.ts
+#EXTINF:-1,EL GOURMET
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53474.ts
+#EXTINF:-1,HOLA! TV
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/126560.ts
+#EXTINF:-1,LIFETIME HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/128338.ts
+#EXTINF:-1,E! Entretainment FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/122959.ts
+#EXTINF:-1,E! Entretainment HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/126151.ts
+#EXTINF:-1,NATGEO HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53489.ts
+#EXTINF:-1,NATGEO HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53491.ts
+#EXTINF:-1,HISTORY SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53482.ts
+#EXTINF:-1,HISTORY HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53481.ts
+#EXTINF:-1,ANIMAL Planet HD.
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/54172.ts
+#EXTINF:-1,ANIMAL PLANET SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/114382.ts
+#EXTINF:-1,History 2 SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53488.ts
+#EXTINF:-1,History 2 HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53483.ts
+#EXTINF:-1,DISCOVERY World HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53469.ts
+#EXTINF:-1,CGTN ESPANOL HD 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/435858.ts
+#EXTINF:-1,TLC SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/126559.ts
+#EXTINF:-1,NATGEO FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/53492.ts
+#EXTINF:-1,AR | AMERIC∆ SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81275.ts
+#EXTINF:-1,AR | AMERICA TV HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81276.ts
+#EXTINF:-1,AR | AMERICA FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81283.ts
+#EXTINF:-1,AR | EL NUEVE SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81272.ts
+#EXTINF:-1,AR | EL NUEVE HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81271.ts
+#EXTINF:-1,AR | EL NUEVE FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81270.ts
+#EXTINF:-1,AR | TELEFE HD ¹
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81285.ts
+#EXTINF:-1,AR | TELEFE HD ²
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/50510.ts
+#EXTINF:-1,AR | TELEFE FHD 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/50521.ts
+#EXTINF:-1,AR | CANAL 13 FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81268.ts
+#EXTINF:-1,AR-| ARGENTINISIMA HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81318.ts
+#EXTINF:-1,AR-| ARGENTINISIMA SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81319.ts
+#EXTINF:-1,AR | C5N FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81273.ts
+#EXTINF:-1,AR | Telemax sd
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81288.ts
+#EXTINF:-1,AR-| EL GARAGE TV HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81322.ts
+#EXTINF:-1,AR | NOTICIAS TN SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81325.ts
+#EXTINF:-1,AR | CRONICA HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81300.ts
+#EXTINF:-1,AR | CANAL 13 SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81266.ts
+#EXTINF:-1,AR | CANAL 13 HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81269.ts
+#EXTINF:-1,AR | TV PUBLICA HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81265.ts
+#EXTINF:-1,AR l VOLVER HD 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/140128.ts
+#EXTINF:-1,AR l VOLVER HD opc  ²
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/421649.ts
+#EXTINF:-1,AR-| LN+
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81323.ts
+#EXTINF:-1,ARG: Canal lNFANTIL 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/144337.ts
+#EXTINF:-1,AR | Telemax HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81287.ts
+#EXTINF:-1,AR | NOTICIAS TN HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81324.ts
+#EXTINF:-1,AR I| PAKAPAKA HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/352333.ts
+#EXTINF:-1,AR | TV PUBLICA FHD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81264.ts
+#EXTINF:-1,AR | A24 SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81290.ts
+#EXTINF:-1,AR | A24 HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81289.ts
+#EXTINF:-1,AR | C5N HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81274.ts
+#EXTINF:-1,AR-| CINE AR SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81321.ts
+#EXTINF:-1,AR-| CINE AR HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81320.ts
+#EXTINF:-1,AR-| CANAL 26 NOTICIAS SD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81317.ts
+#EXTINF:-1,AR | CANAL 26 NOTICIAS HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/81310.ts
+#EXTINF:-1,AR | CIUDAD MAGAZINE HD 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/86689.ts
+#EXTINF:-1,ARG: TV Universidad Nacional de La Plata
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/144336.ts
+#EXTINF:-1,AR |*F∆SHl0N TV 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/305969.ts
+#EXTINF:-1,AR | NET TV 
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/305968.ts
+#EXTINF:-1,HBO | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111737.ts
+#EXTINF:-1,HBO2 | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111736.ts
+#EXTINF:-1,HBO MUNDI | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111738.ts
+#EXTINF:-1,HBO+ | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111739.ts
+#EXTINF:-1,HBO POP | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111740.ts
+#EXTINF:-1,HBO SIGNATURE | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111741.ts
+#EXTINF:-1,STUDIO UNIVERSAL | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111764.ts
+#EXTINF:-1,TNT | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111772.ts
+#EXTINF:-1,TÑT SÉRIES | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111773.ts
+#EXTINF:-1,UNIVERSAL CHANNEL | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111778.ts
+#EXTINF:-1,WARNER | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111780.ts
+#EXTINF:-1,AMC | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111688.ts
+#EXTINF:-1,AXN | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111690.ts
+#EXTINF:-1,CINEMAX | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111696.ts
+#EXTINF:-1,PARAMOUNT CHANNEL | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111754.ts
+#EXTINF:-1,SONY | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111759.ts
+#EXTINF:-1,SPACE | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111760.ts
+#EXTINF:-1,A&E | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111687.ts
+#EXTINF:-1,STAR CHANNEL | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111718.ts
+#EXTINF:-1,TELECINE FUN | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111768.ts
+#EXTINF:-1,TELECINE ACTION | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111766.ts
+#EXTINF:-1,TELECINE CULT | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111767.ts
+#EXTINF:-1,TELECINE PIPOCA | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111769.ts
+#EXTINF:-1,TELECINE PREMIUM | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111770.ts
+#EXTINF:-1,TELECINE TOUCH | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111771.ts
+#EXTINF:-1,SPORTV | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111761.ts
+#EXTINF:-1,SPORTV2 | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111762.ts
+#EXTINF:-1,SPORTV3 | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111763.ts
+#EXTINF:-1,BAND SP | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111692.ts
+#EXTINF:-1,COMBATE | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111698.ts
+#EXTINF:-1,E$PN2 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111712.ts
+#EXTINF:-1,ESPⓝ3 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111713.ts
+#EXTINF:-1,FISH TV | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111716.ts
+#EXTINF:-1,RECORD SP | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111757.ts
+#EXTINF:-1,GLOBO NEWS | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111726.ts
+#EXTINF:-1,GLOBO RJ | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111729.ts
+#EXTINF:-1,GLOBO SP | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111730.ts
+#EXTINF:-1,GLOBO TRIBUNA SANTOS | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111731.ts
+#EXTINF:-1,GLOBO | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111733.ts
+#EXTINF:-1,Religi
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/138493.ts
+#EXTINF:-1,Noticia
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/138492.ts
+#EXTINF:-1,BAND NEWS | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111788.ts
+#EXTINF:-1,MAIS NA TELA | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111732.ts
+#EXTINF:-1,NATGEO WILD | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111750.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111751.ts
+#EXTINF:-1,ANIMAL PLANET | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111689.ts
+#EXTINF:-1,COMEDY CENTRAL | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111699.ts
+#EXTINF:-1,DISCOVERY CHANNEL | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111700.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111701.ts
+#EXTINF:-1,DISCOVERY SCIENCE | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111703.ts
+#EXTINF:-1,DISCOVERY THEATER | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111704.ts
+#EXTINF:-1,DISCOVERY TLC | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111705.ts
+#EXTINF:-1,DISCOVERY TURBO | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111706.ts
+#EXTINF:-1,HISTORY2 | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111735.ts
+#EXTINF:-1,HISTORY CHANNEL | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111743.ts
+#EXTINF:-1,DISCOVERY ID - INVESTIGAÇÃO | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111744.ts
+#EXTINF:-1,REDE TV | 4k
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/111758.ts
+#EXTINF:-1,TELENOVELAS HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/360898.ts
+#EXTINF:-1,TLNOVELAS HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/360896.ts
+#EXTINF:-1,TL NOVELAS HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/360905.ts
+#EXTINF:-1,TELENOVELAS HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/93368.ts
+#EXTINF:-1,RCN TELENOVELAS HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/360902.ts
+#EXTINF:-1,RCN NOVELAS HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/100288.ts
+#EXTINF:-1,TNT NOVELAS
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/360894.ts
+#EXTINF:-1,TNT NOVELAS HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/99829.ts
+#EXTINF:-1,TNT NOVELAS HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/360893.ts
+#EXTINF:-1,KANAL D Drama HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/360895.ts
+#EXTINF:-1,KANAL D Novelas HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/360897.ts
+#EXTINF:-1,PASIONES HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/360891.ts
+#EXTINF:-1,PASIONES HD.
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/360892.ts
+#EXTINF:-1,Telenovelas Unv* HD
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/360903.ts
+#EXTINF:-1,⭐*GR∆N HE®M∆N0 ∆RGĘNTlN∆ en prueba!! ☀️⭐
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/453157.ts
+#EXTINF:-1,☀️ºL∆ ©∆S∆ D€ L0S F∆M0S0S ©0L ²
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/451801.ts
+#EXTINF:-1,☀️L∆ ©∆S∆ D€ L0S F∆M0S0S ©0L ³
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/451804.ts
+#EXTINF:-1,⭐ºL∆ Ç∆S∆ D€ L0S ºF∆M0S0$ ©0L B∆Ñ0
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/451807.ts
+#EXTINF:-1,⭐☀️©∆S∆ D€ ºF∆M0S0S C0L (⁴
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/451836.ts
+#EXTINF:-1,⭐'L∆ ©∆S∆ D€ *F∆M0S0$ US∆ VIP( ¹)
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/376382.ts
+#EXTINF:-1,⚡*L∆ C∆S∆ D€ *F∆M0S0S US∆ VlP ²
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/376351.ts
+#EXTINF:-1,⭐ºL∆ '©∆S∆ D€  ºF∆M0S0$ ©0L (¹
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/376350.ts
+#EXTINF:-1,AGRO TV
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/317490.ts
+#EXTINF:-1,AMC
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/317491.ts
+#EXTINF:-1,AMERICA TV
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/317492.ts
+#EXTINF:-1,ANTENA 1
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/317493.ts
+#EXTINF:-1,ANTENA 3
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/317494.ts
+#EXTINF:-1,ARUSSA TV
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/317495.ts
+#EXTINF:-1,ATV SUR
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/317496.ts
+#EXTINF:-1,AXN
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/317497.ts
+#EXTINF:-1,CINEMA INOLVIDABLE
+http://somoseluno.blog:80//live/3g7bjc8h8b/878963464/317498.ts
 
 
 
