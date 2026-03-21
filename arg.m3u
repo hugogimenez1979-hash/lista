@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Undefined",Canal 7 Jujuy (720p)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="Undefined",Multivisión Federal (720p) [Not 24/7]
-https://panel.host-live.com:19360/8250/8250.m3u8
+http://194.76.0.229:8080/renzoq/fc4a920f7318/157618
 #EXTINF:-1 tvg-id="https://www.unifetv.com/" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="Undefined", unifetv (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTINF:0,NOV-Pasiones (M)(1080)
