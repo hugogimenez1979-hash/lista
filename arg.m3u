@@ -2265,54 +2265,6 @@ http://vipambataousam.top:8080/VIP013201751290218503/adb698998b73/4827
 http://vipambataousam.top:8080/VIP013201751290218503/adb698998b73/4828
 #EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz, https://www.open-epg.com/files/argentina4.xml.gz https://www.open-epg.com/files/uruguay2.xml.gz, https://www.open-epg.com/files/paraguay2.xml.gz https://www.open-epg.com/files/mexico2.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://tvit.leicaflorianrobert.dev/epg/list.xml.gz,https://www.open-epg.com/files/italy2.xml.gz,https://www.open-epg.com/files/spain1.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/peru2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz"
 
-#EXTINF:-1  tvg-id="C5N.ar.uy" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" tvg-group="Noticias", C5N
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  tvg-id="C5N.ar.uy" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" tvg-group="Noticias", C5N
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---A24.png" group-title="Noticias",A24
-https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
-
-#EXTINF:-1  tvg-id="Canal26.ar.uy" tvg-name="CAN26" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" tvg-group="Noticias", Canal 26
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  tvg-id="Canal26.ar.uy" tvg-name="CAN26" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" tvg-group="Noticias", Canal 26 op2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://tv.proyectox.vip:8080/medinamario1/xdMvFWAM5j/84850
-
-#EXTINF:-1  tvg-id="CronicaTV.ar.uy" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" tvg-group="Noticias", Cronica
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICRONIC.png" group-title="CD Cd Aut Bs As",Cronica - 24.4TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
-
-#EXTINF:-1  tvg-id="LaNacionPlus.ar.uy" tvg-name="LNAC+" tvg-logo="https://git.io/J35ry" tvg-group="Noticias", La Nación +
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="Noticias", TN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 #EXTINF:-1  tvg-id="TVPublica.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="Nacionales", TV Pública op2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
@@ -2349,730 +2301,517 @@ http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 http://181.13.252.102:8000/play/a055/index.m3u8
 
-#EXTINF:-1  tvg-id="NETTV.ar" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" tvg-group="Nacionales", Net TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3db691c7e4520b7b2dc822ab905545a:ee2a1ebe6fcc2ef3b01943cdd9256cc6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  tvg-id="BravoTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BRAVO.png?raw=true" group-title="Nacionales", Bravo TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  tvg-id="CiudadMagazine.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" group-title="Nacionales", Ciudad Magazine
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-
-#EXTINF:-1   tvg-id="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="Nacionales", Volver
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a7ecf0c34695dd4e253574b0b85441e:e6518e0b5dfa5e0dc268a5b16106811b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  tvg-id="CineAr.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/INCAA.png?raw=true" group-title="Variedades", Cine.AR
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  tvg-id="Encuentro.ar.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CENC.png?raw=true" group-title="Culturales", Encuentro
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e6bc6cd9b600238f89d75ffb02cb852:f102949aa16d1a741d0fa30dc60f9cbd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://1tv41.icu:8080/8KhP0W/558074/164878
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LU82.png" group-title="BA Buenos Aires",LU82 Canal 10 - 27.1TV - Mar del Plata TV - BA Buenos Aires
-https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0176
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI486.png" group-title="BA Buenos Aires",LRI486 Mi8 Canal 8 - 35.1TV - Mar del Plata TV - BA Buenos Aires
-https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0177
-
-#EXTINF:-1 ch-number="100"  ch-number="100" tvg-id="DeporTV.ar" tvg-logo="https://git.io/JOTOg" group-title="Deportes", DeporTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="124" ch-number="124" tvg-id="TNT SPORTS PREMIUM HD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL", TNT Sports Premium
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://181.13.252.102:8000/play/a0bc/index.m3u8
-
-#EXTINF:-1 ch-number="124" ch-number="124" tvg-id="TNT SPORTS PREMIUM HD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL", TNT Sports Premium op2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="123" tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes", ESPN Premium
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://181.13.252.102:8000/play/a078/index.m3u8
-
-#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://181.13.252.102:8000/play/a05a/index.m3u8
-
-#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="Deportes", ESPN 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://181.13.252.102:8000/play/a059/index.m3u8
-
-#EXTINF:-1 ch-number="103" tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="Deportes", ESPN 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://181.13.252.102:8000/play/a05b/index.m3u8
-
-#EXTINF:-1 ch-number="104" tvg-id="ESPN 4 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="Deportes", ESPN 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://181.13.252.102:8000/play/a076/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.postimg.cc/v8rFtMbz/espn.png" group-title="Deportes", ESPN 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.postimg.cc/mksxWpNC/espn2-logo-white.png" group-title="Deportes", ESPN 2 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" group-title="Deportes" tvg-logo="https://i.postimg.cc/1t6xT16y/ESPN3.png" ,ESPN 3 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 4 HD.uy" group-title="Deportes" tvg-logo="https://i.postimg.cc/BvR9Mnjh/ESPN_Extra_new.png" ,ESPN 4 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://i.postimg.cc/pdJDJ3xS/espn5.png" group-title="Deportes", ESPN 5 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-logo="https://i.postimg.cc/DfL7phRm/espn6.png" group-title="Deportes", ESPN 6 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="https://i.postimg.cc/gJ0GB6FW/espn7.png" group-title="Tv", ESPN 7 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 ch-number="108" ch-number="108" tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes", TyC Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://181.13.252.102:8000/play/a02s/index.m3u8
-
-#EXTINF:-1 ch-number="111" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="Deportes", FOX Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://181.13.252.102:8000/play/a07j/index.m3u8
-
-#EXTINF:-1  ch-number="112" tvg-id="FoxSports2.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP2.png?raw=true" group-title="Deportes", FOX Sports 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ec1c5620f5c1553d3238988714e71b2:b8917b12e851dfc7bb8a3b832348b3be
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://181.13.252.102:8000/play/a05c/index.m3u8
-
-#EXTINF:-1  ch-number="113" tvg-id="FoxSports3Panregional.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="Deportes", FOX Sports 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7f87e51c56a87a59cab7ec98fd062db:c3f0d7d067e385900a0e6d4c8e406a68
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-http://181.13.252.102:8000/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Deportes",DIRECTV SPORTS
-http://tv.diablotv.net:8080/nolo2024/cB5NN9frjf/9560
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="Deportes",DIRECTV SPORTS 2 ARG
-http://tv.diablotv.net:8080/nolo2024/cB5NN9frjf/9566
-
-#EXTINF:-1 ch-number="200" tvg-id="Baby TV.uy" tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png" group-title="Infantiles y Familiares", Baby TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5cf6da7262ddb74c2f370ded6056f46c:78109125565ab1747f511f7e77e3bbaf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="201" tvg-id="CanalInfantil" tvg-logo="https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1", Canal Infantil
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="202" tvg-id="CartoonNetwork.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CTOON.png?raw=true" group-title="Infantiles y Familiares", Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7efe63bbf682a4124fb34c01eb7a0a7:48667511b8668df96fa3abaa623e4f69
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="203" tvg-id="CartoonitoLatinAmerica.us.uy" tvg-logo="https://static.flow.com.ar/images/266/CH_LOGO/350/500/0/0/3115537507174.png" group-title="Infantiles y Familiares", Cartoonito
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf15d5a0f9329f815779d4a7dd760fbc:cd00a8a3f6a167954d4f678fab2323da
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="204" tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://git.io/JOTL6" group-title="Infantiles y Familiares", Discovery Kids
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d8b3220ac30e5c8148d4bcc225efa5a:eb6918dfe117fc405396a9c3986a0450
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="205" tvg-id="Disney Channel HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSNEY.png?raw=true" group-title="Infantiles y Familiares", Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d91b14935a3599f02e5dab71ef21dc:803e9152e9daf717b772399a97802076
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="206" tvg-id="Disney JR HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSNJR.png?raw=true" group-title="Infantiles y Familiares", Disney Junior
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=18654944953b25a8b6392722a83db653:40bf6a9f05bbf0e06715ed5707f0edd2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="209" tvg-id="Nickelodeon.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NICKL.png?raw=true" group-title="Infantiles y Familiares", Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4632100135488925c1d7e9895a26b99:1da478f687b850c61c9af61985d97c17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="210" tvg-id="Nick Jr..uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="Infantiles y Familiares", Nick JR.
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=040efb4ac8008085d09c17db602b24fa:1940b88114de13d460cb196326e638a7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="214" tvg-id="Pakapaka.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PAKAP.png?raw=true" group-title="Infantiles y Familiares", Paka Paka
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="211" tvg-id="PLIM PLIM TV" tvg-logo="https://i.ibb.co/HgqtG9q/plim-plim.png" group-title="Infantiles y Familiares", PLIM PLIM TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a47bfb9e246f3b8405c1225fae73da9e:a4865fb8742b4541f64ac37370e902a6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/PlimPlim/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="212" tvg-id="Tooncast.us.uy'  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TCAST.png?raw=true" group-title="Infantiles y Familiares", Tooncast
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="213" tvg-id="ZooMoo.sg" tvg-logo="https://www.dropbox.com/scl/fi/kon8vexrj1s65pctcbjis/zoomoo.webp?rlkey=a5xyd3h3lc5l4rgh12ynevgww&dl=1", Zoo Mo
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=070660c4a07ab644fba62dab07306d43:6786eb56337a318fce0b7f9cccf96478
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="300" tvg-id="Adult Swim.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="Variedades", [adult swim]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=476ae5b67b7ad297ac643386d2daa229:0ef75009de12efe833dafa97aa30272c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="301" tvg-id="AandE HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true" group-title="Variedades", A&E 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=736bef197ba5c73203add79c8e8d279a:7f037dc5835305f22a7206d79d4d5db2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1   ch-number="302" tvg-id="AMC HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAAMC.png?raw=true" group-title="Variedades", AMC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=68fc78cb6fe580c35d269da87a471eb0:2bd623220a247d95d6900cea612769df
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="303" tvg-id="AXN HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" group-title="Variedades", AXN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=828c473cb192caaba8e1d9fc63da4d75:cb600861e9822efeea5d2dbd0c157c45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="306" tvg-id="Cinecanal HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CINEC.png?raw=true" group-title="Variedades", Cinecanal
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=acea34a4dadf7896a0280b08496d49d5:6eb61a3bf3411c64f89b594e57d487c6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="307" tvg-id="CineFamiliar" tvg-logo="https://dl.dropbox.com/scl/fi/gm3q3q2b642htogo7rer6/cinefamiliar.jpg?rlkey=kxz5r5o947slc63z7owrhrm70&dl=1", Cine Familiar
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="308" tvg-id="CineHispano" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1", Cine Hispano
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3cb7320815d01cb41fdb0e9d5bd2915:7c89266b0cc60fa3419474fc96c18927
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="309" tvg-id="Cinemax HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" group-title="Variedades", Cinemax
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="310" tvg-id="CinePremium" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1", Cine Premium
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="311" tvg-id="ComedyCentralSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CCENT.png?raw=true" group-title="Variedades", Comedy Central
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eed9a193b3c6167b823030d788d771a4:d21daeba7e513d9f3ba714deeddd0630
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="312" tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://dl.dropbox.com/scl/fi/mpiciqqwxiy5z7u0opv9z/depelicula.jpg?rlkey=219iltoyf7si8dgco7g5vv6g7&dl=1", De película
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=639e9249b63b731e7621953d27aa5393:ce09cb3f4bcad5c1febe10893b6ba491
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="313" tvg-id="DHE.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="Variedades", DHE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5453180074c0a8ecfe2a21e0cd5f2c1b:1150fd93492ba8609fb94d0a3087b3a5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="314" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EUROC.png?raw=true" group-title="Variedades", Eurochannel
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf1324eab263b72f5d8373a9678e6774:1375cd3390772b03b5136dce1641ba84
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1, ch-number="315" tvg-id="EuropaEuropa.ar.uy" tvg-name="EUROPA EUROPA" audio-track="1" tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png", Europa Europa
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=01c6295e3fc98352427941dc1015605a:bac9c97340df0b813a9f08c54880feb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="316" tvg-id="FX HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CANFX.png?raw=true" group-title="Variedades", FX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="317" tvg-id="GoldenPanregional.mx" tvg-logo="https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png", Golden
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="318" tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GEDGE.png?raw=true" group-title="Variedades", Golden Edge
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="319" tvg-id="HBO HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="HBO Pack", HBO 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dead023f7a81634339ae639990c1517a:ba970222b4466c61d0deccc67ab34452
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="320" tvg-id="HBO 2 HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true" group-title="HBO Pack", HBO 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f962b76c3693dafee011746344b5e823:1ac863f1633dfc2d3db069f3dd9a8145
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="321" tvg-id="HBO Plus HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png?raw=true" group-title="HBO Pack", HBO Plus
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="322" tvg-id="HBOFamilyLatinAmerica.us.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="HBO Pack", HBO Family
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="323" tvg-id="HBOMundiLatinAmerica.us.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true" group-title="HBO Pack", HBO Mundi
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bea5da44f49a7e30d21a6e0a2fddc225:0185b209bf50e2a1b1cfd416db5177de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="324" tvg-id="HBO POP HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true" group-title="HBO Pack", HBO Pop
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5cf1ad9c7bc0a20051535aff63a5c04:019ea0de590a01385f50ae3fe090d19e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="325" tvg-id="HBOSignatureHDLatinAmerica.us.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOSG.png?raw=true" group-title="HBO Pack", HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf48ba89e03b41e52882a7e155facd9c:50103d8a819d4faed4e44dc6cd908066
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="326" tvg-id="HBOXtremeLatinAmerica.us.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOXT.png?raw=true" group-title="HBO Pack", HBO Xtreme
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33d4823ed2cae55c19fa0a7c20fa4235:a64c4d55edb20046802e76332c8aa75e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="327" tvg-id="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1803/CH_LOGO/165/165/0/0/91513859074694.png", Kanal D Drama
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9cab32316b3d8aae0452755cebdaadd:35e61869849168043a44045f2d7ff842
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="328" tvg-id="MorbidoTV" tvg-logo="https://dl.dropbox.com/scl/fi/6un36x6dt7errr3wvlqj5/morbido.jpg?rlkey=w7ljs0524jwwh7do59ayla4py&dl=1", Mórbido tv
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a48e923df0b1783bfa0e82a3c51fc20:122676906256fb0154d841936909c57b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Morbido/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="329" tvg-id="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png", Novelísima
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4400f758ddbddc81b7ef9a2b32251625:aa2448ebc63a5034b9b8e6e8d15f770d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="330" tvg-id="Paramount HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PRMT.png?raw=true" group-title="Variedades", Paramount Network
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=89a868599af0fa0368a547da1611201e:d7be949b296decca8d6a2d535c057dc6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="332" tvg-id="Sony HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" group-title="Variedades", Sony Channel
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=258b455eee76d6406f87dd02ddc735d9:dd8aad74c79fe839cc142d0ff6694473
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="334" tvg-id="Space HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SPAC.png?raw=true" group-title="Variedades", Space
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="335" tvg-id="STAR Channel HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STARC.png?raw=true" group-title="Variedades", Star Channel
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=78396693b172158176c33c28f2e7c0b8:1e251112819a34ed691bc3881c64ea4d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1   ch-number="336" tvg-id="Studio Universal HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STUN.png?raw=true" group-title="Variedades", Studio Universal
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a07b220f8f142a0ef8662ffa0adee4f:e88846d040cd157b28ffda1d44a5cf89
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1   ch-number="337" tvg-id="TCM SD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TCMLA.png?raw=true" group-title="Variedades", TCM
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=18cfe27adad2e444dc0f50a3238a1740:a0e25f18be94d6eb1c9733111135c047
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="338" tvg-id="TlnovelasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png", TL Novelas
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="339" tvg-id="TNT HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTAR.png?raw=true" group-title="Variedades", TNT
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="340" tvg-id="TNT Novelas.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTNO.png?raw=true" group-title="Estilos de Vida", TNT Novelas
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a026fc3d443454cf1aae486b688ca9a:7665c2f6e791d44f047e5ffa927382aa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="341" tvg-id="TNT Series HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true" group-title="Variedades", TNT Series
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d15f2d2f8f81fbacd82391f5889aa3a:97c7a5029500a81d37f2b70d6276fc9a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="342" tvg-id="Universal HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNVTV.png?raw=true" group-title="Variedades", Universal TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="343" tvg-id="Universal Premiere.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="Universal+ Pack", Universal Premiere
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ca479ba8963f132c701eefaa0fb2b5a:bed235194da5e18108c12ef81b324a80
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="344" tvg-id="Universal Cinema.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="Universal+ Pack", Universal Cinema
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a65e77fb5f2838b2f97c778cc571ac2:bc1f28b1ec619ed7da22fc9a80d3a35d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="345" tvg-id="Universal Comedy.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="Universal+ Pack", Universal Comedy
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=94cdab8673fe231a8de57259eac5522b:1125d154649770cc122770531b8f8b30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="346" tvg-id="Universal Crime.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true" group-title="Universal+ Pack", Universal Crime
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ad1cfe8edbc35b5bab1a66a5ce298b3:25794ae1df1e9908d43a102481e7d311
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="347" tvg-id="Universal Reality.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIRE.png?raw=true" group-title="Universal+ Pack", Universal Reality
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfbcbe656b34884d8f8dcc57d2dc51f8:d3e2c03003b443ccedd30d6442fbdd40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="348" tvg-id="USA.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SYFY.png?raw=true" group-title="Variedades", USA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a1e766119c3fb03b095c8e7f0e63139:03932364e1ff6ab68cdc2c1969aee6a5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="349" tvg-id="Warner HD.uy" tvg-logo="https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png" group-title="Variedades", Warner
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="400" tvg-id="Animal Planet HD.uy" tvg-logo="https://static.flow.com.ar/images/643/CH_LOGO/1920/1080/0/0/72827036071623.png" group-title="Culturales", Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dbea5682978c5593d7f9f32ba3fbd000:992754095f050d53163c059ff4e81571
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="401" tvg-id="Discovery HD.uy" tvg-logo="https://static.flow.com.ar/images/271/CH_LOGO/350/500/0/0/48950714073066.png" group-title="Culturales", Discovery
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=74ec986b3388c62f5fa7c551e225d0b8:9327821de5eace5508cf573778c8c3c3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="402" tvg-id="HomeandHealthHD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSH&H.png?raw=true" group-title="Estilos de Vida", Discovery Home And Health
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="403" tvg-id="Investigation Discovery.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSID.png?raw=true" group-title="Culturales", Discovery ID
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f413ca6b4955bab7d89a3d24bbf8c98b:58168613434035ceb98e18815f97436c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="404" tvg-id="Discovery Science HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCNC.png?raw=true" group-title="Culturales", Discovery Science
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fcef63599e86bd9bd69644234020cd6:a82db4ee21e762bf6c734e71088511c0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="405" tvg-id="Discovery Theater HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DTHTR.png?raw=true" group-title="Culturales", Discovery Theather
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a753ba6e6b313f129bd6591364680f07:f3f8e1a7633b262ca37ae8c35f3cd1e2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="406" tvg-id="TLC HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSTLC.png?raw=true" group-title="Estilos de Vida", Discovery TLC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bed07c7fbbc6a3024baa8a44c052dd59:a632dead698156b3f2083076aa192b57
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="407" tvg-id="Discovery Turbo HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCTR.png?raw=true" group-title="Deportes", Discovery Turbo
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6902d50ec036d30146b12b927f4363d4:d40dc5eb6e0f8fbd58ab7dd6b91143b5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="408" tvg-id="Discovery World HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DWRLD.png?raw=true" group-title="Culturales", Discovery World
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b94901c6926870683c5baebc63496653:f04da24cd7eba6dfdd0d66ea2a2feb24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="409" tvg-id="E!.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ENTMN.png?raw=true" group-title="Estilos de Vida", E-Entertaiment
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0839729159fd400250f90532f41b65f3:992972a1b89982c359c4b4a5f8034eed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="410" tvg-id="El Gourmet HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRMT.png?raw=true" group-title="Estilos de Vida", El Gourmet
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0853b1d2af7d6ee5f7a8a571637ee6b7:f173ff83e8a50d7d0c363cde0c261dc6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="412" tvg-id="Food Network HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FDNET.png?raw=true" group-title="Estilos de Vida", Food Network
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="413" tvg-id="HGTV.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHGTV.png?raw=true" group-title="Religión", HGTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebc8294c36bb50fd4cc6cd89e34604bd:5d550080c8349e878fcd86821b91f74b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="414" tvg-id="History HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HSTRY.png?raw=true" group-title="Culturales", History
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3729d075c1a22d06bd6978c941ff0d13:c106c6d1dd58f4f14b6ebe6c8672fd0b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="415" tvg-id="History 2 HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HST2.png?raw=true" group-title="Culturales", History 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=454a4c570f8b662076ce4f1a931d3b06:2e7233e228d7d8a203e07e2b08584019
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="417" tvg-id="Lifetime.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LFTME.png?raw=true" group-title="Estilos de Vida", Lifetime
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f85d8282bb6fe2db8f34299d5742f02:28d49f409d718ecad8f82f477d3beb77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="418" tvg-id="Love Nature HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/32909050074718.png", Love Nature
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="419" tvg-id="Mas Chic.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MCHIC.png?raw=true" group-title="Estilos de Vida", Más Chic
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=36ae8a96a35562af4c5469cad84bfe68:24eb15ff1f525103aadfabd1908ce366
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/MasChic/live_dash_cld/MasChic.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="420" tvg-id="National Geographic HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NTGEO.png?raw=true" group-title="Culturales", National Geographic
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e44c7a4a62dc2bea573f5b21ea78342b:bf1996a534ea01086d0b8e284f0f4e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="421" tvg-id="SunChannel.ve.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SUNCH.png?raw=true" group-title="Culturales", Sun Channel
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ae7578729bde9d2f342090141103687:fb009bb37dd8fb98e2913f6b762b79e5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/SUN/live_dash_cld/SUN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53dcb05ef1f0bbd2093b0c2fe8e55a5e:d2fb9a4f8244a9af19893be032c43d3f
-#EXTINF:-1 ch-number="500" tvg-id="Allegro HD.uy" tvg-logo="https://i.ibb.co/ts85rN6/allegro.png", Allegro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Allegro/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="505" tvg-id="HTV.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HTVLA.png?raw=true" group-title="Música y Radios", HTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5061291f547143b40b8abedfdff59174:fb0a1787499cbc22c2ecaf1b43dd4da7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HTV/live_dash_cld/HTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="506" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/oyoz88f5hzgaua0nje1tp/mimusicaromantica.jpg?rlkey=a0qrjtsg6hxnxumqidg4nftzx&dl=1", Mi Música Romántica
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f1be10d0519e0c453105f01319fe407:9976d91bfcdc7dd2148d36af89027762
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="507" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/1yavhav8gktbcc4i9rwo9/mimusicareggaeton.jpg?rlkey=xshw7gl137ob57qqhee5f9xh3&dl=1", Mi Música Reggaetón
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d288fc2da0339c9cfa178be4a07c4cd2:c0e25b5d30b6829b15266e84807a0ca6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="508" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/3d937mfna3nsyxztl23cl/mimusicahits.jpg?rlkey=e4w2p44563gbkx4mx707ayiot&dl=1", Mi Música Hit
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2246c747e5f4e1dc055050d178618935:c6c2a6693bec059ebced788d09d271f3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="509" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/jqpghihetk0a1eg0vzetj/mimusicapop.jpg?rlkey=nsvi3mswdrf3bjhm28d5oqztq&dl=1", Mi Música Pop
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="510" tvg-id="MTV HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTVLA.png?raw=true" group-title="Música y Radios", MTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ade94a8e7881a2ba8b3ae3185ed5ad5d:350ba306783e66182b55b761d6cff6d1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/MTV/live_dash_cld/MTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="513" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/7h4u38ddthfv66yf5qvy4/mtvlive.jpg?rlkey=n5gfbgi7wnbkngnrs21iy18ck&dl=1", MTV Live
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=886601a4fdbcbfebacbabfebcb72a9ef:6513b2b8fda2b4d2f3d940c621e1c30e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1  ch-number="514" tvg-id="QuieroMusicaenmiIdioma.ar" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Música y Radios", Quiero Musica
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d62845f01d257a91fd73d62751828dc1:b600539e698a707de23e57d4cdb99d9a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="516" tvg-id="TeleHit.mx" tvg-logo="https://dl.dropbox.com/scl/fi/cnsdchbhpht3u6wibavfe/telehitmusica.jpg?rlkey=y3f4n42wtb7mw94jmg31r6j4e&dl=1", TeleHit Música Plus
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=930f2b33864637faf2b2dab6c8d0ba92:530e6561cc4197e9eab7bf7b6f35a3ed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
+#EXTINF:-1 tvg-id="" tvg-name="CINE | A&E HD" tvg-logo="http://imgfz.com/i/mR0lHE3.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | A&E HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/435979.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | A&E SD" tvg-logo="http://imgfz.com/i/fyhe0NT.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | A&E SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/435982.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANEL HD" tvg-logo="https://i.postimg.cc/63mygjwX/STAR-HD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | STAR CHANEL HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/436007.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANEL SD" tvg-logo="https://i.postimg.cc/k5MNdHr6/STAR-SD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | STAR CHANEL SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/436010.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX HD " tvg-logo="http://imgfz.com/i/T5rxYbe.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | CINEMAX HD 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/435991.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX SD" tvg-logo="http://imgfz.com/i/pSCqVg8.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | CINEMAX SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/435994.ts
+#EXTINF:-1 tvg-id="507" tvg-name="CINE | CINECANAL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | CINECANAL  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1251.ts
+#EXTINF:-1 tvg-id="507" tvg-name="CINE | CINECANAL  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | CINECANAL  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1252.ts
+#EXTINF:-1 tvg-id="209dtv.co" tvg-name="CINE | AXN  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | AXN  FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1254.ts
+#EXTINF:-1 tvg-id="209dtv.co" tvg-name="CINE | AXN  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | AXN  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1255.ts
+#EXTINF:-1 tvg-id="209dtv.co" tvg-name="CINE | AXN  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | AXN  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1257.ts
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="CINE  | TNT SERIES  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | TNT SERIES  FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1247.ts
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="CINE | TNT SERIES  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | TNT SERIES  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1248.ts
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="CINE  | TⓝT  FHD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | TⓝT  FHD 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1244.ts
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="CINE  | TÑT  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | TÑT  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1245.ts
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="CINE  | TNT  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | TNT  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1246.ts
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="CINE |  TNT SERIES  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE |  TNT SERIES  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1250.ts
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE | HBO  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO  FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/54.ts
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE | HBO  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/55.ts
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE  | HBO  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1240.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2 HD" tvg-logo="https://i.postimg.cc/CMCQYWXJ/HBO-2-HD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO 2 HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/435985.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2 SD" tvg-logo="https://i.postimg.cc/Qxykrm80/HBO-2-SD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO 2 SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/435988.ts
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE  | HBO FAMILY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO FAMILY FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/51.ts
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE | HBO FAMILY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO FAMILY  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/52.ts
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE | HBO FAMILY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO FAMILY  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53.ts
+#EXTINF:-1 tvg-id="526" tvg-name="CINE  | HBO PLUS  HD" tvg-logo="http://mundo2.pro:80/images/fd496867ac6e9074677342d8e013f563.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO PLUS  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/49.ts
+#EXTINF:-1 tvg-id="526" tvg-name="CINE  | HBO PLUS  SD" tvg-logo="http://mundo2.pro:80/images/fd496867ac6e9074677342d8e013f563.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO PLUS  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/50.ts
+#EXTINF:-1 tvg-id="528" tvg-name="CINE  | HBO XTREME HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO XTREME HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/47.ts
+#EXTINF:-1 tvg-id="526" tvg-name="CINE | HBO XTREME SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO XTREME SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/48.ts
+#EXTINF:-1 tvg-id="528" tvg-name="CINE | HBO SIGNATURE  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8X6vH9jsyuXvtYEs56bNO1NlDkim-SJkQg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO SIGNATURE  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/46.ts
+#EXTINF:-1 tvg-id="541" tvg-name="CINE  | HBO POP  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO POP  FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1242.ts
+#EXTINF:-1 tvg-id="541" tvg-name="CINE  | HBO .POP  HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO .POP  HD 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1243.ts
+#EXTINF:-1 tvg-id="1" tvg-name="CINE | HBO MUNDl FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO MUNDl FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53937.ts
+#EXTINF:-1 tvg-id="1" tvg-name="CINE | HBO MUNDI HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO MUNDI HD 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53939.ts
+#EXTINF:-1 tvg-id="1" tvg-name="CINE l C∆N∆L CINE PREMlUM HD" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE l C∆N∆L CINE PREMlUM HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53938.ts
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="CINE | SPACE CHANEL  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SPACE CHANEL  FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1280.ts
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="CINE | SPACE CHANEL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SPACE CHANEL  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1281.ts
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="CINE | SPACE CHANEL  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SPACE CHANEL  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1282.ts
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="CINE | FX  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | FX  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1275.ts
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="CINE | FX  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | FX  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1276.ts
+#EXTINF:-1 tvg-id="504" tvg-name="CINE | TCM  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | TCM  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1266.ts
+#EXTINF:-1 tvg-id="504" tvg-name="CINE |  TCM  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE |  TCM  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1267.ts
+#EXTINF:-1 tvg-id="514dtv.cl" tvg-name="CINE | CINE LATINO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | CINE LATINO
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/100681.ts
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="CINE GOLDEN PLUS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE GOLDEN PLUS FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53940.ts
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="CINE | GOLDEN PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN PLUS HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53941.ts
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="CINE | GOLDEN PLUS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN PLUS SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53942.ts
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="CINE | GOLDEN PREMIER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN PREMIER  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1293.ts
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="CINE | GOLDEN PREMIER  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN PREMIER  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1294.ts
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="CINE | WARNER  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | WARNER  FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1258.ts
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | WARNER  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1259.ts
+#EXTINF:-1 tvg-id="209dtv.co" tvg-name="CINE | WARNER  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | WARNER  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1260.ts
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="CINE | SONY M0VIES FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SONY M0VIES FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1261.ts
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="CINE | SONY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SONY  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1263.ts
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="CINE | SONY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SONY  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1264.ts
+#EXTINF:-1 tvg-id="503dtv.cl" tvg-name="CINE | GOLDEN  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1287.ts
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="CINE | GOLDEN  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1288.ts
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="CINE | GOLDEN EDG  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN EDG  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1290.ts
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="CINE | GOLDEN EDG  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN EDG  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1291.ts
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="P | UNIVERSAL CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL CINEMA HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/111421.ts
+#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL CRIMEN HD" tvg-logo="https://i.ytimg.com/vi/6AckSd4Qswk/maxresdefault.jpg" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL CRIMEN HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/111422.ts
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="P | UNIVERSAL COMEDY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL COMEDY HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/111417.ts
+#EXTINF:-1 tvg-id="576" tvg-name="P | UNIVERSAL PREMIER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL PREMIER HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/111419.ts
+#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL REALITY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL REALITY HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/111420.ts
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="CINE | UNIVERSAL CHANEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1024px-Universal_Channel_Logo_2013.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | UNIVERSAL CHANEL FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1269.ts
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="CINE | UNIVERSAL CHANEL  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1024px-Universal_Channel_Logo_2013.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | UNIVERSAL CHANEL  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1270.ts
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="CINE | UNIVERSAL STUDIO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Universal_Studios_Hollywood_%28recorte%29.jpg/1200px-Universal_Studios_Hollywood_%28recorte%29.jpg" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | UNIVERSAL STUDIO FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1268.ts
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="CINE | AMC  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | AMC  SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1285.ts
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="CINE | AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | AMC HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/1284.ts
+#EXTINF:-1 tvg-id="" tvg-name="ClNE | AMC SERIES " tvg-logo="https://i.ytimg.com/vi/q-ImVW8iRNA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCXXXTQyTDQhJzEU1dXinpsh1GoOw" group-title="❇️ CINE PREMIUM Exclusivo ❇️",ClNE | AMC SERIES 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/376321.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="http://mundo2.pro:80/images/f03c24deece1f371d55953aabc3d3a20.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",EUROPA EUROPA
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317522.ts
+#EXTINF:-1 tvg-id="" tvg-name="ClNE l °US∆ SERIES " tvg-logo="https://yt3.googleusercontent.com/8zYXddtg0CH7NXDA63WqNnsIpDLzBTv4vBFNmvuqlLQQqCRFMHLOlo3NDAJ6L-vam7S5sLie=s900-c-k-c0x00ffffff-no-rj" group-title="❇️ CINE PREMIUM Exclusivo ❇️",ClNE l °US∆ SERIES 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/346686.ts
+#EXTINF:-1 tvg-id="" tvg-name="ClNE l DHE cine  HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",ClNE l DHE cine  HD 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/400290.ts
+#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="Discovery Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2he_V5EXXTHItP1KU4wxitqgJH_SHy6yBRNYEx-AXwg&s=10" group-title=" ✅ CULTURA  ✅",Discovery Channel HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53457.ts
+#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="Discovery Channel SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2he_V5EXXTHItP1KU4wxitqgJH_SHy6yBRNYEx-AXwg&s=10" group-title=" ✅ CULTURA  ✅",Discovery Channel SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53458.ts
+#EXTINF:-1 tvg-id="discoveryscience.co" tvg-name="DISCOVERY Science HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbAEa5E1Ee1JI3a42vhC2g0l_LJZ8go9akDRCPGZKRrg&s=10" group-title=" ✅ CULTURA  ✅",DISCOVERY Science HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53464.ts
+#EXTINF:-1 tvg-id="discoveryturbo.co" tvg-name="DISCOVERY Turbo HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-oy2o2z1-V66saeYPTRxqsuBGhnmzE-E04IAt7d6c8w&s=10" group-title=" ✅ CULTURA  ✅",DISCOVERY Turbo HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53467.ts
+#EXTINF:-1 tvg-id="discoveryturbo.co" tvg-name="DISCOVERY Turbo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-oy2o2z1-V66saeYPTRxqsuBGhnmzE-E04IAt7d6c8w&s=10" group-title=" ✅ CULTURA  ✅",DISCOVERY Turbo SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53468.ts
+#EXTINF:-1 tvg-id="discoveryworldhd.ar" tvg-name="DISCOVERY World SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLc54PfIICksjBN_lFu0gGQAgRfFVqDJxZ5Pg7BVG1YA&s=10" group-title=" ✅ CULTURA  ✅",DISCOVERY World SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53470.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="Discovery Investigation sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title=" ✅ CULTURA  ✅",Discovery Investigation sd
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53463.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="Discovery Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title=" ✅ CULTURA  ✅",Discovery Investigation HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53462.ts
+#EXTINF:-1 tvg-id="discoveryhdtheater.ar" tvg-name="DISCOVERY Theater HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYYxVUjsyNJVICTbPvJ9vPqrV_WU_Dx53FDIoz3G8Pg&s=10" group-title=" ✅ CULTURA  ✅",DISCOVERY Theater HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53465.ts
+#EXTINF:-1 tvg-id="discoveryhdtheater.ar" tvg-name="DISCOVERY Theater sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYYxVUjsyNJVICTbPvJ9vPqrV_WU_Dx53FDIoz3G8Pg&s=10" group-title=" ✅ CULTURA  ✅",DISCOVERY Theater sd
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53466.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZtheIuBMmzmU3ggAy4RW4HUvoh5qgp5OSJI7cPDRsA&s=10" group-title=" ✅ CULTURA  ✅",FOOD NETWORK 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/227677.ts
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="EL GOURMET" tvg-logo="https://pbs.twimg.com/profile_images/647288295442001920/OjrAmw5F_400x400.jpg" group-title=" ✅ CULTURA  ✅",EL GOURMET
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53474.ts
+#EXTINF:-1 tvg-id="holatv.co" tvg-name="HOLA! TV" tvg-logo="http://mundo2.vip:80/images/c258d2c85d8de55b0acb05cfca11ea68.jpg" group-title=" ✅ CULTURA  ✅",HOLA! TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/126560.ts
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="LIFETIME HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZAkPCPO2NaHMdbS8CDZn8Ry-0pwOIzpvWh1gZoZOAg&s=10" group-title=" ✅ CULTURA  ✅",LIFETIME HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/128338.ts
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="E! Entretainment FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLia20OA1hD0gBq1f93WBT3wlBMeEV2tY4JoqTNTvXg&s=10" group-title=" ✅ CULTURA  ✅",E! Entretainment FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/122959.ts
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="E! Entretainment HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLia20OA1hD0gBq1f93WBT3wlBMeEV2tY4JoqTNTvXg&s=10" group-title=" ✅ CULTURA  ✅",E! Entretainment HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/126151.ts
+#EXTINF:-1 tvg-id="nationalgeographic.co" tvg-name="NATGEO HD" tvg-logo="https://cdn.myportfolio.com/c21e6d51-81bd-45f5-86c6-278ab15a6df6/266d59d5-3729-4c7e-877a-eb028dfa64a8_rwc_512x187x861x673x861.png?h=95f73088cacc2a6a12274867ce7114fc" group-title=" ✅ CULTURA  ✅",NATGEO HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53489.ts
+#EXTINF:-1 tvg-id="nationalgeographic.co" tvg-name="NATGEO HD" tvg-logo="https://cdn.myportfolio.com/c21e6d51-81bd-45f5-86c6-278ab15a6df6/266d59d5-3729-4c7e-877a-eb028dfa64a8_rwc_512x187x861x673x861.png?h=95f73088cacc2a6a12274867ce7114fc" group-title=" ✅ CULTURA  ✅",NATGEO HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53491.ts
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="HISTORY SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0sA5mYs1JHLbc3-pA1kNcCehHY4Yl8UA7J-oXdFGr7g&s=10" group-title=" ✅ CULTURA  ✅",HISTORY SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53482.ts
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="HISTORY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0sA5mYs1JHLbc3-pA1kNcCehHY4Yl8UA7J-oXdFGr7g&s=10" group-title=" ✅ CULTURA  ✅",HISTORY HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53481.ts
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="ANIMAL Planet HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpiwMvAu1bIRrZ-0sQw0shYJrp_Y4Klp6yFbE0NgU-g&s=10" group-title=" ✅ CULTURA  ✅",ANIMAL Planet HD.
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/54172.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpiwMvAu1bIRrZ-0sQw0shYJrp_Y4Klp6yFbE0NgU-g&s=10" group-title=" ✅ CULTURA  ✅",ANIMAL PLANET SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/114382.ts
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="History 2 SD" tvg-logo="http://mundo2.vip:80/images/c852b5432e05450e2da90b9ec5041506.jpg" group-title=" ✅ CULTURA  ✅",History 2 SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53488.ts
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="History 2 HD" tvg-logo="http://mundo2.vip:80/images/c852b5432e05450e2da90b9ec5041506.jpg" group-title=" ✅ CULTURA  ✅",History 2 HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53483.ts
+#EXTINF:-1 tvg-id="discoveryworldhd.ar" tvg-name="DISCOVERY World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLc54PfIICksjBN_lFu0gGQAgRfFVqDJxZ5Pg7BVG1YA&s=10" group-title=" ✅ CULTURA  ✅",DISCOVERY World HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53469.ts
+#EXTINF:-1 tvg-id="" tvg-name="CGTN ESPANOL HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIlkmrdJtPF_N2MSqFplKr1RrXqPYTioxVQ&s" group-title=" ✅ CULTURA  ✅",CGTN ESPANOL HD 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/435858.ts
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="TLC SD" tvg-logo="http://mundo2.pro:80/images/2f687de7e20c64a66faa4f4de6677b85.jpg" group-title=" ✅ CULTURA  ✅",TLC SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/126559.ts
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="NATGEO FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzP4d0bowgYqDo9DlOwQ_2EyL7K8xqucdU8dq5lLLxQ&s=10" group-title=" ✅ CULTURA  ✅",NATGEO FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53492.ts
+#EXTINF:-1 tvg-id="" tvg-name="Az click" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/03/az-click.jpg" group-title=" ✅ CULTURA  ✅",Az click
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/315941.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="CANAL DE C0ClN∆" tvg-logo="https://yt3.googleusercontent.com/dNzSb2qIcXtaUAXmOeCmq4RXh36RoEaEYL7WNa05ua4DE8e8h9bm9-QTc9dyqk3nARQzaKM1=s900-c-k-c0x00ffffff-no-rj" group-title=" ✅ CULTURA  ✅",CANAL DE C0ClN∆
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/110241.ts
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="TLC HD" tvg-logo="http://mundo2.pro:80/images/2f687de7e20c64a66faa4f4de6677b85.jpg" group-title=" ✅ CULTURA  ✅",TLC HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/126558.ts
+#EXTINF:-1 tvg-id="DiscoveryFamilia.us" tvg-name="Discovery Familia HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViKnQDOe2rHeHmhuF2RFWtTkD4VobnXW6DLw8oWd1G2Sl7FgI-khDytI&s=10" group-title=" ✅ CULTURA  ✅",Discovery Familia HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53473.ts
+#EXTINF:-1 tvg-id="DiscoveryFamilia.us" tvg-name="Discovery Familia FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViKnQDOe2rHeHmhuF2RFWtTkD4VobnXW6DLw8oWd1G2Sl7FgI-khDytI&s=10" group-title=" ✅ CULTURA  ✅",Discovery Familia FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53472.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="C∆N∆L DEC∆S∆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qoZJh2FFcWQqEIXv7RZ9eSYYDZaG168vXw&s" group-title=" ✅ CULTURA  ✅",C∆N∆L DEC∆S∆
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/110244.ts
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="LOVE  NATURALEZA" tvg-logo="http://mundo2.pro:80/images/1718e6862af67de1815db86ad9fc3ad5.jpg" group-title=" ✅ CULTURA  ✅",LOVE  NATURALEZA
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/118747.ts
+#EXTINF:-1 tvg-id="discoverycivilization.mx" tvg-name="HGTV FHD" tvg-logo="https://www.si.com/.image/c_fill,w_1200,ar_4:3,f_auto,q_auto,g_auto/MTkwNzU1MzUxMTQ0OTY1ODE0/hgtv.png" group-title=" ✅ CULTURA  ✅",HGTV FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/126561.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.ar" tvg-name="Discovery Home & Health SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lll98RXlbNuDY3pZng4dFZts8W9TCE097ZwED7AyZA&s=10" group-title=" ✅ CULTURA  ✅",Discovery Home & Health SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53460.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.ar" tvg-name="Discovery Home & Health HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lll98RXlbNuDY3pZng4dFZts8W9TCE097ZwED7AyZA&s=10" group-title=" ✅ CULTURA  ✅",Discovery Home & Health HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/53459.ts
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="NATGEO WILD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzP4d0bowgYqDo9DlOwQ_2EyL7K8xqucdU8dq5lLLxQ&s=10" group-title=" ✅ CULTURA  ✅",NATGEO WILD HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/54171.ts
+#EXTINF:-1 tvg-id="nickelodeon.co" tvg-name="NIÑOS | NICKTOONS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/250px-Nicktoons_2023_Outlined_Logo.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICKTOONS HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132709.ts
+#EXTINF:-1 tvg-id="nickjr.co" tvg-name="NIÑOS | NICKTOONS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/250px-Nicktoons_2023_Outlined_Logo.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICKTOONS SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132710.ts
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="NIÑOS | DISCOVERY KIDS  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DISCOVERY KIDS  HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132701.ts
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="NIÑOS | DISCOVERY KIDS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DISCOVERY KIDS SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132702.ts
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="NIÑOS | DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DISNEY CHANNEL HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132699.ts
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="NIÑOS | DISNEY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DISNEY CHANNEL SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132700.ts
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="NIÑOS | DISNEY JR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQkRbhEdkj9VU6aIWf3LRooGDSl0GDNootA&s" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DISNEY JR HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132697.ts
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="NIÑOS | DISNEY JR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQkRbhEdkj9VU6aIWf3LRooGDSl0GDNootA&s" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DISNEY JR SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132698.ts
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="NIÑOS | BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | BABY TV HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132689.ts
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="NIÑOS | BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | BABY TV SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132690.ts
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="NIÑOS | NICKELODEON HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICKELODEON HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132711.ts
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="NIÑOS | NICKELODEON SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICKELODEON SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132712.ts
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="NIÑOS | NICK JR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICK JR SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132696.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="NIÑOS | CARTOON NETWORK HD" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/generica_elem_cn.jpg" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | CARTOON NETWORK HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132707.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="NIÑOS | CARTOONITO SD" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/KFF6ACZZR5HO3EYYLC35GLRLOE.jpeg" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | CARTOONITO SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132708.ts
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="NIÑOS | NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICK HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132691.ts
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="NIÑOS | NICK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICK SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132692.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | C.ANAL INFANTIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnFgpebV8-M3ojDDJM2FhekYjDXfIsJ9THAbOrYahNfm8og_nWrj0Ysf_uUMBrfgzZjA&usqp=CAU.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | C.ANAL INFANTIL
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/143797.ts
+#EXTINF:-1 tvg-id="nick2.mx" tvg-name="NIÑOS | NICK 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICK 2 SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132694.ts
+#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="NIÑOS | TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Toncst.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | TOONCAST SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132704.ts
+#EXTINF:-1 tvg-id="nick2.mx" tvg-name="NIÑOS | NICK 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICK 2 HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132693.ts
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="NIÑOS | NICK JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICK JR HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132695.ts
+#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="NIÑOS | TOONCAST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Toncst.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | TOONCAST HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/132703.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERIC∆ SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERIC∆ SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81275.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERICA TV HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81276.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERICA FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81283.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81272.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81271.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81270.ts
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-name="AR | TELEFE HD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE HD ¹
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81285.ts
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-name="AR | TELEFE HD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE HD ²
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/50510.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE FHD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE FHD 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/50521.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 13 FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81268.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| ARGENTINISIMA HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81318.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| ARGENTINISIMA SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81319.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C5N FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81273.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | Telemax sd
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81288.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| EL GARAGE TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL_0iZ7hJH2d4qbdZ73r_qkKqe8ws4rNkLg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| EL GARAGE TV HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81322.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS TN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | NOTICIAS TN SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81325.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CRONICA HD" tvg-logo="https://ratingpolitica.com/wp-content/uploads/2021/05/image0-1-9.jpeg" group-title="❎ ARGENTlNA ❎",AR | CRONICA HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81300.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 13 SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81266.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 13 HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81269.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TV PUBLICA HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81265.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR l VOLVER HD " tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ky2Var5cUn9XL8XMG36xGv7TgIlunPgl01BD66X7H--M8=s900-c-k-c0x00ffffff-no-rj" group-title="❎ ARGENTlNA ❎",AR l VOLVER HD 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/140128.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR l VOLVER HD opc  ²" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ky2Var5cUn9XL8XMG36xGv7TgIlunPgl01BD66X7H--M8=s900-c-k-c0x00ffffff-no-rj" group-title="❎ ARGENTlNA ❎",AR l VOLVER HD opc  ²
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/421649.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| LN+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8f5raMcEwss9lSlka2g6ppZPj2EnFlJwIw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| LN+
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81323.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal lNFANTIL " tvg-logo="https://i.ytimg.com/vi/_5lIJyObc0w/maxresdefault.jpg?" group-title="❎ ARGENTlNA ❎",ARG: Canal lNFANTIL 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/144337.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | Telemax HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81287.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS TN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | NOTICIAS TN HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81324.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR I| PAKAPAKA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="❎ ARGENTlNA ❎",AR I| PAKAPAKA HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/352333.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TV PUBLICA FHD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81264.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | A24 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T246MMRs8f0eT4jtwWWOlXUOuUNIGPYT5AJEzprrvA&s=10" group-title="❎ ARGENTlNA ❎",AR | A24 SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81290.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | A24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T246MMRs8f0eT4jtwWWOlXUOuUNIGPYT5AJEzprrvA&s=10" group-title="❎ ARGENTlNA ❎",AR | A24 HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81289.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C5N HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81274.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CINE AR SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81321.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CINE AR HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81320.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| CANAL 26 NOTICIAS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CANAL 26 NOTICIAS SD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81317.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 26 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 26 NOTICIAS HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/81310.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CIUDAD MAGAZINE HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0-o6s4OgcMxwPQtbZu9jpnF4uG99P11vehg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CIUDAD MAGAZINE HD 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/86689.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV Universidad Nacional de La Plata" tvg-logo="https://i.ytimg.com/vi/WmNX1kaRyHk/hqdefault.jpg" group-title="❎ ARGENTlNA ❎",ARG: TV Universidad Nacional de La Plata
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/144336.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR |*F∆SHl0N TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logotipo_FDF.jpg/250px-Logotipo_FDF.jpg" group-title="❎ ARGENTlNA ❎",AR |*F∆SHl0N TV 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/305969.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | NET TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png" group-title="❎ ARGENTlNA ❎",AR | NET TV 
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/305968.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="http://mundo2.pro:80/images/179dbe52a39170b65756d3f7b88dfeb3.png" group-title="❎ TELENOVELAS ❎",PASIONES HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/360891.ts
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD." tvg-logo="http://mundo2.pro:80/images/179dbe52a39170b65756d3f7b88dfeb3.png" group-title="❎ TELENOVELAS ❎",PASIONES HD.
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/360892.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV" tvg-logo="http://mundo2.vip:8080/images/af50c4ae90f1936b996291eb7d0a0be8.png" group-title="⏩ LATINOS PREMIUM ⏪",AGRO TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317490.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://mundo2.vip:8080/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="⏩ LATINOS PREMIUM ⏪",AMC
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317491.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="http://mundo2.vip:8080/images/30a3684accce1f511ea776a07d44c351.png" group-title="⏩ LATINOS PREMIUM ⏪",AMERICA TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317492.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1" tvg-logo="http://mundo2.vip:8080/images/10bb6b75d103ec8facd0f6650fec9d03.png" group-title="⏩ LATINOS PREMIUM ⏪",ANTENA 1
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317493.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="http://mundo2.vip:8080/images/be4eb88d0149ae4f2a3e3af17fae7ff5.png" group-title="⏩ LATINOS PREMIUM ⏪",ANTENA 3
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317494.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARUSSA TV" tvg-logo="http://mundo2.vip:8080/images/e9b50ce149cddc1508c80e29fc70ac19.png" group-title="⏩ LATINOS PREMIUM ⏪",ARUSSA TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317495.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV SUR" tvg-logo="http://mundo2.vip:8080/images/d2a5b569156233749c631bddf6051d1a.png" group-title="⏩ LATINOS PREMIUM ⏪",ATV SUR
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317496.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://mundo2.vip:8080/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="⏩ LATINOS PREMIUM ⏪",AXN
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317497.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA INOLVIDABLE" tvg-logo="http://mundo2.vip:8080/images/6feef9ff95cf873c21f5abd2eaed581c.png" group-title="⏩ LATINOS PREMIUM ⏪",CINEMA INOLVIDABLE
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317498.ts
+#EXTINF:-1 tvg-id="" tvg-name="CORAZON" tvg-logo="http://mundo2.vip:8080/images/8a52d25ec47bc00846cd832e763dd95d.png" group-title="⏩ LATINOS PREMIUM ⏪",CORAZON
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317499.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ INTERNACIONAL" tvg-logo="http://mundo2.vip:8080/images/16b59c43c1ad0c491a760a9ef7e0e4a1.png" group-title="⏩ LATINOS PREMIUM ⏪",AZ INTERNACIONAL
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317500.ts
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX" tvg-logo="http://mundo2.vip:8080/images/99b4f94a78a060acb895dca5a3b85f40.png" group-title="⏩ LATINOS PREMIUM ⏪",BANDAMAX
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317501.ts
+#EXTINF:-1 tvg-id="" tvg-name="BELLA ABANQUINA" tvg-logo="http://mundo2.vip:8080/images/d72a401b739dbc256a01b776167a9cc7.png" group-title="⏩ LATINOS PREMIUM ⏪",BELLA ABANQUINA
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317502.ts
+#EXTINF:-1 tvg-id="" tvg-name="BETHEL" tvg-logo="http://mundo2.vip:8080/images/d851bc155131e47b37e6f0407e0df7d0.png" group-title="⏩ LATINOS PREMIUM ⏪",BETHEL
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317503.ts
+#EXTINF:-1 tvg-id="" tvg-name="BHTV" tvg-logo="http://mundo2.vip:8080/images/9bb00182c4d91fb87736c761e107ed67.png" group-title="⏩ LATINOS PREMIUM ⏪",BHTV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317504.ts
+#EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="http://mundo2.vip:8080/images/2723a8a5cb3101971c1ab11a9d39f67b.png" group-title="⏩ LATINOS PREMIUM ⏪",BITME
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317505.ts
+#EXTINF:-1 tvg-id="" tvg-name="BITT TV" tvg-logo="http://mundo2.vip:8080/images/b587c46873dc9d4c6dcc328ddb86955f.png" group-title="⏩ LATINOS PREMIUM ⏪",BITT TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317506.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="http://mundo2.vip:8080/images/2b639247e30c7b2695af807047972b6a.png" group-title="⏩ LATINOS PREMIUM ⏪",LAS ESTRELLAS
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317507.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="http://mundo2.vip:8080/images/a0ccc44fba4acc60927f7e08695676e7.png" group-title="⏩ LATINOS PREMIUM ⏪",CINECANAL
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317508.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIAR" tvg-logo="http://mundo2.vip:8080/images/a3a10a0e2b947975024d3ee59478449a.png" group-title="⏩ LATINOS PREMIUM ⏪",CINE FAMILIAR
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317509.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO HD" tvg-logo="http://mundo2.vip:8080/images/72fa5d3742451e375a4f681d315fa723.png" group-title="⏩ LATINOS PREMIUM ⏪",CINE HISPANO HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317510.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL INFANTIL" tvg-logo="http://mundo2.vip:8080/images/824b6db75ff579ee19d4512121c09c0c.png" group-title="⏩ LATINOS PREMIUM ⏪",CANAL INFANTIL
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317511.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM HD" tvg-logo="http://mundo2.vip:8080/images/3d97b5256585a237506196707dabccff.png" group-title="⏩ LATINOS PREMIUM ⏪",CINE PREMIUM HD
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317512.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONECTA2 TV" tvg-logo="http://mundo2.vip:8080/images/2c446996d5c8bfc625bc8b1227004e12.png" group-title="⏩ LATINOS PREMIUM ⏪",CONECTA2 TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317513.ts
+#EXTINF:-1 tvg-id="" tvg-name="CTV" tvg-logo="http://mundo2.vip:8080/images/2c92b58c155f6675a435131e2f2f45d7.png" group-title="⏩ LATINOS PREMIUM ⏪",CTV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317514.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLOVER CHANNEL" tvg-logo="http://mundo2.vip:8080/images/a8a57fe533c51515118e7d85c8a9f476.png" group-title="⏩ LATINOS PREMIUM ⏪",CLOVER CHANNEL
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317515.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="http://mundo2.vip:8080/images/b0020e9b0ed18e298322716dcfdcafc0.png" group-title="⏩ LATINOS PREMIUM ⏪",DE PELICULA
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317516.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="http://mundo2.vip:8080/images/9f6bd8bf3c07254fa7d10f763169cb17.png" group-title="⏩ LATINOS PREMIUM ⏪",DISTRITO COMEDIA
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317517.ts
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="http://mundo2.vip:8080/images/af9219d7124ca16c3733b91370100772.png" group-title="⏩ LATINOS PREMIUM ⏪",DREAMWORKS
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317518.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUNAS TV" tvg-logo="http://mundo2.vip:8080/images/924bfc637c045be595f5c4d859cc6fb1.png" group-title="⏩ LATINOS PREMIUM ⏪",DUNAS TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317519.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="http://mundo2.vip:8080/images/0bdfe2e55090d6be70793778d0d8e147.png" group-title="⏩ LATINOS PREMIUM ⏪",DW
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317520.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENLACE" tvg-logo="http://mundo2.vip:8080/images/e8f9c0a487284fd0b7a3c7ef3081e868.png" group-title="⏩ LATINOS PREMIUM ⏪",ENLACE
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317521.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS" tvg-logo="http://mundo2.vip:8080/images/4a9702f7ffe84ee7fc40d587e191c45c.png" group-title="⏩ LATINOS PREMIUM ⏪",EVENTOS
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317523.ts
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="http://mundo2.vip:8080/images/40dbd2460c336f980951da0f456e729f.png" group-title="⏩ LATINOS PREMIUM ⏪",EWTN
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317524.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMS & ARTS" tvg-logo="http://mundo2.vip:8080/images/5158b013c9827ca60160ef8925d1edba.png" group-title="⏩ LATINOS PREMIUM ⏪",FILMS & ARTS
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317525.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOLKLORE TV" tvg-logo="http://mundo2.vip:8080/images/0760af8cfeab7d7bfdc51ccb87b0ccf3.png" group-title="⏩ LATINOS PREMIUM ⏪",FOLKLORE TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317526.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://mundo2.vip:8080/images/b8b5089c70ae62534970e2d8aa67e96d.png" group-title="⏩ LATINOS PREMIUM ⏪",FX
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317527.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="http://mundo2.vip:8080/images/91019a5463e546d88723d04941e78457.png" group-title="⏩ LATINOS PREMIUM ⏪",GOLDEN EDGE
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317528.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN LATINO" tvg-logo="http://mundo2.vip:8080/images/e50583185ee77e8027d6d72e1d7428ac.png" group-title="⏩ LATINOS PREMIUM ⏪",GOLDEN LATINO
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317529.ts
+#EXTINF:-1 tvg-id="" tvg-name="GTV PISCO" tvg-logo="http://mundo2.vip:8080/images/e64a3458d27f464016c02280b55fe1ad.png" group-title="⏩ LATINOS PREMIUM ⏪",GTV PISCO
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317530.ts
+#EXTINF:-1 tvg-id="" tvg-name="IPE" tvg-logo="http://mundo2.vip:8080/images/065957dff2d3bb9f6ddfb16bc7be5db8.png" group-title="⏩ LATINOS PREMIUM ⏪",IPE
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317531.ts
+#EXTINF:-1 tvg-id="" tvg-name="JN19" tvg-logo="http://mundo2.vip:8080/images/b8707e85ae7350eba450b0f1b428c8ca.png" group-title="⏩ LATINOS PREMIUM ⏪",JN19
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317532.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUNTOSTV" tvg-logo="http://mundo2.vip:8080/images/4381c8fc32a4f49afcc7200f66b846e9.png" group-title="⏩ LATINOS PREMIUM ⏪",JUNTOSTV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317533.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUSTICIA TV" tvg-logo="http://mundo2.vip:8080/images/53c85b4e7d4020983478b5b939e59a64.png" group-title="⏩ LATINOS PREMIUM ⏪",JUSTICIA TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317534.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="http://mundo2.vip:8080/images/a1393f68d11ec976fc02d4ce26778e1a.png" group-title="⏩ LATINOS PREMIUM ⏪",KANAL D
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317535.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA TELE" tvg-logo="http://mundo2.vip:8080/images/bbcf5aea2a1d9bf2686f8641fcd1e5dc.png" group-title="⏩ LATINOS PREMIUM ⏪",LA TELE
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317536.ts
+#EXTINF:-1 tvg-id="" tvg-name="LATINA NOTICIAS" tvg-logo="http://mundo2.vip:8080/images/440743a20d4a97878639ab8bd0dee833.png" group-title="⏩ LATINOS PREMIUM ⏪",LATINA NOTICIAS
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317537.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIKE TV" tvg-logo="http://mundo2.vip:8080/images/27e69e11da69898c859d3f6bf4fb99a5.png" group-title="⏩ LATINOS PREMIUM ⏪",LIKE TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317538.ts
+#EXTINF:-1 tvg-id="" tvg-name="MIMÚSICA HITS" tvg-logo="http://mundo2.vip:8080/images/757d0b7f881745aee5ded4d7720f1851.png" group-title="⏩ LATINOS PREMIUM ⏪",MIMÚSICA HITS
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317540.ts
+#EXTINF:-1 tvg-id="" tvg-name="MI MUSICA K-POP" tvg-logo="http://mundo2.vip:8080/images/881380a44dc2d0c095d3031f208e05b2.png" group-title="⏩ LATINOS PREMIUM ⏪",MI MUSICA K-POP
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317541.ts
+#EXTINF:-1 tvg-id="" tvg-name="MI MUSICA PERU" tvg-logo="http://mundo2.vip:8080/images/aaad085a4050700d47f53ad8c815d98c.png" group-title="⏩ LATINOS PREMIUM ⏪",MI MUSICA PERU
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317542.ts
+#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA ROMANTICA" tvg-logo="http://mundo2.vip:8080/images/39b82ac2be93f011eba12c9e4d5ebebb.png" group-title="⏩ LATINOS PREMIUM ⏪",MIMUSICA ROMANTICA
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317543.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIVA" tvg-logo="http://mundo2.vip:8080/images/b995eead2b785622c84a6c89456fd11c.png" group-title="⏩ LATINOS PREMIUM ⏪",NATIVA
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317544.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEOTV" tvg-logo="http://mundo2.vip:8080/images/8f81b8381405b81b91b521c5899b10a7.png" group-title="⏩ LATINOS PREMIUM ⏪",NEOTV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317545.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS CARACOL" tvg-logo="http://mundo2.vip:8080/images/84493c50aac372258e6b28a8796ae753.png" group-title="⏩ LATINOS PREMIUM ⏪",NOTICIAS CARACOL
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317546.ts
+#EXTINF:-1 tvg-id="" tvg-name="OVACION" tvg-logo="http://mundo2.vip:8080/images/03df9216683a8c7d899a918eb95671f0.png" group-title="⏩ LATINOS PREMIUM ⏪",OVACION
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317547.ts
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="http://mundo2.vip:8080/images/961f8d152f8a434df0a1e15e198e067c.png" group-title="⏩ LATINOS PREMIUM ⏪",PASIONES
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317548.ts
+#EXTINF:-1 tvg-id="" tvg-name="PBO" tvg-logo="http://mundo2.vip:8080/images/a466c7795edfc3b1490f07bdf64d8ef5.png" group-title="⏩ LATINOS PREMIUM ⏪",PBO
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317549.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLIM PLIM" tvg-logo="http://mundo2.vip:8080/images/26c48e02aee98ff0e7df2b1a5dc6536f.png" group-title="⏩ LATINOS PREMIUM ⏪",PLIM PLIM
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317550.ts
+#EXTINF:-1 tvg-id="" tvg-name="QOSMO TELEVISIÓN" tvg-logo="http://mundo2.vip:8080/images/6d3bee8e5ad0bf8eafc9511a97cb928f.png" group-title="⏩ LATINOS PREMIUM ⏪",QOSMO TELEVISIÓN
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317551.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SUPER HITS" tvg-logo="http://mundo2.vip:8080/images/cf5cc629f005b1752ef689ae7613417c.png" group-title="⏩ LATINOS PREMIUM ⏪",RADIO SUPER HITS
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317552.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCR" tvg-logo="http://mundo2.vip:8080/images/ed6d55663139df20b71b553fd87f7618.png" group-title="⏩ LATINOS PREMIUM ⏪",RCR
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317553.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://mundo2.vip:8080/images/11dadba3103a46e999b0bc7177924e93.png" group-title="⏩ LATINOS PREMIUM ⏪",SONY MOVIES
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317554.ts
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://mundo2.vip:8080/images/75d8cd8ed6ea6c5c001040b5f1d0ad7b.png" group-title="⏩ LATINOS PREMIUM ⏪",STUDIO UNIVERSAL
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317555.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUMAC TV" tvg-logo="http://mundo2.vip:8080/images/1712e697415c5745702dfcf7c526de45.png" group-title="⏩ LATINOS PREMIUM ⏪",SUMAC TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317556.ts
+#EXTINF:-1 tvg-id="" tvg-name="TARAPOTO TV" tvg-logo="http://mundo2.vip:8080/images/3803db45bc1df60b0da1258a38857095.png" group-title="⏩ LATINOS PREMIUM ⏪",TARAPOTO TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317557.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT LATINO" tvg-logo="http://mundo2.vip:8080/images/07afd7811c95353f57b2c7b2e2028e78.png" group-title="⏩ LATINOS PREMIUM ⏪",TELEHIT LATINO
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317558.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT MUSICA" tvg-logo="http://mundo2.vip:8080/images/582e850f4302644888a03829c8e8fd1e.png" group-title="⏩ LATINOS PREMIUM ⏪",TELEHIT MUSICA
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317559.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="http://mundo2.vip:8080/images/56f924ab0e3529515562d1e070270220.png" group-title="⏩ LATINOS PREMIUM ⏪",TELEMUNDO
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317560.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOPLATINO" tvg-logo="http://mundo2.vip:8080/images/624ad965849d0b12afe9ecb444012bbd.png" group-title="⏩ LATINOS PREMIUM ⏪",TOPLATINO
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317561.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE INTERNACIONAL" tvg-logo="http://mundo2.vip:8080/images/0d96bbdf5b78238b713e7e65623e113c.png" group-title="⏩ LATINOS PREMIUM ⏪",EL TRECE INTERNACIONAL
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317562.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRIVU TV" tvg-logo="http://mundo2.vip:8080/images/ed9111a183e4637d96b58412a61f269d.png" group-title="⏩ LATINOS PREMIUM ⏪",TRIVU TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317563.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVL" tvg-logo="http://mundo2.vip:8080/images/51651e15badc54dbded8bfe27dcfacd6.png" group-title="⏩ LATINOS PREMIUM ⏪",TVL
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317564.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV + CHINCHA" tvg-logo="http://mundo2.vip:8080/images/b47753270492a7afadc03453d1697828.png" group-title="⏩ LATINOS PREMIUM ⏪",TV + CHINCHA
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317565.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="http://mundo2.vip:8080/images/f75d91cdd36b85cc4a8dfeca4f24fa14.png" group-title="⏩ LATINOS PREMIUM ⏪",USA
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317566.ts
+#EXTINF:-1 tvg-id="" tvg-name="USMP TV" tvg-logo="http://mundo2.vip:8080/images/63a8cac88e9895b2789245393c729916.png" group-title="⏩ LATINOS PREMIUM ⏪",USMP TV
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317567.ts
+#EXTINF:-1 tvg-id="" tvg-name="VÍA TELEVISIÓN" tvg-logo="http://mundo2.vip:8080/images/1bfeddf546d4f22ae3695b63caf44551.png" group-title="⏩ LATINOS PREMIUM ⏪",VÍA TELEVISIÓN
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317568.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://mundo2.vip:8080/images/ac11fb6a51c835584ec36927ba57f0f6.png" group-title="⏩ LATINOS PREMIUM ⏪",ZOOMOO
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317569.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC SERlES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUkoI91Y4b_NUBoYD6-LXyNiARFKcRXyGp1EmVoNLXUPnYCJIRPswD8Pb_ioxfVwmaRgMF9CZfeuu6OM7ImjeiRRAHchr7Bu6gFQgSzXFp4qBgSI98m678iS86AXmHSiYp3w8Fi_8YGVC-MJ3-WxIhUaoWPLBAL3W9U_1ubAyzyiLsaSPmpXuiEKGMjNx/w1200-h675-p-k-no-nu/maxresdefault.jpg" group-title="⏩ LATINOS PREMIUM ⏪",AMC SERlES
+http://dplatino.net:80//live/RafaelV/bedfEF9kgSAA/317539.ts
 
 
 
