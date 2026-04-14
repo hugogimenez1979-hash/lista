@@ -872,3 +872,162 @@ http://redworld.pro:8880/Marcelocanto12/z7cAzCyrUJeA/490475
 http://redworld.pro:8880/Marcelocanto12/z7cAzCyrUJeA/490476
 #EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) AR | Multivision" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",(OFFLINE) AR | Multivision
 http://redworld.pro:8880/Marcelocanto12/z7cAzCyrUJeA/490477
+
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINELATINO*CB" tvg-logo="http://visualservice.xyz:80/images/a4eceecf5d76d39581d4125e1e34754a.png" group-title="PREMIUM LATINO",LAT | CINELATINO*CB
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINEMAX HD*" tvg-logo="http://visualservice.xyz:80/images/18c234e60a3dc89fa4b4176e3d37d080.png" group-title="PREMIUM LATINO",LAT | CINEMAX HD*
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | FX  HD    *lt" tvg-logo="http://visualservice.xyz:80/images/a1d2f92ee37d23d923743f93e4a60483.png" group-title="PREMIUM LATINO",LAT | FX  HD    *lt
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINECANAL MX" tvg-logo="http://visualservice.xyz:80/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM LATINO",LAT | CINECANAL MX
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1" tvg-logo="http://visualservice.xyz:80/images/ea4dd14f6b137743920234e823449a48.png" group-title="PREMIUM LATINO",LAT | FXM OP1 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | SPACE HD *" tvg-logo="http://visualservice.xyz:80/images/f72fd3a822e7fd3078c2d8c0aa89c976.png" group-title="PREMIUM LATINO",LAT | SPACE HD *
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 B*URU" tvg-logo="http://visualservice.xyz:80/images/f72fd3a822e7fd3078c2d8c0aa89c976.png" group-title="PREMIUM LATINO",LAT | SPACE  
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | SONY CHANNEL" tvg-logo="http://visualservice.xyz:80/images/9ae2767f15b15da469c307585dd350c0.png" group-title="PREMIUM LATINO",LAT | SONY CHANNEL
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | WARNER HD" tvg-logo="http://visualservice.xyz:80/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="PREMIUM LATINO",LAT | WARNER HD
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | UNIVERSAL CHANNEL HD" tvg-logo="http://visualservice.xyz:80/images/c9e7e7a94a518fa0394d6e611709bd9f.png" group-title="PREMIUM LATINO",LAT | UNIVERSAL CHANNEL HD
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS ecu" tvg-logo="http://visualservice.xyz:80/images/c5ff12f633e68dde65169a8b05451256.png" group-title="PREMIUM LATINO",LAT | STUDIO UNIVERSAL FHD 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS COLOMBIA" tvg-logo="http://visualservice.xyz:80/images/8e40a10a19a214a5ed5931229cf58c49.png" group-title="PREMIUM LATINO",LAT | AXN FHD 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS URU*" tvg-logo="http://visualservice.xyz:80/images/8e40a10a19a214a5ed5931229cf58c49.png" group-title="PREMIUM LATINO",LAT | AXN HD   
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | A&E HD" tvg-logo="http://visualservice.xyz:80/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="PREMIUM LATINO",LAT | A&E HD
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | TCM" tvg-logo="http://visualservice.xyz:80/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="PREMIUM LATINO",LAT | TCM
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | GOLDEN PREMIER*" tvg-logo="http://visualservice.xyz:80/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="PREMIUM LATINO",LAT | GOLDEN PREMIER*
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | GOLDEN EDGE   *lt" tvg-logo="http://visualservice.xyz:80/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="PREMIUM LATINO",LAT | GOLDEN EDGE   *lt
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DE PELICULAS PLUS   *lt" tvg-logo="http://visualservice.xyz:80/images/53f44c72eff733c435c35a46fb1665c1.png" group-title="PREMIUM LATINO",LAT | DE PELICULAS PLUS   *lt
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINE LEGO HD" tvg-logo="http://visualservice.xyz:80/images/2bd4244d1a73c8d1f26fc5e5352c2aae.png" group-title="PREMIUM LATINO",LAT | CINE LEGO HD
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINE DC FILM HD" tvg-logo="https://www.pngitem.com/pimgs/m/7-73355_transparent-dinamita-png-cinema-dinamita-png-download.png" group-title="PREMIUM LATINO",LAT | CINE DC FILM HD
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | SYFY" tvg-logo="http://visualservice.xyz:80/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="PREMIUM LATINO",LAT | SYFY
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | PARAMOUNT CHANNEL SUR HD" tvg-logo="http://visualservice.xyz:80/images/01ba5107c29021d98d6a8ca5ea316972.png" group-title="PREMIUM LATINO",LAT | PARAMOUNT CHANNEL SUR HD
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINECANAL HD" tvg-logo="http://visualservice.xyz:80/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM LATINO",LAT | CINECANAL HD
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/43190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT |  TV PERU" tvg-logo="https://photos.live-tv-channels.org/tv-logo/pe-tv-peru-2373.jpg" group-title="PREMIUM LATINO",LAT |  TV PERU
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/109531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DE PELICULA CLASICO" tvg-logo="https://forounivers.com/uploads/monthly_2021_01/small.Logo-de-Pelicula-2021.png.23ff352bff7e01f52b5fffb70ddb86dc.png" group-title="PREMIUM LATINO",LAT | DE PELICULA CLASICO
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/109986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | HORRORFY" tvg-logo="http://visualservice.xyz:80/images/c81e728d9d4c2f636f067f89cc14862c.jpeg" group-title="PREMIUM LATINO",LAT | HORRORFY
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/109989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | TOP CINE" tvg-logo="http://visualservice.xyz:80/images/2cf6e23cb123df93942020f06ada4423.jpg" group-title="PREMIUM LATINO",LAT | TOP CINE
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/109991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINE SUR" tvg-logo="http://visualservice.xyz:80/images/a5d60cc7fcc62832456bb3b1a406d369.png" group-title="PREMIUM LATINO",LAT | CINE SUR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/109992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="http://visualservice.xyz:80/images/2bfef0530e86875773ac557931601714.png" group-title="PREMIUM LATINO",LAT | TNT MX 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/164030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | TNT SERIES MX" tvg-logo="http://visualservice.xyz:80/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="PREMIUM LATINO",LAT | TNT SERIES MX
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/164032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINEMAX HD 2" tvg-logo="http://visualservice.xyz:80/images/18c234e60a3dc89fa4b4176e3d37d080.png" group-title="PREMIUM LATINO",LAT | CINEMAX HD 2
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/164034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINECANAL HD" tvg-logo="http://visualservice.xyz:80/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM LATINO",LAT | CINECANAL HD
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/164036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINE SUR" tvg-logo="http://visualservice.xyz:80/images/a5d60cc7fcc62832456bb3b1a406d369.png" group-title="PREMIUM LATINO",LAT | CINE SUR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/164049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="https://w7.pngwing.com/pngs/724/805/png-transparent-canal-cinema-dynamite-cinematography-cinema-dinamita-dynamite-text-logo-brand-thumbnail.png" group-title="PREMIUM LATINO",CINEMA DINAMITA
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/277655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-logo="https://i.imgur.com/c1RPJE3.png" group-title="PREMIUM LATINO",Golden Plus
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/296973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS +" tvg-logo="http://visualservice.xyz:80/images/18c234e60a3dc89fa4b4176e3d37d080.png" group-title="PREMIUM LATINO",LAT | CINEMAX 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS +" tvg-logo="http://visualservice.xyz:80/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM LATINO",LAT | CINECANAL 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS +. *lt" tvg-logo="http://serviciosvisuales.ga:25461/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="PREMIUM LATINO",LAT | WARNER TV NORTE  
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 COLOMBIA" tvg-logo="http://visualservice.xyz:80/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="PREMIUM LATINO",LAT | A&E 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO ESPANA" tvg-logo="http://visualservice.xyz:80/images/01ba5107c29021d98d6a8ca5ea316972.png" group-title="PREMIUM LATINO",LAT | PARAMOUNT NETWORK 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP CAST 1" tvg-logo="http://visualservice.xyz:80/images/72a7f30fd311f7abd23e1f88d4783abd.png" group-title="PREMIUM LATINO",LAT | AMC NORTE 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP CAST 2" tvg-logo="http://visualservice.xyz:80/images/72a7f30fd311f7abd23e1f88d4783abd.png" group-title="PREMIUM LATINO",LAT | AMC SUR 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP LAT" tvg-logo="http://visualservice.xyz:80/images/8e04d22f04ba9b2313d368cffafb9379.png" group-title="PREMIUM LATINO",LAT | CANAL DHE 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/31260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP LAT 2" tvg-logo="http://visualservice.xyz:80/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="PREMIUM LATINO",LAT | TNT SERIES 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/164031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS VARIOS 1" tvg-logo="http://visualservice.xyz:80/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="PREMIUM LATINO",LAT | GOLDEN 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/164043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS VARIOS 2" tvg-logo="http://visualservice.xyz:80/images/9ae2767f15b15da469c307585dd350c0.png" group-title="PREMIUM LATINO",LAT | SONY CHANNEL NORTE 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/287958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | AXN (H)" tvg-logo="http://visualservice.xyz:80/images/8e40a10a19a214a5ed5931229cf58c49.png" group-title="PREMIUM LATINO",LAT | AXN (H)
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/288079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP CAST 3" tvg-logo="http://visualservice.xyz:80/images/ea4dd14f6b137743920234e823449a48.png" group-title="PREMIUM LATINO",LAT | FXM 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/288084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | SPACE (H)" tvg-logo="http://visualservice.xyz:80/images/f72fd3a822e7fd3078c2d8c0aa89c976.png" group-title="PREMIUM LATINO",LAT | SPACE (H)
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/288087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M+ Primera Federacion (EVENTOS)" tvg-logo="http://visualservice.xyz:80/images/c5ff12f633e68dde65169a8b05451256.png" group-title="PREMIUM LATINO",LAT | STUDIO UNIVERSAL  
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/288088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINELATINO*CB" tvg-logo="http://visualservice.xyz:80/images/9ae2767f15b15da469c307585dd350c0.png" group-title="PREMIUM LATINO",LAT | SONY CHANNEL SUR 
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/287959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyiAwkKd6AOgcFU4m61cJJN0LWoTBnz8wotg&s" group-title="PREMIUM LATINO",SEMILLITAS
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/767509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | 5TV CORRIENTES" tvg-logo="http://serviciosvisuales.ga:25461/images/eb496f80856c37029f763fb4ef472b4e.png" group-title="ARGENTINA",ARG | 5TV CORRIENTES
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/24020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | CANAL PROVINCIAL SAN MIGUEL" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ARGENTINA",ARG | CANAL PROVINCIAL SAN MIGUEL
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/24040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | LA 90 FM" tvg-logo="http://serviciosvisuales.ga:25461/images/a939041ef6d0ffd41df5a179a170f887.png" group-title="ARGENTINA",ARG | LA 90 FM
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/24049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | NET TV" tvg-logo="http://serviciosvisuales.ga:25461/images/982988132cce237ab75de700522f16a7.png" group-title="ARGENTINA",ARG | NET TV
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/24055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TELEFE   *lt" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ARGENTINA",ARG | TELEFE   *lt
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/64384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | EL TRECE" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ARGENTINA",ARG | EL TRECE
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/64385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | AMÃ©RICA TV" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ARGENTINA",ARG | AMÃ©RICA TV
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/74380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TELENORD CORRIENTES (720P)" tvg-logo="http://visualservice.xyz:80/images/eafc4997c97db610a12e13475158ec71.png" group-title="ARGENTINA",ARG | TELENORD CORRIENTES (720P)
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/74401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Neo TV * | AR" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png" group-title="ARGENTINA",Neo TV * | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UCL Televisión LATAM * | UY" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png" group-title="ARGENTINA",UCL Televisión LATAM * | UY
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="5TV | AR" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA",5TV | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azahares Radio Multimedia | AR" tvg-logo="https://lh3.googleusercontent.com/-pa7E6wFqHUQ/X8burCyCcNI/AAAAAAAA73k/bxcPtP_8N20ieC7NSjb7LUTvpCRjwj7fwCK8BGAsYHg/s0/2020-12-01.png" group-title="ARGENTINA",Azahares Radio Multimedia | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 12 Madryn TV | AR" tvg-logo="https://i2.paste.pics/913306f0aa9180b0042df15f5437c9e4.png" group-title="ARGENTINA",Canal 12 Madryn TV | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 La Rioja | AR" tvg-logo="https://lh3.googleusercontent.com/-f20l_uEV2Mo/X1THHvcl76I/AAAAAAAA5Sk/7MhDM9q__hMsWcD2yyk27u_7VU9k9MA9wCK8BGAsYHg/s0/2020-09-06.jpg" group-title="ARGENTINA",Canal 13 La Rioja | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Posadas | AR" tvg-logo="https://lh3.googleusercontent.com/-8RQ6Xhx3aek/XjtJFnEx_ZI/AAAAAAAAvrA/yM5l4Cz0Q3M6JmvHF4n5rjbEXc7W___XgCK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA",Canal 4 Posadas | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Jujuy | AR" tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png" group-title="ARGENTINA",Canal 7 Jujuy | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral | AR" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="ARGENTINA",Canal 9 Litoral | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Provincial | AR" tvg-logo="https://lh3.googleusercontent.com/-ihJSBphR-yg/YHseVhumizI/AAAAAAABBpg/rxL2l4KlY4Ei_amMJH-Pcl848lhjjzA9wCK8BGAsYHg/s512/2021-04-17.jpg" group-title="ARGENTINA",Canal Provincial | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chaco TV | AR" tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA",Chaco TV | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CPE TV | AR" tvg-logo="https://lh3.googleusercontent.com/-9GTHHXgvOTw/X1TK1QfMEbI/AAAAAAAA5UE/4ulTcshU6Q8PZxoBzNKfDZvmIXleTCnwwCK8BGAsYHg/s0/2020-09-06.jpg" group-title="ARGENTINA",CPE TV | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Quatro TV | AR" tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA",Quatro TV | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radiocanal San Francisco | AR" tvg-logo="https://i2.paste.pics/cece8bcc6917c0ba234724f4c915ac1f.png" group-title="ARGENTINA",Radiocanal San Francisco | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeleNord | AR" tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="ARGENTINA",TeleNord | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Net TV | AR" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="ARGENTINA",Net TV | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sublime Gracia TV | AR" tvg-logo="https://i2.paste.pics/a5fb78f573ba79d41017820f70d975e9.png" group-title="ARGENTINA",Sublime Gracia TV | AR
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/275901.m3u8
+#EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-name="ARG | TYC SPORTS HD    *lt" tvg-logo="http://visualservice.xyz:80/images/a3929ff1f9f4affebf1e59f5db46b938.png" group-title="ARGENTINA",ARG | TYC SPORTS HD    *lt
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/338312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRONICA" tvg-logo="" group-title="ARGENTINA",CRONICA
+http://visuales.xyz:8080/live/MARCOSC/b234EQH/435275.m3u8
