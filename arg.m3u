@@ -177,80 +177,298 @@ http://tvpremium.pro:8080/Edson/12345/1422427
 http://tvpremium.pro:8080/Edson/12345/1422428
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA | A&E HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1-500x250.png" group-title="⭐ CINE Y SERIES HD",CULTURA | A&E HD
 http://tvpremium.pro:8080/Edson/12345/214
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 01" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 01
-http://tvpremium.pro:8080/Edson/12345/1442328
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 02" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 02
-http://tvpremium.pro:8080/Edson/12345/1442329
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 03" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 03
-http://tvpremium.pro:8080/Edson/12345/1442330
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 04" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 04
-http://tvpremium.pro:8080/Edson/12345/1442331
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 05" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 05
-http://tvpremium.pro:8080/Edson/12345/1442332
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 06" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 06
-http://tvpremium.pro:8080/Edson/12345/1442333
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 07" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 07
-http://tvpremium.pro:8080/Edson/12345/1442334
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 08" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 08
-http://tvpremium.pro:8080/Edson/12345/1442335
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 09" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 09
-http://tvpremium.pro:8080/Edson/12345/1442336
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 10" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 10
-http://tvpremium.pro:8080/Edson/12345/1442337
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 11" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 11
-http://tvpremium.pro:8080/Edson/12345/1442338
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 12" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 12
-http://tvpremium.pro:8080/Edson/12345/1442339
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 13" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 13
-http://tvpremium.pro:8080/Edson/12345/1442340
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 14" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 14
-http://tvpremium.pro:8080/Edson/12345/1442341
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 15" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 15
-http://tvpremium.pro:8080/Edson/12345/1442342
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 16" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 16
-http://tvpremium.pro:8080/Edson/12345/1442343
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 17" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 17
-http://tvpremium.pro:8080/Edson/12345/1442344
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 18" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 18
-http://tvpremium.pro:8080/Edson/12345/1442345
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 19" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 19
-http://tvpremium.pro:8080/Edson/12345/1442346
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 20" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 20
-http://tvpremium.pro:8080/Edson/12345/1442347
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 21" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 21
-http://tvpremium.pro:8080/Edson/12345/1442348
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 22" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 22
-http://tvpremium.pro:8080/Edson/12345/1442349
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 23" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 23
-http://tvpremium.pro:8080/Edson/12345/1442350
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 24" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 24
-http://tvpremium.pro:8080/Edson/12345/1442351
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 25" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 25
-http://tvpremium.pro:8080/Edson/12345/1442352
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 26" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 26
-http://tvpremium.pro:8080/Edson/12345/1442353
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 27" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 27
-http://tvpremium.pro:8080/Edson/12345/1442354
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 28" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 28
-http://tvpremium.pro:8080/Edson/12345/1442355
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 29" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 29
-http://tvpremium.pro:8080/Edson/12345/1442356
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 30" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 30
-http://tvpremium.pro:8080/Edson/12345/1442357
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 31" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 31
-http://tvpremium.pro:8080/Edson/12345/1442358
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 32" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 32
-http://tvpremium.pro:8080/Edson/12345/1442359
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 33" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 33
-http://tvpremium.pro:8080/Edson/12345/1442360
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 34" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 34
-http://tvpremium.pro:8080/Edson/12345/1442361
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 35" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 35
-http://tvpremium.pro:8080/Edson/12345/1442362
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 36" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 36
-http://tvpremium.pro:8080/Edson/12345/1442363
-#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 37" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 37
-http://tvpremium.pro:8080/Edson/12345/1442364
+#EXTINF:-1 tvg-id="" tvg-name="-------------ARGENTINA---------------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" group-title="ARGENTINA",-------------ARGENTINA---------------
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/12809
+#EXTINF:-1 tvg-id="" tvg-name="Gran hermano generación dorada" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/950/534/gran-hermano-2025-1922635.jpg" group-title="ARGENTINA",Gran hermano generación dorada
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/116384
+#EXTINF:-1 tvg-id="" tvg-name="Gran hermano generación dorada 2" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/ORBEE.jpg" group-title="ARGENTINA",Gran hermano generación dorada 2
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11861
+#EXTINF:-1 tvg-id="" tvg-name="Gran hermano generación dorada 3" tvg-logo="https://www.canal2misiones.com.ar/img/f-ch2-2.jpg" group-title="ARGENTINA",Gran hermano generación dorada 3
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/116603
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA",AMERICA SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11866
+#EXTINF:-1 tvg-id="" tvg-name="-------------ARGENTINA---------------" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA",AMERICA 
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/28071
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE INTERNACIONAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",TELEFE INTERNACIONAL SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11858
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE SD 1" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",TELEFE SD 1
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11840
+#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png" group-title="ARGENTINA",TV PUBLICA SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/14415
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA",C5N
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11863
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" group-title="ARGENTINA",CANAL 9 SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11859
+#EXTINF:-1 tvg-id="" tvg-name="TN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",TN SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11839
+#EXTINF:-1 tvg-id="" tvg-name="LN+ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="ARGENTINA",LN+ SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11878
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/160px-Canal13_logo.png" group-title="ARGENTINA",CANAL 13 SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11862
+#EXTINF:-1 tvg-id="" tvg-name="Gran hermano generación dorada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA",Canal 13 Internacional 
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/12443
+#EXTINF:-1 tvg-id="" tvg-name="A 24 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="ARGENTINA",A 24 SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11865
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA" tvg-logo="http://television.com.ar/wp-content/uploads/2010/07/ARGENTINISIMA-.jpg" group-title="ARGENTINA",ARGENTINISIMA
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11864
+#EXTINF:-1 tvg-id="" tvg-name="CINEAR HD" tvg-logo="http://pensilvaniafilms.com/wp-content/uploads/2017/10/CINEAR.png" group-title="ARGENTINA",CINEAR HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11897
+#EXTINF:-1 tvg-id="" tvg-name="C5N HD" tvg-logo="https://lh3.googleusercontent.com/H9hI9znec8mkXG-6keaGs0MiA6Mwr_3tpjGJibS1-GzSKzNxgw3IyPNY-Eg-au-_qwJs" group-title="ARGENTINA",C5N HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11902
+#EXTINF:-1 tvg-id="" tvg-name="A 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="ARGENTINA",A 24 HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11903
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA",AMERICA HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11904
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" group-title="ARGENTINA",CANAL 9 HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11899
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA",CANAL 13 HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11901
+#EXTINF:-1 tvg-id="" tvg-name="CRONICA TV HD" tvg-logo="https://media.licdn.com/dms/image/C4E0BAQHDrsd2L9KtCA/company-logo_200_200/0?e=2159024400&v=beta&t=prWZt5DZi74eloOPeM4o173eKrfbF_yFwQ03AvRHjOg" group-title="ARGENTINA",CRONICA TV HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11894
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 HD" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/CANAL-26.jpg" group-title="ARGENTINA",CANAL 26 HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11900
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",TELEFE HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11879
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE HD ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",TELEFE HD ARG
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/16274
+#EXTINF:-1 tvg-id="" tvg-name="TN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",TN HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11874
+#EXTINF:-1 tvg-id="" tvg-name="ENCUENTRO HD" tvg-logo="http://argenchina.tvpublica.com.ar/wp-content/uploads/2018/10/Encuentro.png" group-title="ARGENTINA",ENCUENTRO HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11892
+#EXTINF:-1 tvg-id="" tvg-name="METRO HD" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2263.png" group-title="ARGENTINA",METRO HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11884
+#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="ARGENTINA",LN+
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/14186
+#EXTINF:-1 tvg-id="" tvg-name="VOLVER" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/c13e0-volver.gif?w=260" group-title="ARGENTINA",VOLVER
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11868
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/AMC-Theatres-Logo-1980.jpg" group-title="CINE",AMC SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11642
+#EXTINF:-1 tvg-id="" tvg-name="Flix HD West" tvg-logo="" group-title="CINE",Flix HD West
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88271
+#EXTINF:-1 tvg-id="" tvg-name="RetroPlex HD" tvg-logo="https://p1.hiclipart.com/preview/568/1022/484/tv-channel-icons-pack-starz-retroplex-color-png-icon-thumbnail.jpg" group-title="CINE",RetroPlex HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88272
+#EXTINF:-1 tvg-id="" tvg-name="Fam Movies" tvg-logo="https://p1.hiclipart.com/preview/610/415/806/tv-channel-icons-pack-starz-movieplex-color-png-icon-thumbnail.jpg" group-title="CINE",Fam Movies
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88274
+#EXTINF:-1 tvg-id="" tvg-name="MGM+ Drive-In HD" tvg-logo="https://seeklogo.com/images/M/mgm-drive-in-logo-087B35A5FC-seeklogo.com.png" group-title="CINE",MGM+ Drive-In HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88275
+#EXTINF:-1 tvg-id="" tvg-name="MGM+ Marquee HD" tvg-logo="https://seeklogo.com/images/M/mgm-marquee-logo-3BDD06EA75-seeklogo.com.png" group-title="CINE",MGM+ Marquee HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88276
+#EXTINF:-1 tvg-id="" tvg-name="MGM+ HITS HD" tvg-logo="https://seeklogo.com/images/M/mgm-hits-logo-A8D9F99377-seeklogo.com.png" group-title="CINE",MGM+ HITS HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88277
+#EXTINF:-1 tvg-id="" tvg-name="MGM+ HD East" tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--NbEM4jyb--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1664380416/mgm-plus-logo.jpg" group-title="CINE",MGM+ HD East
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88278
+#EXTINF:-1 tvg-id="" tvg-name="MGM+ HD West" tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--NbEM4jyb--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1664380416/mgm-plus-logo.jpg" group-title="CINE",MGM+ HD West
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88279
+#EXTINF:-1 tvg-id="" tvg-name="MoreMax HD" tvg-logo="https://logodix.com/logo/1987648.png" group-title="CINE",MoreMax HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88280
+#EXTINF:-1 tvg-id="" tvg-name="MovieMAX HD" tvg-logo="https://archive.org/download/CinemaxMoviemax/cinemax%20moviemax.png" group-title="CINE",MovieMAX HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88281
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge HD" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="CINE",Golden Edge HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88282
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere 2" tvg-logo="https://archive.org/download/ActionMax/action%20max.png" group-title="CINE",Golden Premiere 2
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88283
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere" tvg-logo="https://logodix.com/logo/1987648.png" group-title="CINE",Golden Premiere
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88284
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD West" tvg-logo="https://img2.gratispng.com/20180808/skv/kisspng-logo-cinemax-television-channel-image-5b6a9a47204a89.8950189515337129671323.jpg" group-title="CINE",Cinemax HD West
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88285
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="" group-title="CINE",Ultra Cine
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88435
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico" tvg-logo="" group-title="CINE",Ultra Clasico
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88436
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Mex" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-Mex-Logo.png" group-title="CINE",Ultra Mex
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88437
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Familia" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamilia_NLogo.png" group-title="CINE",Ultra Familia
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88438
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Fiesta" tvg-logo="https://pbs.twimg.com/profile_images/663768544132337664/0tN8wtTF_400x400.jpg" group-title="CINE",Ultra Fiesta
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88440
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Macho" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Logo-Ultra-Macho.jpg" group-title="CINE",Ultra Macho
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/88441
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA Clasico SD" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA Clasico SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/12000
+#EXTINF:-1 tvg-id="" tvg-name="Películas",Pluto TV Sci-Fi" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/cine-latino-grande.jpg" group-title="CINE",Películas",Pluto TV Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL SD" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE",STAR CHANNEL SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11700
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL SD" tvg-logo="http://media.biobiochile.cl/wp-content/uploads/2016/01/cinecanal_titulo.jpg" group-title="CINE",CINECANAL SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11660
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX SD" tvg-logo="https://cdn.mitvstatic.com/channels/b8429039-13c7-42e5-856d-200ca8a6af37_m.jpg" group-title="CINE",CINEMAX SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11672
+#EXTINF:-1 tvg-id="" tvg-name="Az Cinema" tvg-logo="https://archive.org/download/ActionMax/action%20max.png" group-title="CINE",Az Cinema
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/12039
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD" tvg-logo="https://www.nicepng.com/png/detail/434-4344309_golden-plus-golden-plus-logo-png.png" group-title="CINE",Golden Plus HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/13465
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN SD" tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="CINE",GOLDEN SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11705
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV  Nuestro Cine" tvg-logo="" group-title="CINE",Pluto TV  Nuestro Cine
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/28073
+#EXTINF:-1 tvg-id="" tvg-name="FILM Y ARTS SD" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/filmandarts.jpg" group-title="CINE",FILM Y ARTS SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11626
+#EXTINF:-1 tvg-id="" tvg-name="Gran hermano generación dorada 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="CINE",HBO SD 
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11650
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS SD" tvg-logo="http://images-us.ott.kaltura.com/Service.svc/GetImage/p/313/entry_id/ae64e9a75dbf48c6ae781bcf2821df03_1/version/13/width/282/height/158/quality/100" group-title="CINE",HBO PLUS SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11646
+#EXTINF:-1 tvg-id="" tvg-name="HBO PREMIER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_XH6MuEnEATAAlH8zWl_QdBMbqIns_Nd2ug&s" group-title="CINE",HBO PREMIER
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11657
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP SD" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1312324970_HBOPOP(variantenaranja).png.347982efb47aede5dcf1812e773de650.png" group-title="CINE",HBO POP SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/26319
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme SD" tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg" group-title="CINE",HBO Xtreme SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/26321
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi SD" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="CINE",HBO Mundi SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/26320
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/ISAT99.png/revision/latest/scale-to-width-down/397?cb=20190504184843" group-title="CINE",Sony Movies
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11829
+#EXTINF:-1 tvg-id="" tvg-name="SONY SD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/6c/0e/8a/6c0e8a98-e435-d41d-4ffa-d604d5508f18/source/512x512bb.jpg" group-title="CINE",SONY SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11633
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa SD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="CINE",Europa Europa SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/41763
+#EXTINF:-1 tvg-id="" tvg-name="SPACE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM2EnqExvTjmG7cHAfb7TJP37KXIP4vXFxTEZm82pFqUflJRuW" group-title="CINE",SPACE SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11664
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/640px-TNT_%28TV_Channel%29.svg.png" group-title="CINE",TNT SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11668
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT SD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0020/4026/brand.gif?itok=LUKqxiHp" group-title="CINE",PARAMOUNT SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11842
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL STUDIO SD" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="CINE",UNIVERSAL STUDIO SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11627
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CH  SD" tvg-logo="https://cine3-media.s3-accelerate.amazonaws.com/2013/03/warner.jpg" group-title="CINE",WARNER CH  SD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11621
+#EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/pe_eurochannel_m.png" group-title="CINE",EUROCHANNEL
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11835
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.ytimg.com/vi/vWA3GZBOW0U/maxresdefault.jpg" group-title="CINE",UNIVERSAL CINEMA
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/12450
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="CINE",FX HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/12451
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINE",HBO POP
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/16284
+#EXTINF:-1 tvg-id="" tvg-name="I SAT HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/ISAT99.png/revision/latest/scale-to-width-down/397?cb=20190504184843" group-title="CINE",I SAT HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11830
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png" group-title="CINE",TBS HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11880
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime_m.png" group-title="CINE",MAX PRIME
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/16285
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="CINE",HBO Comedy HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/16290
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="CINE",HBO HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11649
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMYLI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO FAMYLI HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11652
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 Latino" tvg-logo="http://memotv.alwaysdata.net/thumbs/HBO_Latino.png" group-title="CINE",HBO 2 Latino
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11654
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://www.logolynx.com/images/logolynx/e0/e0fec439ac2798272a714e34dee7d71f.png" group-title="CINE",HBO Plus
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/24710
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE",HBO SIGNATURE HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11659
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE",HBO 2 HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11656
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CH  HD" tvg-logo="https://cine3-media.s3-accelerate.amazonaws.com/2013/03/warner.jpg" group-title="CINE",WARNER CH  HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11622
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/6c/0e/8a/6c0e8a98-e435-d41d-4ffa-d604d5508f18/source/512x512bb.jpg" group-title="CINE",SONY HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11632
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="https://i0.wp.com/www.luisan.net/blog/wp-content/uploads/2010/03/syfy-rebranding-logotipo-e1549536172636.jpg?fit=866%2C487&ssl=1" group-title="CINE",SYFY HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11637
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/640px-TNT_%28TV_Channel%29.svg.png" group-title="CINE",HOLLYWOOD HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11639
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_europa-europa_m.png" group-title="CINE",EUROPA EUROPA
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11848
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD LATINO" tvg-logo="https://www.dafont.com/forum/attach/orig/1/3/130921.jpg" group-title="CINE",SPACE HD LATINO
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11666
+#EXTINF:-1 tvg-id="" tvg-name="CLARO CINEMA" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11667
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="data:image/png;base64,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" group-title="CINE",TNT HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11669
+#EXTINF:-1 tvg-id="" tvg-name="Gran hermano generación dorada 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="CINE",FOX CHANNEL 
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/16457
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS HD" tvg-logo="http://www.tvmap.com.br/Images/ch/608.jpg" group-title="CINE",FILM & ARTS HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/14276
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="http://media.biobiochile.cl/wp-content/uploads/2016/01/cinecanal_titulo.jpg" group-title="CINE",CINECANAL HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11662
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="CINE",Star Channel HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11701
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD" tvg-logo="https://www.cynopsis.com/wp-content/uploads/2017/09/paramount-logo.jpg" group-title="CINE",PARAMOUNT HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/16968
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network HD" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2020/10/paramount-network-logo-vector.png" group-title="CINE",Paramount Network HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11918
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="CINE",GOLDEN HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/17813
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE",Golden Edge HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11944
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.GoldenPlus.png.2bb811abb24ea652e0afb3148038747e.png" group-title="CINE",Golden Plus HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11941
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier HD" tvg-logo="https://www.ipuntotv.com/IMAGES/Golden-Premier-logo.png" group-title="CINE",Golden Premier HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11936
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="CINE",STUDIO UNIVERSAL HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/17815
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TCM_HD.png" group-title="CINE",TCM HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11641
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="https://cdn.mitvstatic.com/channels/b8429039-13c7-42e5-856d-200ca8a6af37_m.jpg" group-title="CINE",CINEMAX HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11673
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/AMC-Theatres-Logo-1980.jpg" group-title="CINE",AMC HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11643
+#EXTINF:-1 tvg-id="" tvg-name="Starz Black" tvg-logo="http://www.eltecsa.com/logos/Starz-Logo.jpg" group-title="CINE",Starz Black
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11938
+#EXTINF:-1 tvg-id="" tvg-name="STARZ CINEMA" tvg-logo="http://www.eltecsa.com/logos/Starz-Logo.jpg" group-title="CINE",STARZ CINEMA
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11925
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema" tvg-logo="http://www.eltecsa.com/logos/Starz-Logo.jpg" group-title="CINE",Starz Cinema
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11937
+#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy" tvg-logo="http://www.eltecsa.com/logos/Starz-Logo.jpg" group-title="CINE",Starz Comedy
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11935
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge" tvg-logo="http://www.eltecsa.com/logos/Starz-Logo.jpg" group-title="CINE",Starz Edge
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11933
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action" tvg-logo="http://www.eltecsa.com/logos/Starz-Logo.jpg" group-title="CINE",Starz Encore Action
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11932
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Classic" tvg-logo="http://www.eltecsa.com/logos/Starz-Logo.jpg" group-title="CINE",Starz Encore Classic
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11931
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Suspense" tvg-logo="http://www.eltecsa.com/logos/Starz-Logo.jpg" group-title="CINE",Starz Encore Suspense
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11928
+#EXTINF:-1 tvg-id="" tvg-name="Starz FAMILY" tvg-logo="http://www.eltecsa.com/logos/Starz-Logo.jpg" group-title="CINE",Starz FAMILY
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11924
+#EXTINF:-1 tvg-id="" tvg-name="Starz FAMILY Y KIDS" tvg-logo="http://www.eltecsa.com/logos/Starz-Logo.jpg" group-title="CINE",Starz FAMILY Y KIDS
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11926
+#EXTINF:-1 tvg-id="" tvg-name="STARZ WESTERN" tvg-logo="http://www.eltecsa.com/logos/Starz-Logo.jpg" group-title="CINE",STARZ WESTERN
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11927
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel Reality" tvg-logo="https://pbs.twimg.com/profile_images/49045732/logo-universal-channel_400x400.jpg" group-title="CINE",Universal Channel Reality
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11680
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crimen" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CRIME.png.d22aad2d95d447a1355321478751a1fe.png" group-title="CINE",Universal Crimen
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11690
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/Showtime.png" group-title="CINE",SHOWTIME
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11940
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 FHD" tvg-logo="https://i.pinimg.com/originals/ff/e8/e0/ffe8e06088efbad75512bea09b3f4e77.png" group-title="CINE",HBO2 FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11645
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FHD" tvg-logo="data:image/png;base64,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" group-title="CINE",HBO PLUS FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11647
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMYLI FHD" tvg-logo="data:image/png;base64,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" group-title="CINE",HBO FAMYLI FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11653
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD" tvg-logo="http://1.bp.blogspot.com/-Xd7vMVpLfHE/UZao9Uda_QI/AAAAAAAADRU/ZpLJyzaWJiY/w1200-h630-p-k-no-nu/HBO-Signature-hd-na-sky.jpg" group-title="CINE",HBO Signature FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11950
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL FHD" tvg-logo="http://media.biobiochile.cl/wp-content/uploads/2016/01/cinecanal_titulo.jpg" group-title="CINE",CINECANAL FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11663
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier 2 HD" tvg-logo="https://epg.tcc.com.uy/recursos/senales/COLOR/362-color.png" group-title="CINE",Golden Premier 2 HD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11676
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax East FHD" tvg-logo="http://www.phonoscopefiber.com/residential/residential-lineup/images/channel-cinemaxeast.jpg" group-title="CINE",Cinemax East FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11948
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action FHD" tvg-logo="https://www.andytvbox.com/wp-content/uploads/2017/11/ActionMax-HD-East.png" group-title="CINE",Cinemax Action FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11947
+#EXTINF:-1 tvg-id="" tvg-name="MoviePlex" tvg-logo="https://sc.dish.com/shared/images/station-logos/mplex.png" group-title="CINE",MoviePlex
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11946
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus" tvg-logo="https://sc.dish.com/shared/images/station-logos/SHOB.PNG" group-title="CINE",De Pelicula Plus
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11943
+#EXTINF:-1 tvg-id="" tvg-name="Showtime East FHD" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/showtime-east.jpg" group-title="CINE",Showtime East FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11942
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2" tvg-logo="https://www.gmkfreelogos.com/logos/S/img/Showtime_West.gif" group-title="CINE",Showtime 2
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11939
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="https://i1.wp.com/univisate.com/wp-content/uploads/2018/08/tnt-HD.jpg?ssl=1" group-title="CINE",TNT FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11670
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FHD" tvg-logo=" https://static.elcorreo.com/www/pre2017/multimedia/RC/201203/01/Media/logo--300x260.JPG" group-title="CINE",PARAMOUNT FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/12481
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL STUDIO FHD" tvg-logo="data:image/png;base64,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" group-title="CINE",UNIVERSAL STUDIO FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11629
+#EXTINF:-1 tvg-id="" tvg-name="SONY FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/6c/0e/8a/6c0e8a98-e435-d41d-4ffa-d604d5508f18/source/512x512bb.jpg" group-title="CINE",SONY FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11634
+#EXTINF:-1 tvg-id="" tvg-name="WARNER  CHANNEL  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE",WARNER  CHANNEL  FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/16455
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="CINE",CANAL FOX FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/16456
+#EXTINF:-1 tvg-id="" tvg-name="FX FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" group-title="CINE",FX FHD
+http://planettvweb.com:8091/Gonzalo133/MLpg4289DZ/11958
 
 
 
