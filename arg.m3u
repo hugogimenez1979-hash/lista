@@ -15,18 +15,7 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8335
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/67004
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/178777
 
-#EXTINF:0,CINE | A&E HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/435979.ts
-#EXTINF:0,CINE | A&E SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/435982.ts
-#EXTINF:0,CINE | STAR CHANEL HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/436007.ts
-#EXTINF:0,CINE | STAR CHANEL SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/436010.ts
+
 #EXTINF:0,CINE | CINEMAX HD 
 #EXTVLCOPT:network-caching=1000
 http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/435991.ts
@@ -39,537 +28,7 @@ http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1251.ts
 #EXTINF:0,CINE | CINECANAL  SD
 #EXTVLCOPT:network-caching=1000
 http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1252.ts
-#EXTINF:0,CINE | AXN  FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1254.ts
-#EXTINF:0,CINE | AXN  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1255.ts
-#EXTINF:0,CINE | AXN  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1257.ts
-#EXTINF:0,CINE  | TNT SERIES  FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1247.ts
-#EXTINF:0,CINE | TNT SERIES  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1248.ts
-#EXTINF:0,CINE  | TⓝT  FHD 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1244.ts
-#EXTINF:0,CINE  | TÑT  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1245.ts
-#EXTINF:0,CINE  | TNT  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1246.ts
-#EXTINF:0,CINE |  TNT SERIES  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1250.ts
-#EXTINF:0,CINE | HBO  FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/54.ts
-#EXTINF:0,CINE | HBO  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/55.ts
-#EXTINF:0,CINE  | HBO  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1240.ts
-#EXTINF:0,CINE | HBO 2 HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/435985.ts
-#EXTINF:0,CINE | HBO 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/435988.ts
-#EXTINF:0,CINE  | HBO FAMILY FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/51.ts
-#EXTINF:0,CINE | HBO FAMILY  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/52.ts
-#EXTINF:0,CINE | HBO FAMILY  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53.ts
-#EXTINF:0,CINE  | HBO PLUS  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/49.ts
-#EXTINF:0,CINE  | HBO PLUS  FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/50.ts
-#EXTINF:0,CINE  | HBO XTREME HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/47.ts
-#EXTINF:0,CINE | HBO XTREME FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/48.ts
-#EXTINF:0,CINE | HBO SIGNATURE  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/46.ts
-#EXTINF:0,CINE  | HBO POP  FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1242.ts
-#EXTINF:0,CINE  | HBO .POP  HD 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1243.ts
-#EXTINF:0,CINE | HBO MUNDl FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53937.ts
-#EXTINF:0,CINE | HBO MUNDI HD 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53939.ts
-#EXTINF:0,CINE l P∆R∆M0UNT + HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53938.ts
-#EXTINF:0,CINE | SPACE CHANEL  FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1280.ts
-#EXTINF:0,CINE | SPACE CHANEL  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1281.ts
-#EXTINF:0,CINE | SPACE CHANEL  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1282.ts
-#EXTINF:0,CINE | FX  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1275.ts
-#EXTINF:0,CINE | FX  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1276.ts
-#EXTINF:0,CINE | TCM  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1266.ts
-#EXTINF:0,CINE |  TCM  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1267.ts
-#EXTINF:0,CINE | CINE LATINO
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/100681.ts
-#EXTINF:0,CINE GOLDEN PLUS FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53940.ts
-#EXTINF:0,CINE | GOLDEN PLUS HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53941.ts
-#EXTINF:0,CINE | GOLDEN PLUS SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53942.ts
-#EXTINF:0,CINE | GOLDEN PREMIER  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1293.ts
-#EXTINF:0,CINE | GOLDEN PREMIER  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1294.ts
-#EXTINF:0,CINE | WARNER  FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1258.ts
-#EXTINF:0,CINE | WARNER  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1259.ts
-#EXTINF:0,CINE | WARNER  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1260.ts
-#EXTINF:0,CINE | SONY M0VIES FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1261.ts
-#EXTINF:0,CINE | SONY  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1263.ts
-#EXTINF:0,CINE | SONY  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1264.ts
-#EXTINF:0,CINE | GOLDEN  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1287.ts
-#EXTINF:0,CINE | GOLDEN  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1288.ts
-#EXTINF:0,CINE | GOLDEN EDG  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1290.ts
-#EXTINF:0,CINE | GOLDEN EDG  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1291.ts
-#EXTINF:0,P | UNIVERSAL CINEMA HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/111421.ts
-#EXTINF:0,P | UNIVERSAL CRIMEN HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/111422.ts
-#EXTINF:0,P | UNIVERSAL COMEDY HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/111417.ts
-#EXTINF:0,P | UNIVERSAL PREMIER HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/111419.ts
-#EXTINF:0,P | UNIVERSAL REALITY HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/111420.ts
-#EXTINF:0,CINE | UNIVERSAL CHANEL HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1269.ts
-#EXTINF:0,CINE | UNIVERSAL CHANEL  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1270.ts
-#EXTINF:0,CINE | UNIVERSAL STUDIO FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1268.ts
-#EXTINF:0,CINE | AMC  SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1285.ts
-#EXTINF:0,CINE | AMC HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/1284.ts
-#EXTINF:0,ClNE | AMC SERIES 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/376321.ts
-#EXTINF:0,EUROPA EUROPA
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/317522.ts
-#EXTINF:0,ClNE l °US∆ SERIES 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/346686.ts
-#EXTINF:0,ClNE l DHE cine  HD 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/400290.ts
-#EXTINF:0,Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53457.ts
-#EXTINF:0,Discovery Channel SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53458.ts
-#EXTINF:0,DISCOVERY Science HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53464.ts
-#EXTINF:0,DISCOVERY Turbo HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53467.ts
-#EXTINF:0,DISCOVERY Turbo SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53468.ts
-#EXTINF:0,DISCOVERY World SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53470.ts
-#EXTINF:0,Discovery Investigation sd
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53463.ts
-#EXTINF:0,Discovery Investigation HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53462.ts
-#EXTINF:0,DISCOVERY Theater HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53465.ts
-#EXTINF:0,DISCOVERY Theater sd
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53466.ts
-#EXTINF:0,FOOD NETWORK 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/227677.ts
-#EXTINF:0,EL GOURMET
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53474.ts
-#EXTINF:0,HOLA! TV
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/126560.ts
-#EXTINF:0,LIFETIME HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/128338.ts
-#EXTINF:0,E! Entretainment FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/122959.ts
-#EXTINF:0,E! Entretainment HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/126151.ts
-#EXTINF:0,NATGEO HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53489.ts
-#EXTINF:0,NATGEO HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53491.ts
-#EXTINF:0,HISTORY SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53482.ts
-#EXTINF:0,HISTORY HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53481.ts
-#EXTINF:0,ANIMAL Planet HD.
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/54172.ts
-#EXTINF:0,ANIMAL PLANET SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/114382.ts
-#EXTINF:0,History 2 SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53488.ts
-#EXTINF:0,History 2 HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53483.ts
-#EXTINF:0,DISCOVERY World HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53469.ts
-#EXTINF:0,CGTN ESPANOL HD 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/435858.ts
-#EXTINF:0,TLC SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/126559.ts
-#EXTINF:0,NATGEO FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53492.ts
-#EXTINF:0,Az click
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/315941.ts
-#EXTINF:0,CANAL DE C0ClN∆
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/110241.ts
-#EXTINF:0,TLC HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/126558.ts
-#EXTINF:0,Discovery Familia HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53473.ts
-#EXTINF:0,Discovery Familia FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53472.ts
-#EXTINF:0,C∆N∆L DEC∆S∆
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/110244.ts
-#EXTINF:0,LOVE  NATURALEZA
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/118747.ts
-#EXTINF:0,w_1200 - ar_4:3,f_auto,q_auto,g_auto/MTkwNzU1MzUxMTQ0OTY1ODE0/hgtv.png" group-title=" ✅ CULTURA  ✅",HGTV FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/126561.ts
-#EXTINF:0,Discovery Home & Health SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53460.ts
-#EXTINF:0,Discovery Home & Health HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/53459.ts
-#EXTINF:0,NATGEO WILD HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/54171.ts
-#EXTINF:0,NIÑOS | NICKTOONS HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132709.ts
-#EXTINF:0,NIÑOS | NICKTOONS SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132710.ts
-#EXTINF:0,NIÑOS | DISCOVERY KIDS  HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132701.ts
-#EXTINF:0,NIÑOS | DISCOVERY KIDS SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132702.ts
-#EXTINF:0,NIÑOS | DISNEY CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132699.ts
-#EXTINF:0,NIÑOS | DISNEY CHANNEL SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132700.ts
-#EXTINF:0,NIÑOS | DISNEY JR HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132697.ts
-#EXTINF:0,NIÑOS | DISNEY JR SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132698.ts
-#EXTINF:0,NIÑOS | BABY TV HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132689.ts
-#EXTINF:0,NIÑOS | BABY TV SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132690.ts
-#EXTINF:0,NIÑOS | NICKELODEON HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132711.ts
-#EXTINF:0,NIÑOS | NICKELODEON SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132712.ts
-#EXTINF:0,NIÑOS | NICK JR SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132696.ts
-#EXTINF:0,NIÑOS | CARTOON NETWORK HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132707.ts
-#EXTINF:0,NIÑOS | CARTOONITO SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132708.ts
-#EXTINF:0,NIÑOS | NICK HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132691.ts
-#EXTINF:0,NIÑOS | NICK SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132692.ts
-#EXTINF:0,NIÑOS | C.ANAL INFANTIL
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/143797.ts
-#EXTINF:0,NIÑOS | NICK 2 SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132694.ts
-#EXTINF:0,NIÑOS | TOONCAST SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132704.ts
-#EXTINF:0,NIÑOS | NICK 2 HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132693.ts
-#EXTINF:0,NIÑOS | NICK JR HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132695.ts
-#EXTINF:0,NIÑOS | TOONCAST HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/132703.ts
-#EXTINF:0,GRAN HERMANO 24/7
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/454926.ts
-#EXTINF:0,GRAN HERMANO CAM 1
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/454927.ts
-#EXTINF:0,GRAN HERMANO CAM 2
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/454928.ts
-#EXTINF:0,GRAN HERMANO CAM 3
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/454929.ts
-#EXTINF:0,GRAN HERMANO MULTICAMARA
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/454930.ts
-#EXTINF:0,AR | AMERIC∆  ꜱᴅ
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81275.ts
-#EXTINF:0,AR | AMERICA TV HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81276.ts
-#EXTINF:0,AR | AMERICA FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81283.ts
-#EXTINF:0,AR | EL NUEVE SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81272.ts
-#EXTINF:0,AR | EL NUEVE HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81271.ts
-#EXTINF:0,AR | EL NUEVE FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81270.ts
-#EXTINF:0,AR | TELEFE HD ¹
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81285.ts
-#EXTINF:0,AR | TELEFE HD ²
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/50510.ts
-#EXTINF:0,AR | TELEFE FHD 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/50521.ts
-#EXTINF:0,AR | CRONICA HD ¹
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81268.ts
-#EXTINF:0,AR-| ARGENTINISIMA HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81318.ts
-#EXTINF:0,AR-| ARGENTINISIMA SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81319.ts
-#EXTINF:0,AR | C5N FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81273.ts
-#EXTINF:0,AR | Telemax sd
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81288.ts
-#EXTINF:0,AR-| EL GARAGE TV HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81322.ts
-#EXTINF:0,AR | NOTICIAS TN SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81325.ts
-#EXTINF:0,AR | C∆N∆L 13 HD ¹
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81300.ts
-#EXTINF:0,AR | CANAL 13 FHD* 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81266.ts
-#EXTINF:0,AR | CANAL 13 HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81269.ts
-#EXTINF:0,AR | TV PUBLICA HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81265.ts
-#EXTINF:0,AR l VOLVER HD 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/140128.ts
-#EXTINF:0,AR l VOLVER HD opc  ²
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/421649.ts
-#EXTINF:0,AR-| LN+
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81323.ts
-#EXTINF:0,ARG: Canal lNFANTIL 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/144337.ts
-#EXTINF:0,AR | Telemax HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81287.ts
-#EXTINF:0,AR | NOTICIAS TN HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81324.ts
-#EXTINF:0,AR I| PAKAPAKA HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/352333.ts
-#EXTINF:0,AR | TV PUBLICA FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81264.ts
-#EXTINF:0,AR | A24  ꜱᴅ
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81290.ts
-#EXTINF:0,AR | A24  ʜᴅ
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81289.ts
-#EXTINF:0,AR | C5N HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81274.ts
-#EXTINF:0,AR-| CINE AR SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81321.ts
-#EXTINF:0,AR-| CINE AR HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81320.ts
-#EXTINF:0,AR-| CANAL 26 NOTICIAS SD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81317.ts
-#EXTINF:0,AR | CANAL 26 NOTICIAS HD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/81310.ts
-#EXTINF:0,AR | CIUDAD MAGAZINE HD 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/86689.ts
-#EXTINF:0,ARG: TV Universidad Nacional de La Plata
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/144336.ts
-#EXTINF:0,AR |*F∆SHl0N TV 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/305969.ts
-#EXTINF:0,AR | NET TV HD 
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/305968.ts
-#EXTINF:0,NETFLIX FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/317032.ts
-#EXTINF:0,PARAMOUNT+ FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/317033.ts
-#EXTINF:0,CINEMA VIP 01 FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/317035.ts
-#EXTINF:0,CINEMA VIP 05 FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/317039.ts
-#EXTINF:0,PARAMOUNT+ FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/317042.ts
-#EXTINF:0,CINEMA VIP 09 FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/317043.ts
-#EXTINF:0,CINEMA VIP 12 FHD
-#EXTVLCOPT:network-caching=1000
-http://daleplaytv.vip:80//live/9C00D3211DA4/00D3211DA49C/317046.ts
+
 #EXTINF:-1 xm-ott="{ID}" tvg-id="golden.premier.mx" tvg-name="CINE | GOLDEN PREMIER" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b9/Golden_Premier_LA_2020.png/revision/latest?cb=20210112175406&path-prefix=es" group-title="CINE PREMIUM",CINE | GOLDEN PREMIER
 http://livetv-plus.com:8880//live/FamDuarte/tsVh57rFZg/67425.ts
 #EXTINF:-1 xm-ott="{ID}" tvg-id="hbo.pop.mx" tvg-name="CINE | HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="CINE PREMIUM",CINE | HBO POP
@@ -1809,6 +1268,349 @@ http://xstr.cyou:8080/JUF297LUY0/cta27playec/81320
 http://xstr.cyou:8080/JUF297LUY0/cta27playec/81322
 #EXTINF:-1 tvg-id="" tvg-name="AR-| LN+ ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8f5raMcEwss9lSlka2g6ppZPj2EnFlJwIw&usqp=CAU" group-title="⭐ ARGENTINA",AR-| LN+ ʜᴅ
 http://xstr.cyou:8080/JUF297LUY0/cta27playec/81323
+
+#EXTINF:-1 xui-id="182099" tvg-id="" tvg-name="PREM HD: AMC" tvg-logo="https://pyxis.nymag.com/v1/imgs/edf/268/d49ab6600c875d79022497903784a9f6ce-27-amc-logo.rsquare.w330.jpg" group-title="CINE",PREM HD: AMC
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YvY-iJCzROTBIlz3BVoZYaf/ts
+#EXTINF:-1 xui-id="182051" tvg-id="" tvg-name="PREM HD: AMC EAST" tvg-logo="https://pyxis.nymag.com/v1/imgs/edf/268/d49ab6600c875d79022497903784a9f6ce-27-amc-logo.rsquare.w330.jpg" group-title="CINE",PREM HD: AMC EAST
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YsMFXXUmTBtlP1xLVYWkozT/ts
+#EXTINF:-1 xui-id="182052" tvg-id="" tvg-name="PREM HD: AMC WEST" tvg-logo="https://pyxis.nymag.com/v1/imgs/edf/268/d49ab6600c875d79022497903784a9f6ce-27-amc-logo.rsquare.w330.jpg" group-title="CINE",PREM HD: AMC WEST
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Yumi4Hu3uYEuiWe24XQFAz2/ts
+#EXTINF:-1 xui-id="182100" tvg-id="" tvg-name="PREM HD: AXN" tvg-logo="https://logoquizgame-answers.com/wp-content/uploads/2014/08/logos-quiz-0836.jpg" group-title="CINE",PREM HD: AXN
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB6n1zCtL2eM3rzqEKUm2AX3/ts
+#EXTINF:-1 xui-id="182053" tvg-id="" tvg-name="PREM HD: AXN 2" tvg-logo="https://logoquizgame-answers.com/wp-content/uploads/2014/08/logos-quiz-0836.jpg" group-title="CINE",PREM HD: AXN 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YsFbkSehHYRz08iH1cjCEvQ/ts
+#EXTINF:-1 xui-id="182101" tvg-id="" tvg-name="PREM HD: CINE DINAMITA" tvg-logo="https://th.bing.com/th/id/R.e798f402f64e5084e0093af192e707d2?rik=ZgOx94tddZlH2Q&riu=http%3a%2f%2fwww.newslinereport.com%2fonline%2fnota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg&ehk=vKE2dFj%2fiEMUncv0GkRGF6839UbpmBaJQMnrOLctuC8%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="CINE",PREM HD: CINE DINAMITA
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB7nkiI_HvX6ViHeDhzhnl73/ts
+#EXTINF:-1 xui-id="182102" tvg-id="" tvg-name="PREM HD: CINECANAL" tvg-logo="https://4vector.com/i/free-vector-cinecanal_048372_cinecanal.png" group-title="CINE",PREM HD: CINECANAL
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB4FniIWQRnfGKUF_Eu3ZboZ/ts
+#EXTINF:-1 xui-id="182054" tvg-id="" tvg-name="PREM HD: CINECANAL EAST" tvg-logo="https://4vector.com/i/free-vector-cinecanal_048372_cinecanal.png" group-title="CINE",PREM HD: CINECANAL EAST
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YvbjBxESGf8wIkFeYOvRUFQ/ts
+#EXTINF:-1 xui-id="182103" tvg-id="" tvg-name="PREM HD: CINELATINO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cine-latino_m.png" group-title="CINE",PREM HD: CINELATINO
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB7fd8ycESuzMCpyKRoQjsyi/ts
+#EXTINF:-1 xui-id="182056" tvg-id="" tvg-name="PREM HD: CINEMAX EAST" tvg-logo="https://www.nicepng.com/png/detail/738-7388443_cinemax-png.png" group-title="CINE",PREM HD: CINEMAX EAST
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YvuS_V81v9V6CM8frJG4ToK/ts
+#EXTINF:-1 xui-id="182055" tvg-id="" tvg-name="PREM HD: CINEMAX | op1" tvg-logo="https://www.nicepng.com/png/detail/738-7388443_cinemax-png.png" group-title="CINE",PREM HD: CINEMAX | op1
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YuDSzttC-32sbkHSpnXPxQH/ts
+#EXTINF:-1 xui-id="182104" tvg-id="" tvg-name="PREM HD: DE PELÍCULA" tvg-logo="https://th.bing.com/th/id/OIP.t5CHwEx0xzpHdJeJR7vscgHaE7?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: DE PELÍCULA
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB7lpCze_3DY4YUr1cUPArv5/ts
+#EXTINF:-1 xui-id="182105" tvg-id="" tvg-name="PREM HD: DE PELÍCULA PLUS" tvg-logo="https://th.bing.com/th/id/OIP.R8GQKsIjgUeG9C1BF2cEIAHaIM?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: DE PELÍCULA PLUS
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB78ubcfBn0Xec_X5QOHrKiJ/ts
+#EXTINF:-1 xui-id="182106" tvg-id="" tvg-name="PREM HD: DE PELÍCULAS CLASICO" tvg-logo="https://th.bing.com/th/id/OIP.pw90ruxFP4N2v9hvtd2LhAHaHD?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: DE PELÍCULAS CLASICO
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB6i9k3qQPLF1aXWFJAQxej_/ts
+#EXTINF:-1 xui-id="182057" tvg-id="" tvg-name="PREM HD: DHE" tvg-logo="https://yt3.ggpht.com/a/AATXAJzsNdRonOPfxKMFYD2PnS2xSVmaYRPiO3XkEw=s900-c-k-c0xffffffff-no-rj-mo" group-title="CINE",PREM HD: DHE
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Yvc6Wb-hD76h8pG99PzHDFA/ts
+#EXTINF:-1 xui-id="182107" tvg-id="" tvg-name="PREM HD: FX" tvg-logo="https://www.themarysue.com/wp-content/uploads/2016/08/FX-Logo.jpg" group-title="CINE",PREM HD: FX
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB7Z2PvGj3jT-ei87W71uuu3/ts
+#EXTINF:-1 xui-id="182050" tvg-id="" tvg-name="PREM HD: FX 2" tvg-logo="https://www.themarysue.com/wp-content/uploads/2016/08/FX-Logo.jpg" group-title="CINE",PREM HD: FX 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YsT4WtusMRuYDn7x-gGAyuZ/ts
+#EXTINF:-1 xui-id="182108" tvg-id="" tvg-name="PREM HD: FXM" tvg-logo="https://logodix.com/logo/1860182.jpg" group-title="CINE",PREM HD: FXM
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB6iLLnh0mMXu6BjZtRubCu1/ts
+#EXTINF:-1 xui-id="182058" tvg-id="" tvg-name="PREM HD: FXM 2" tvg-logo="https://logodix.com/logo/1860182.jpg" group-title="CINE",PREM HD: FXM 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Yskjp3iM7kjQ2cCZCjme00O/ts
+#EXTINF:-1 xui-id="182059" tvg-id="" tvg-name="PREM HD: GOLDEN" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/55sky-logo-GoldenEdge-150x150-537973470.jpg" group-title="CINE",PREM HD: GOLDEN
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YvRx2xC41ZgO_P_uoPqRHAG/ts
+#EXTINF:-1 xui-id="182109" tvg-id="" tvg-name="PREM HD: GOLDEN 2" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/55sky-logo-GoldenEdge-150x150-537973470.jpg" group-title="CINE",PREM HD: GOLDEN 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB7NELouJ_efZqxeDdcjOA6K/ts
+#EXTINF:-1 xui-id="182060" tvg-id="" tvg-name="PREM HD: GOLDEN EDGE" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-edge-200x184-454653095.jpg" group-title="CINE",PREM HD: GOLDEN EDGE
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YvxJVMJRUNeWLBgrjc2506w/ts
+#EXTINF:-1 xui-id="182112" tvg-id="" tvg-name="PREM HD: GOLDEN EDGE 2" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-edge-200x184-454653095.jpg" group-title="CINE",PREM HD: GOLDEN EDGE 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB63gePr-wEYTFmNi54XfYlr/ts
+#EXTINF:-1 xui-id="182110" tvg-id="" tvg-name="PREM HD: GOLDEN EDGE 3" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-edge-200x184-454653095.jpg" group-title="CINE",PREM HD: GOLDEN EDGE 3
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB47Z4BCX79Ne0ZUFcTycd7M/ts
+#EXTINF:-1 xui-id="182111" tvg-id="" tvg-name="PREM HD: GOLDEN PLUS" tvg-logo="https://appnew.megainfoapp.com/files/1/golden-plus.png" group-title="CINE",PREM HD: GOLDEN PLUS
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB5ulJOA4rv92OiD1rbAEhsc/ts
+#EXTINF:-1 xui-id="182061" tvg-id="" tvg-name="PREM HD: GOLDEN PLUS 2" tvg-logo="https://appnew.megainfoapp.com/files/1/golden-plus.png" group-title="CINE",PREM HD: GOLDEN PLUS 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YuzjHzkve6Y1bVUnLdrtere/ts
+#EXTINF:-1 xui-id="182062" tvg-id="" tvg-name="PREM HD: GOLDEN PREMIER 1" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",PREM HD: GOLDEN PREMIER 1
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YtcKc_6TaxNVmcDF3b-R6kM/ts
+#EXTINF:-1 xui-id="182063" tvg-id="" tvg-name="PREM HD: GOLDEN PREMIER 2" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",PREM HD: GOLDEN PREMIER 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YsHYDgIGMiLJ1cVVSzzHXcY/ts
+#EXTINF:-1 xui-id="182113" tvg-id="I348.80652.schedulesdirect.org" tvg-name="PREM HD: HBO" tvg-logo="https://th.bing.com/th/id/R.a831e079dcacf455b789c9fb46e23f9c?rik=z96c%2fgf%2fltRnlw&riu=http%3a%2f%2ftodovector.com%2fvector%2flogos%2ftv-canales%2f29.png&ehk=MjVO%2brm49EoPkDdnZ1kCbV8uTflEYWhESW4O%2bUE6C9I%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB7dgGtGZHSz8FJOPCp00aDD/ts
+#EXTINF:-1 xui-id="182064" tvg-id="" tvg-name="PREM HD: HBO (mex)" tvg-logo="https://th.bing.com/th/id/R.a831e079dcacf455b789c9fb46e23f9c?rik=z96c%2fgf%2fltRnlw&riu=http%3a%2f%2ftodovector.com%2fvector%2flogos%2ftv-canales%2f29.png&ehk=MjVO%2brm49EoPkDdnZ1kCbV8uTflEYWhESW4O%2bUE6C9I%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO (mex)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Ysxenv01mVrG3yBkckz9bE1/ts
+#EXTINF:-1 xui-id="182114" tvg-id="" tvg-name="PREM HD: HBO +" tvg-logo="https://th.bing.com/th/id/R.adfdda43847285c9bdff8c1618019a84?rik=oIbD47Yr63KDhA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-hbsg4DYqOpI%2fT_4c0d6ZuwI%2fAAAAAAAABjQ%2fkRM-jUoGwXc%2fs1600%2fhbo%2bplus%2bassisitir%2btv%2bonline%2bgratis%2b%2bespn%2b3%2c%2brecord%2c%2btvonline%2c%2bassista%2btv%2bon%2bline%2c%2bassistir%2btv%2bonline%2c%2bfutebol%2bonline%2c%2bver%2bfutebol%2bonline%2c%2btv%2boline%2c%2btvgratis%2c%2bjustin%2btv.jpg&ehk=ybrPZ11pqaMKytto3FaitpQsapg9fjrW%2bVTb%2f57CrOg%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO +
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB4Qn0stS8tE80ynoCbB4N35/ts
+#EXTINF:-1 xui-id="182065" tvg-id="" tvg-name="PREM HD: HBO + | op2" tvg-logo="https://th.bing.com/th/id/R.adfdda43847285c9bdff8c1618019a84?rik=oIbD47Yr63KDhA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-hbsg4DYqOpI%2fT_4c0d6ZuwI%2fAAAAAAAABjQ%2fkRM-jUoGwXc%2fs1600%2fhbo%2bplus%2bassisitir%2btv%2bonline%2bgratis%2b%2bespn%2b3%2c%2brecord%2c%2btvonline%2c%2bassista%2btv%2bon%2bline%2c%2bassistir%2btv%2bonline%2c%2bfutebol%2bonline%2c%2bver%2bfutebol%2bonline%2c%2btv%2boline%2c%2btvgratis%2c%2bjustin%2btv.jpg&ehk=ybrPZ11pqaMKytto3FaitpQsapg9fjrW%2bVTb%2f57CrOg%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO + | op2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Yufrh-bPkWKjhtsBl0BTUzx/ts
+#EXTINF:-1 xui-id="182115" tvg-id="" tvg-name="PREM HD: HBO 2" tvg-logo="https://www.pngarea.com/pngs/71/847343_hbo-logo-png-hbo-2-hd-png-download.png" group-title="CINE",PREM HD: HBO 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB5WEdlpwpi1QQsSGoQVgx5S/ts
+#EXTINF:-1 xui-id="182066" tvg-id="" tvg-name="PREM HD: HBO 2 WEST" tvg-logo="https://www.pngarea.com/pngs/71/847343_hbo-logo-png-hbo-2-hd-png-download.png" group-title="CINE",PREM HD: HBO 2 WEST
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Yt9FyLGM8KQRULJYDNnIAZ-/ts
+#EXTINF:-1 xui-id="182067" tvg-id="" tvg-name="PREM HD: HBO EAST" tvg-logo="https://th.bing.com/th/id/R.a831e079dcacf455b789c9fb46e23f9c?rik=z96c%2fgf%2fltRnlw&riu=http%3a%2f%2ftodovector.com%2fvector%2flogos%2ftv-canales%2f29.png&ehk=MjVO%2brm49EoPkDdnZ1kCbV8uTflEYWhESW4O%2bUE6C9I%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO EAST
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YsjH73MTtxUqzuA6RuTiAGR/ts
+#EXTINF:-1 xui-id="182116" tvg-id="" tvg-name="PREM HD: HBO FAMILY" tvg-logo="https://logodix.com/logo/789134.png" group-title="CINE",PREM HD: HBO FAMILY
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB7e_ToK7RgFvxfNFx_EMAjN/ts
+#EXTINF:-1 xui-id="182068" tvg-id="" tvg-name="PREM HD: HBO FAMILY 2" tvg-logo="https://logodix.com/logo/789134.png" group-title="CINE",PREM HD: HBO FAMILY 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YsRmitIplQhoM1ayIOzV7vi/ts
+#EXTINF:-1 xui-id="182117" tvg-id="" tvg-name="PREM HD: HBO MUNDI" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",PREM HD: HBO MUNDI
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB7-uUk6QvG8PCbQWxdMnV-j/ts
+#EXTINF:-1 xui-id="182069" tvg-id="" tvg-name="PREM HD: HBO MUNDI | op2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",PREM HD: HBO MUNDI | op2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Yu9mxXiKsTgqGlS1aEx3AgE/ts
+#EXTINF:-1 xui-id="182070" tvg-id="" tvg-name="PREM HD: HBO POP" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="CINE",PREM HD: HBO POP
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YsG9RqjT1fkSZJgwSGPnQMU/ts
+#EXTINF:-1 xui-id="182118" tvg-id="" tvg-name="PREM HD: HBO SIGNATURE" tvg-logo="https://th.bing.com/th/id/R.47ae7b7a8f34a9836aae3da2443bedea?rik=tdzFVXAN26OePw&riu=http%3a%2f%2fwww.logotypes101.com%2flogos%2f916%2f74F18B353D9957D52DF832FEBA677F9C%2fHBO_Signature.png&ehk=PDXO7SlrvO3jUvRWU0cam9l8%2fpL461BQjZK9J%2fat3Lo%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO SIGNATURE
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB5KgcDvDrc4MSlY0t6LZpNe/ts
+#EXTINF:-1 xui-id="182071" tvg-id="" tvg-name="PREM HD: HBO SIGNATURE (mex)" tvg-logo="https://th.bing.com/th/id/R.47ae7b7a8f34a9836aae3da2443bedea?rik=tdzFVXAN26OePw&riu=http%3a%2f%2fwww.logotypes101.com%2flogos%2f916%2f74F18B353D9957D52DF832FEBA677F9C%2fHBO_Signature.png&ehk=PDXO7SlrvO3jUvRWU0cam9l8%2fpL461BQjZK9J%2fat3Lo%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO SIGNATURE (mex)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YtYtq2g-DUGiVPvUWEDP2SZ/ts
+#EXTINF:-1 xui-id="182072" tvg-id="" tvg-name="PREM HD: HBO WEST" tvg-logo="https://th.bing.com/th/id/OIP.XT3SnuWdslgMMVeVACUQdQAAAA?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: HBO WEST
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Yv-TJtjgaDfs4av2a1qAj8U/ts
+#EXTINF:-1 xui-id="182073" tvg-id="" tvg-name="PREM HD: HBO XTREME" tvg-logo="https://archive.org/download/brunoflixlogos/hbo_xtreme.png" group-title="CINE",PREM HD: HBO XTREME
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YsORpTllpibUeg3rcHtznX1/ts
+#EXTINF:-1 xui-id="182119" tvg-id="" tvg-name="PREM HD: HBO XTREME | op2" tvg-logo="https://archive.org/download/brunoflixlogos/hbo_xtreme.png" group-title="CINE",PREM HD: HBO XTREME | op2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB5yFL22naIdZI2mO-2eIYkg/ts
+#EXTINF:-1 xui-id="182076" tvg-id="" tvg-name="PREM HD: SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE",PREM HD: SONY CHANNEL
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Ys68-hBrSIPYvGoNPRdndwR/ts
+#EXTINF:-1 xui-id="182077" tvg-id="" tvg-name="PREM HD: SONY CHANNEL | op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE",PREM HD: SONY CHANNEL | op2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Yu2uZWm8PCrOijxzUuELcSC/ts
+#EXTINF:-1 xui-id="182078" tvg-id="" tvg-name="PREM HD: SPACE EAST" tvg-logo="https://4.bp.blogspot.com/-up9acBiSpjQ/USeKRjmHTyI/AAAAAAAADBU/WQK4rt2ZN94/s1600/SPACE-logo.jpg" group-title="CINE",PREM HD: SPACE EAST
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YvYomjxY6Yg8vysuvu8gYyR/ts
+#EXTINF:-1 xui-id="182079" tvg-id="" tvg-name="PREM HD: STAR CHANNEL" tvg-logo="https://blogs.eltiempo.com/esto-le-pasa/wp-content/uploads/sites/57/2021/02/Star-Channel-1020x1024.jpg" group-title="CINE",PREM HD: STAR CHANNEL
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Ys-uMxaspjIOiBkbPptNLhI/ts
+#EXTINF:-1 xui-id="182082" tvg-id="" tvg-name="PREM HD: STAR COMEDY 2" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg" group-title="CINE",PREM HD: STAR COMEDY 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YvZQkhKB5D9Qlikj8D4o1Rs/ts
+#EXTINF:-1 xui-id="182084" tvg-id="" tvg-name="PREM HD: STARZ  ENCORE SUSPENSO" tvg-logo="http://boxdigital.xyz:8080/images/b66d0efb07e6c08aea5fa9a5040cf2ed.png" group-title="CINE",PREM HD: STARZ  ENCORE SUSPENSO
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YsK33EfUYXOa2SeS9TOPEKD/ts
+#EXTINF:-1 xui-id="182080" tvg-id="" tvg-name="PREM HD: STARZ CINEMA" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Cinema_200.jpg" group-title="CINE",PREM HD: STARZ CINEMA
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YuwtIZf7rxluMDSuf-B9ang/ts
+#EXTINF:-1 xui-id="182081" tvg-id="" tvg-name="PREM HD: STARZ CINEMA" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Cinema_200.jpg" group-title="CINE",PREM HD: STARZ CINEMA
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YtZoda6iY2d7zdKp3Ph2zY8/ts
+#EXTINF:-1 xui-id="182085" tvg-id="" tvg-name="PREM HD: STARZ ENCORE ACTION" tvg-logo="https://archive.org/download/StarzEncore_201708/__ia_thumb.jpg" group-title="CINE",PREM HD: STARZ ENCORE ACTION
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YtaEepWfvNi9iiXLwOtgB4-/ts
+#EXTINF:-1 xui-id="182087" tvg-id="" tvg-name="PREM HD: STARZ ENCORE CLASSIC" tvg-logo="https://archive.org/download/StarzEncore_201708/__ia_thumb.jpg" group-title="CINE",PREM HD: STARZ ENCORE CLASSIC
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YtkfJF64OsVgHQTObcKeZpc/ts
+#EXTINF:-1 xui-id="182088" tvg-id="" tvg-name="PREM HD: STARZ ENCORE COMEDY" tvg-logo="https://archive.org/download/StarzEncore_201708/__ia_thumb.jpg" group-title="CINE",PREM HD: STARZ ENCORE COMEDY
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YsfboZzuzPcFJ5_baSrwpoR/ts
+#EXTINF:-1 xui-id="182089" tvg-id="" tvg-name="PREM HD: STARZ ENCORE EAST" tvg-logo="https://archive.org/download/StarzEncore_201708/__ia_thumb.jpg" group-title="CINE",PREM HD: STARZ ENCORE EAST
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Yu5_yV7Qk2VHrkZQEAhO_Vn/ts
+#EXTINF:-1 xui-id="182090" tvg-id="" tvg-name="PREM HD: STARZ ENCORE FAMILY" tvg-logo="https://archive.org/download/StarzEncore_201708/__ia_thumb.jpg" group-title="CINE",PREM HD: STARZ ENCORE FAMILY
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Yux1LidJbi_NVzrDmxg63TG/ts
+#EXTINF:-1 xui-id="182091" tvg-id="" tvg-name="PREM HD: STARZ ENCORE WESTERN" tvg-logo="https://archive.org/download/StarzEncore_201708/__ia_thumb.jpg" group-title="CINE",PREM HD: STARZ ENCORE WESTERN
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YvSuWfwmy1ST37a-Y7LpD7k/ts
+#EXTINF:-1 xui-id="182092" tvg-id="" tvg-name="PREM HD: STARZ IN BLACK" tvg-logo="https://cms.shadowandact.com/wp-content/uploads/2016/05/starz_in_black-compress.jpg" group-title="CINE",PREM HD: STARZ IN BLACK
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YuxDQITR1BqqY7YGASI9I1s/ts
+#EXTINF:-1 xui-id="182123" tvg-id="" tvg-name="PREM HD: STUDIO UNIVERSAL" tvg-logo="https://th.bing.com/th/id/OIP.f8H-Okbu2vjVkz4giuSGdQAAAA?w=200&h=200&rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: STUDIO UNIVERSAL
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB5R_9jfbkKwXC0KTmK93WD2/ts
+#EXTINF:-1 xui-id="182093" tvg-id="" tvg-name="PREM HD: STUDIO UNIVERSAL 2" tvg-logo="https://th.bing.com/th/id/OIP.f8H-Okbu2vjVkz4giuSGdQAAAA?w=200&h=200&rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: STUDIO UNIVERSAL 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YsHCeD3BjCUZjBV0UQLOxm6/ts
+#EXTINF:-1 xui-id="182094" tvg-id="" tvg-name="PREM HD: TCM" tvg-logo="https://brandemia.org/sites/default/files/styles/medium/public/tcm_logo_portada.jpg?itok=klCabAci" group-title="CINE",PREM HD: TCM
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YuRb_oWTPF1gSlMNpnqvy6Q/ts
+#EXTINF:-1 xui-id="182124" tvg-id="" tvg-name="PREM HD: TCM 2" tvg-logo="https://brandemia.org/sites/default/files/styles/medium/public/tcm_logo_portada.jpg?itok=klCabAci" group-title="CINE",PREM HD: TCM 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB6Xn5MWHTgvGT4VfvDKJ4c8/ts
+#EXTINF:-1 xui-id="182125" tvg-id="" tvg-name="PREM HD: TNT" tvg-logo="https://th.bing.com/th/id/OIP.ilk5KmlGWvNVGcaCRuQO7QAAAA?w=474&h=474&rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: TNT
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB5PtpIm3KoSy8yAjq9Lb4qH/ts
+#EXTINF:-1 xui-id="182095" tvg-id="" tvg-name="PREM HD: TNT 2 | op 2" tvg-logo="https://th.bing.com/th/id/OIP.ilk5KmlGWvNVGcaCRuQO7QAAAA?w=474&h=474&rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: TNT 2 | op 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2Yt6qr5v3FCHU0Lpcui72_A_/ts
+#EXTINF:-1 xui-id="210046" tvg-id="" tvg-name="PREM HD: TNT NOVELAS" tvg-logo="https://pbs.twimg.com/media/Fxjs5siWIAsVwb-.jpg" group-title="CINE",PREM HD: TNT NOVELAS
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60VYoez8QzrBAr2n_dWM3ACMwASc7S_AGQgCG3JzkNiZz/ts
+#EXTINF:-1 xui-id="73073" tvg-id="" tvg-name="PREM HD: TNT SERIES" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/04/TNT-Series.png" group-title="CINE",PREM HD: TNT SERIES
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60azViB8XJr2Q3--vmg8m-S11D8BVg327drGTGrBjWoKL/ts
+#EXTINF:-1 xui-id="182096" tvg-id="" tvg-name="PREM HD: TNT SERIES" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/04/TNT-Series.png" group-title="CINE",PREM HD: TNT SERIES
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YtC_2kkt-bMapT98Cs9uc0J/ts
+#EXTINF:-1 xui-id="182097" tvg-id="" tvg-name="PREM HD: UNIVERSAL CHANNEL" tvg-logo="https://th.bing.com/th/id/OIP.QM_GJ3WEVty8mBQCWN8glgAAAA?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: UNIVERSAL CHANNEL
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YuHSE86ho3KXLr_lqgYnckJ/ts
+#EXTINF:-1 xui-id="182046" tvg-id="" tvg-name="PREM HD: UNIVERSAL CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="CINE",PREM HD: UNIVERSAL CINEMA
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YurLPIEWpdK_a_gKbPEWNrt/ts
+#EXTINF:-1 xui-id="182047" tvg-id="" tvg-name="PREM HD: UNIVERSAL COMEDY" tvg-logo="https://th.bing.com/th/id/OIP.CPKoy5tjjzV_BNidDbn2TAHaEC?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: UNIVERSAL COMEDY
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YsKg2mpKhKgQ14ZX7e0I6Aw/ts
+#EXTINF:-1 xui-id="182048" tvg-id="" tvg-name="PREM HD: UNIVERSAL CRIMEN" tvg-logo="https://th.bing.com/th/id/OIP.deUpVV-OWEoPzwwIDCr6gAAAAA?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: UNIVERSAL CRIMEN
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YuKvNL1GiFueZqSpQq1tzen/ts
+#EXTINF:-1 xui-id="182049" tvg-id="" tvg-name="PREM HD: UNIVERSAL PREMIERE" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/universal-premiere-logo.png" group-title="CINE",PREM HD: UNIVERSAL PREMIERE
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YuAXGwaxF-p9-5BuHroW3Ic/ts
+#EXTINF:-1 xui-id="163904" tvg-id="" tvg-name="PREM HD: UNIVERSAL REALITY" tvg-logo="https://th.bing.com/th/id/OIP.4UXtYk37rFIk7CRFEMKnpgHaEE?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: UNIVERSAL REALITY
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60T-TfmQf44D3E6jB-rbdEJmmSoY2KQPj13a4MrN9KEk_/ts
+#EXTINF:-1 xui-id="182126" tvg-id="" tvg-name="PREM HD: WARNER" tvg-logo="https://i1.sndcdn.com/artworks-000161126025-knqfla-t500x500.jpg" group-title="CINE",PREM HD: WARNER
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60cZBNWPASQQiBelWpgPIkB6XwnnvybU1r4hRVIzcboTo/ts
+#EXTINF:-1 xui-id="182098" tvg-id="" tvg-name="PREM HD: WARNER 2" tvg-logo="https://i1.sndcdn.com/artworks-000161126025-knqfla-t500x500.jpg" group-title="CINE",PREM HD: WARNER 2
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60ftUaJPM-8-MLht7UyGm2YshmjrrfQFqYQ4tXV27Dls2/ts
+#EXTINF:-1 xui-id="404604" tvg-id="" tvg-name="PREM HD: USA NETWORK" tvg-logo="https://www.vhv.rs/dpng/d/391-3919387_usa-network-logo-transparent-hd-png-download.png" group-title="CINE",PREM HD: USA NETWORK
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60bvG4Sptl8mUJXk99l5S_AizsULSiWikBb9_0Um3wowS/ts
+#EXTINF:-1 xui-id="74248" tvg-id="" tvg-name="ARG | A24 (lt)" tvg-logo="http://boxdigital.xyz:8080/images/93c1ba05e8c3abfd132831835bf1ec8a.png" group-title="ARGENTINA",ARG | A24 (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60aPeTWfk-k4g5dIY571qqVofZU4D0asVwUQ2CCXNyIKt/ts
+#EXTINF:-1 xui-id="74249" tvg-id="" tvg-name="ARG | A24 FHD (lt)" tvg-logo="http://boxdigital.xyz:8080/images/a43c7f3d9d0f4a718450633e3765b67c.png" group-title="ARGENTINA",ARG | A24 FHD (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60aPeTWfk-k4g5dIY571qqVoMg9_pLhzLctC58cnPh4xQ/ts
+#EXTINF:-1 xui-id="74250" tvg-id="" tvg-name="ARG | A24 HD (lt)" tvg-logo="http://boxdigital.xyz:8080/images/a43c7f3d9d0f4a718450633e3765b67c.png" group-title="ARGENTINA",ARG | A24 HD (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60YccYTKbjMrBfQL5_uvgWqAnXiblH-uyQuk00pKcNxFD/ts
+#EXTINF:-1 xui-id="74251" tvg-id="" tvg-name="ARG | AMERICA 24 (lt)" tvg-logo="http://boxdigital.xyz:8080/images/93c1ba05e8c3abfd132831835bf1ec8a.png" group-title="ARGENTINA",ARG | AMERICA 24 (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60YccYTKbjMrBfQL5_uvgWqBFuwglyb2SE6OGB8cT1m51/ts
+#EXTINF:-1 xui-id="74252" tvg-id="" tvg-name="ARG | AMERICA (lt)" tvg-logo="http://boxdigital.xyz:8080/images/eabdcda490df5225d2a7c1643fd6e58d.png" group-title="ARGENTINA",ARG | AMERICA (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60YccYTKbjMrBfQL5_uvgWqBy98d3Ltcay9MmuDVIjWYg/ts
+#EXTINF:-1 xui-id="74253" tvg-id="" tvg-name="ARG | AMERICA TV (lt)" tvg-logo="http://boxdigital.xyz:8080/images/eabdcda490df5225d2a7c1643fd6e58d.png" group-title="ARGENTINA",ARG | AMERICA TV (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60YccYTKbjMrBfQL5_uvgWqCEHNyWxF7NwwqlpiWEnwub/ts
+#EXTINF:-1 xui-id="74256" tvg-id="" tvg-name="ARG | CIUDAD MAGAZINE (lt)" tvg-logo="http://boxdigital.xyz:8080/images/b37aa172f8c33a06fcb162ca79a609d9.png" group-title="ARGENTINA",ARG | CIUDAD MAGAZINE (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60YccYTKbjMrBfQL5_uvgWqD7El1cA9PS3Z6tGXxWNDck/ts
+#EXTINF:-1 xui-id="74257" tvg-id="" tvg-name="ARG | ARGENTINA PAKAPAKA (lt)" tvg-logo="http://boxdigital.xyz:8080/images/e3500e8db03015df706e1d4209ea4219.png" group-title="ARGENTINA",ARG | ARGENTINA PAKAPAKA (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60YccYTKbjMrBfQL5_uvgWqBzljZG1VwKLCeO62rBfDuP/ts
+#EXTINF:-1 xui-id="74258" tvg-id="" tvg-name="ARG | C5N (lt)" tvg-logo="http://boxdigital.xyz:8080/images/df2eed166b86863330578feebd4315a0.png" group-title="ARGENTINA",ARG | C5N (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60YccYTKbjMrBfQL5_uvgWqBe0CiAkLuDPkZnStztkfhr/ts
+#EXTINF:-1 xui-id="74259" tvg-id="" tvg-name="ARG | C5N (lt)" tvg-logo="http://boxdigital.xyz:8080/images/df2eed166b86863330578feebd4315a0.png" group-title="ARGENTINA",ARG | C5N (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60YccYTKbjMrBfQL5_uvgWqDHCYWXVWMRrrTe6rn0MXqD/ts
+#EXTINF:-1 xui-id="74260" tvg-id="" tvg-name="ARG | C5N (Argentina) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/df2eed166b86863330578feebd4315a0.png" group-title="ARGENTINA",ARG | C5N (Argentina) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60T2dG2aGJQU2no5FSwLnezT3DOJ1kBmyURIcCFV7HRzK/ts
+#EXTINF:-1 xui-id="74262" tvg-id="" tvg-name="ARG | CANAL 26 HD (lt)" tvg-logo="http://boxdigital.xyz:8080/images/afbefb0c7b7e939fb701d8d76e8f2963.png" group-title="ARGENTINA",ARG | CANAL 26 HD (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60T2dG2aGJQU2no5FSwLnezRNKPi6-8xi_9HNUElEAv3Y/ts
+#EXTINF:-1 xui-id="74264" tvg-id="" tvg-name="ARG | CANAL 26 SD (lt)" tvg-logo="http://boxdigital.xyz:8080/images/93377804df1b51f8bd177a396331bf16.png" group-title="ARGENTINA",ARG | CANAL 26 SD (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60T2dG2aGJQU2no5FSwLnezRuXPlDCG6aaT26bpApr1p2/ts
+#EXTINF:-1 xui-id="74266" tvg-id="" tvg-name="ARG | Cronica (Argentina) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/e31e883a0fe8661d390205757bef0055.png" group-title="ARGENTINA",ARG | Cronica (Argentina) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60T2dG2aGJQU2no5FSwLnezSisCotYvJuVwz704ASW5x0/ts
+#EXTINF:-1 xui-id="74267" tvg-id="" tvg-name="ARG | CRONICA. :) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/e31e883a0fe8661d390205757bef0055.png" group-title="ARGENTINA",ARG | CRONICA. :) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60T2dG2aGJQU2no5FSwLnezRLdZUDn8oDdf14WmhsJW4C/ts
+#EXTINF:-1 xui-id="74268" tvg-id="" tvg-name="ARG | DeporTV (lt)" tvg-logo="http://boxdigital.xyz:8080/images/77a2bae7facbc52b83475239cc9fda79.png" group-title="ARGENTINA",ARG | DeporTV (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60T2dG2aGJQU2no5FSwLnezTM_VHfFXJi_YM7lZfhr5y4/ts
+#EXTINF:-1 xui-id="74269" tvg-id="" tvg-name="ARG | EL NUEVE HD  (lt)" tvg-logo="http://boxdigital.xyz:8080/images/003d4174f97896759b2f476c911da70e.PNG" group-title="ARGENTINA",ARG | EL NUEVE HD  (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60T2dG2aGJQU2no5FSwLnezQLgoK6w7hwZDL--sq_AFG7/ts
+#EXTINF:-1 xui-id="74270" tvg-id="" tvg-name="ARG | EL NUEVE HD (lt)" tvg-logo="http://boxdigital.xyz:8080/images/003d4174f97896759b2f476c911da70e.PNG" group-title="ARGENTINA",ARG | EL NUEVE HD (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60SIQMLns8h0Kp4ca1iukO1KAZTrFqzXAH0AHqqHGtBsC/ts
+#EXTINF:-1 xui-id="74272" tvg-id="" tvg-name="ARG | EL TRECE (Argentina) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/4ede5d608fe02b32fbcd6bb321cff018.png" group-title="ARGENTINA",ARG | EL TRECE (Argentina) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60SIQMLns8h0Kp4ca1iukO1K3QlXn1QMLP1AbbcMxEvwh/ts
+#EXTINF:-1 xui-id="74273" tvg-id="" tvg-name="ARG | EL TRECE EN SD (AR) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/2f327632df3546a4f5e0ca659c99cfc2.png" group-title="ARGENTINA",ARG | EL TRECE EN SD (AR) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60SIQMLns8h0Kp4ca1iukO1Jetels2s-1kcDJB_5_dmtX/ts
+#EXTINF:-1 xui-id="74276" tvg-id="" tvg-name="ARG | EL TRECE HD :) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/4ede5d608fe02b32fbcd6bb321cff018.png" group-title="ARGENTINA",ARG | EL TRECE HD :) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60SIQMLns8h0Kp4ca1iukO1KwVl9286JOvzK5NJ3HmPk8/ts
+#EXTINF:-1 xui-id="74278" tvg-id="" tvg-name="ARG | ENCUENTRO (lt)" tvg-logo="http://boxdigital.xyz:8080/images/f2de4e0e4c7b62642777f1805c386468.png" group-title="ARGENTINA",ARG | ENCUENTRO (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60SIQMLns8h0Kp4ca1iukO1LLf7gC2WM-Lv-shOhb7_EE/ts
+#EXTINF:-1 xui-id="74279" tvg-id="" tvg-name="ARG | ENCUENTRO (lt)" tvg-logo="http://boxdigital.xyz:8080/images/f2de4e0e4c7b62642777f1805c386468.png" group-title="ARGENTINA",ARG | ENCUENTRO (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60SIQMLns8h0Kp4ca1iukO1Kf_z1EF-fX3ecAtRoBa6DP/ts
+#EXTINF:-1 xui-id="74283" tvg-id="" tvg-name="ARG | GARAGE. :) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/e29ed05ce54c1945dd5826b5da4b6841.png" group-title="ARGENTINA",ARG | GARAGE. :) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60TGkb5l7E0Q1btX_7nn6NXMY6Y9wsYNZhjV8DzE8PpXO/ts
+#EXTINF:-1 xui-id="74286" tvg-id="" tvg-name="ARG | La Nacion (Argentina) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/ef19846603ffb9f4ea0baf1afd178848.png" group-title="ARGENTINA",ARG | La Nacion (Argentina) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60TGkb5l7E0Q1btX_7nn6NXOHdUSxCXIT2wt8NGEo0y3b/ts
+#EXTINF:-1 xui-id="74287" tvg-id="" tvg-name="ARG | LN  :) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/ef19846603ffb9f4ea0baf1afd178848.png" group-title="ARGENTINA",ARG | LN  :) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60TGkb5l7E0Q1btX_7nn6NXNvutrRNfg0-IyztBnxgbsW/ts
+#EXTINF:-1 xui-id="74288" tvg-id="" tvg-name="ARG | MULTIVISION CANAL 9 SALTA (lt)" tvg-logo="http://boxdigital.xyz:8080/images/551f6529aefd8f487cbad90267a034a6.png" group-title="ARGENTINA",ARG | MULTIVISION CANAL 9 SALTA (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60TGkb5l7E0Q1btX_7nn6NXPenEtBymcBwDbAGdwtOVsJ/ts
+#EXTINF:-1 xui-id="74289" tvg-id="" tvg-name="ARG | Net TV (Argentina) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/f41c20644b5f183c244d2982792ae200.png" group-title="ARGENTINA",ARG | Net TV (Argentina) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60TGkb5l7E0Q1btX_7nn6NXOerBqkyH4rVtHGEsZqurfT/ts
+#EXTINF:-1 xui-id="74292" tvg-id="" tvg-name="ARG | Telefe FHD * (lt)" tvg-logo="http://boxdigital.xyz:8080/images/0a1fb1b929f1978ed2a395c7b249d8da.png" group-title="ARGENTINA",ARG | Telefe FHD * (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60WDV7chlPn8AytD3ggieuQ63poRLf2vNcm8Gk-4D_G2g/ts
+#EXTINF:-1 xui-id="74293" tvg-id="telefe.ar" tvg-name="ARG | TELEFE HD * (lt)" tvg-logo="http://boxdigital.xyz:8080/images/0a1fb1b929f1978ed2a395c7b249d8da.png" group-title="ARGENTINA",ARG | TELEFE HD * (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60WDV7chlPn8AytD3ggieuQ55TsqefuEMWlEPc__VTbfc/ts
+#EXTINF:-1 xui-id="74294" tvg-id="" tvg-name="ARG | Telefe Internacional (Argentina) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/9132fdf7ce96ad01cbabf05733c40479.png" group-title="ARGENTINA",ARG | Telefe Internacional (Argentina) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60WDV7chlPn8AytD3ggieuQ6pdr7-f8H94A7AII4X3Hla/ts
+#EXTINF:-1 xui-id="74295" tvg-id="" tvg-name="ARG | TELEFE SD (lt)" tvg-logo="http://boxdigital.xyz:8080/images/0a1fb1b929f1978ed2a395c7b249d8da.png" group-title="ARGENTINA",ARG | TELEFE SD (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60WDV7chlPn8AytD3ggieuQ6HzOXmU6s0-vgllYUvGzIO/ts
+#EXTINF:-1 xui-id="74297" tvg-id="" tvg-name="ARG | TELESUR  :) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/52f00f48764c87b72e74df97176f0823.png" group-title="ARGENTINA",ARG | TELESUR  :) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60WDV7chlPn8AytD3ggieuQ4Nkrk_u1lOysL5xDL-3u-V/ts
+#EXTINF:-1 xui-id="74299" tvg-id="" tvg-name="ARG | TN (Argentina) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/aafb96b2fa8806be307c4496867bad56.png" group-title="ARGENTINA",ARG | TN (Argentina) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60WDV7chlPn8AytD3ggieuQ7UKj2rWJRi3T2R8jPMaeT6/ts
+#EXTINF:-1 xui-id="74300" tvg-id="" tvg-name="ARG | TN HD (lt)" tvg-logo="http://boxdigital.xyz:8080/images/aafb96b2fa8806be307c4496867bad56.png" group-title="ARGENTINA",ARG | TN HD (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60Z2LSzJALxllMKvmHxmlQcAGSezSv0IIT9r8HobieiDT/ts
+#EXTINF:-1 xui-id="74303" tvg-id="" tvg-name="ARG | TN HD * (lt)" tvg-logo="http://boxdigital.xyz:8080/images/aafb96b2fa8806be307c4496867bad56.png" group-title="ARGENTINA",ARG | TN HD * (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60Z2LSzJALxllMKvmHxmlQcCx4k9-wxkbgdQq1o5h-hg_/ts
+#EXTINF:-1 xui-id="74304" tvg-id="" tvg-name="ARG | TN NOTICIAS  :)" tvg-logo="http://boxdigital.xyz:8080/images/aafb96b2fa8806be307c4496867bad56.png" group-title="ARGENTINA",ARG | TN NOTICIAS  :)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60Z2LSzJALxllMKvmHxmlQcA4qeDmsE-B6533-fRAJ-2m/ts
+#EXTINF:-1 xui-id="74305" tvg-id="" tvg-name="ARG | TV PUBLICA (lt)" tvg-logo="http://boxdigital.xyz:8080/images/a686c89a6ae1f36594dd51da34af41da.png" group-title="ARGENTINA",ARG | TV PUBLICA (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60Z2LSzJALxllMKvmHxmlQcCW_lkGNcZDFNl8mO8G5Hs8/ts
+#EXTINF:-1 xui-id="74309" tvg-id="" tvg-name="ARG | TV PUBLICA SD (AR) (lt)" tvg-logo="http://boxdigital.xyz:8080/images/a686c89a6ae1f36594dd51da34af41da.png" group-title="ARGENTINA",ARG | TV PUBLICA SD (AR) (lt)
+https://boxtreampro.vip:2087/play/o8KHYIEl6e718Q2y8Av60Z2LSzJALxllMKvmHxmlQcBYQjFV0_7qv5kVtjaH2LRC/ts
+#EXTINF:-1 xui-id="78955" tvg-name="El señor de los anillos: El retorno del rey (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg" group-title="FANTASIA",El señor de los anillos: El retorno del rey (2003)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRBUBSV0XdGffnwzDOm7wFOol-po9aqwx9d5B7N3KrZS2
+#EXTINF:-1 xui-id="78954" tvg-name="El señor de los anillos: La comunidad del anillo (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg" group-title="FANTASIA",El señor de los anillos: La comunidad del anillo (2001)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRBUBSV0XdGffnwzDOm7wFOrYci7nWEu9uK8V86JALlNc
+#EXTINF:-1 xui-id="78956" tvg-name="El señor de los anillos: Las dos torres (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg" group-title="FANTASIA",El señor de los anillos: Las dos torres (2002)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRBUBSV0XdGffnwzDOm7wFOpaH2PGzOHjDV3oBAEvCikV
+#EXTINF:-1 xui-id="152007" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="PELICULAS VARIADAS (provisoria)",La Liga de la Justicia de Zack Snyder (2021)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRGxDh69OGmHbHdf0kw7Hsp-l7004EFaLkDWABC0VdLfE
+#EXTINF:-1 xui-id="97492" tvg-name="Viaje a las estrellas VIII: Primer Contacto (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9eEx7usbWzzxwlehDbSt6rEZOCj.jpg" group-title="PELICULAS RETRO",Viaje a las estrellas VIII: Primer Contacto (1996)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRMYGWSPbInMAm-Zog3NOgaBedWIWKeFRFto5das6sOsN
+#EXTINF:-1 xui-id="97493" tvg-name="Viaje a las estrellas VII: Generaciones (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jPq2exR55lDKbgNOK1EZYJe1G1S.jpg" group-title="PELICULAS RETRO",Viaje a las estrellas VII: Generaciones (1994)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRMYGWSPbInMAm-Zog3NOgaCAyLF70YXP264ao33P3rHK
+#EXTINF:-1 xui-id="97494" tvg-name="Viaje a las Estrellas III: La Búsqueda de Spock (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mv29MhfQRHvWFeTg0VwOKvBQlKg.jpg" group-title="PELICULAS RETRO",Viaje a las Estrellas III: La Búsqueda de Spock (1984)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRMYGWSPbInMAm-Zog3NOgaA53-7i1uAFgwTLaMHk5QBC
+#EXTINF:-1 xui-id="97495" tvg-name="Viaje a las estrellas II: La ira de Khan (1982)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8k93s37Z87eKboyU4n3k32HCH65.jpg" group-title="PELICULAS RETRO",Viaje a las estrellas II: La ira de Khan (1982)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRMYGWSPbInMAm-Zog3NOgaAhm26oMQCwkxI3IIx5XajD
+#EXTINF:-1 xui-id="97496" tvg-name="Viaje a las estrellas: Insurrección (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mvBhWl93Cktgo5Xec31hQVKqMD1.jpg" group-title="PELICULAS RETRO",Viaje a las estrellas: Insurrección (1998)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRMYGWSPbInMAm-Zog3NOgaCi4zKAt4ISowOli5LS2240
+#EXTINF:-1 xui-id="97497" tvg-name="Viaje a las estrellas IV: Misión salvar a la Tierra (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vf47SrKxzFjoTl3ilcRkjKsGWW8.jpg" group-title="PELICULAS RETRO",Viaje a las estrellas IV: Misión salvar a la Tierra (1986)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRMYGWSPbInMAm-Zog3NOgaDgxWi68nM977XQ9JV9LUD8
+#EXTINF:-1 xui-id="97498" tvg-name="Viaje a las estrellas: La película (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gzI6CLwtkGHUv9y4tptWwAREXTL.jpg" group-title="PELICULAS RETRO",Viaje a las estrellas: La película (1979)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRMYGWSPbInMAm-Zog3NOgaD-OaJGPa8p2p518dWwZ15o
+#EXTINF:-1 xui-id="97499" tvg-name="Viaje a las estrellas VI: La tierra desconocida (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pEPhzEsH8C5taV19nFhFGbqlNOr.jpg" group-title="PELICULAS RETRO",Viaje a las estrellas VI: La tierra desconocida (1991)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRMYGWSPbInMAm-Zog3NOgaB_klBzjbMicnh4AO1KXZKd
+#EXTINF:-1 xui-id="97500" tvg-name="Viaje a las estrellas V: La última frontera (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6AFpvYk8uxXoRkg6r47AWuLqJxo.jpg" group-title="PELICULAS RETRO",Viaje a las estrellas V: La última frontera (1989)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRPic7_KDQjQfF4Mrwlkh1-Wwl2pJrnuBXNEXkIJB9Jy4
+#EXTINF:-1 xui-id="187813" tvg-name="Star Trek (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AkgW79i6Z26Y1omckHA6SR5lKx.jpg" group-title="SAGAS",Star Trek (2009)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtrnRH2p2wCIKDGNEeXXVjNa
+#EXTINF:-1 xui-id="187814" tvg-name="Star Trek Sin Límites (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2yfbpstJY4Fan8DSfPFDl05jx9.jpg" group-title="SAGAS",Star Trek Sin Límites (2016)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtpsQJ9Nf_itWiUvJbAG7zuB
+#EXTINF:-1 xui-id="187815" tvg-name="Viaje a las estrellas VIII: Primer Contacto (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9eEx7usbWzzxwlehDbSt6rEZOCj.jpg" group-title="SAGAS",Viaje a las estrellas VIII: Primer Contacto (1996)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHto55lvCkquP3GLY2PdD77-t
+#EXTINF:-1 xui-id="187816" tvg-name="Viaje a las estrellas VII: Generaciones (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jPq2exR55lDKbgNOK1EZYJe1G1S.jpg" group-title="SAGAS",Viaje a las estrellas VII: Generaciones (1994)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtqDmb7QrxgcEpU3Z4_twjVq
+#EXTINF:-1 xui-id="187817" tvg-name="Viaje a las Estrellas III: La Búsqueda de Spock (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mv29MhfQRHvWFeTg0VwOKvBQlKg.jpg" group-title="SAGAS",Viaje a las Estrellas III: La Búsqueda de Spock (1984)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtrlRq9XhIiQsB6y2YWINmrH
+#EXTINF:-1 xui-id="187818" tvg-name="Viaje a las estrellas II: La ira de Khan (1982)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8k93s37Z87eKboyU4n3k32HCH65.jpg" group-title="SAGAS",Viaje a las estrellas II: La ira de Khan (1982)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtqdlYbtHcyRYA__NJlc2SVf
+#EXTINF:-1 xui-id="187819" tvg-name="Viaje a las estrellas: Insurrección (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mvBhWl93Cktgo5Xec31hQVKqMD1.jpg" group-title="SAGAS",Viaje a las estrellas: Insurrección (1998)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtp3YQTZinoWX_y2c4xugWlr
+#EXTINF:-1 xui-id="187820" tvg-name="Star Trek: En la oscuridad (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ncnBVignnCQ4vFNxiSLWDpFUcs.jpg" group-title="SAGAS",Star Trek: En la oscuridad (2013)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtpfCTrhTNeAHvZUC8yjT64N
+#EXTINF:-1 xui-id="187821" tvg-name="Viaje a las estrellas IV: Misión salvar a la Tierra (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vf47SrKxzFjoTl3ilcRkjKsGWW8.jpg" group-title="SAGAS",Viaje a las estrellas IV: Misión salvar a la Tierra (1986)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtoGax721PSF9FGG-rMOi4TX
+#EXTINF:-1 xui-id="187822" tvg-name="Viaje a las estrellas: Némesis (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/opmDF2sPIBCvTDbJWBtmhqUFXmi.jpg" group-title="SAGAS",Viaje a las estrellas: Némesis (2002)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtr1vismoFWbOTe8wvk7k9uK
+#EXTINF:-1 xui-id="187823" tvg-name="Viaje a las estrellas: La película (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gzI6CLwtkGHUv9y4tptWwAREXTL.jpg" group-title="SAGAS",Viaje a las estrellas: La película (1979)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtoF7HDed9kYXuQkjNaa45w7
+#EXTINF:-1 xui-id="187824" tvg-name="Viaje a las estrellas VI: La tierra desconocida (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pEPhzEsH8C5taV19nFhFGbqlNOr.jpg" group-title="SAGAS",Viaje a las estrellas VI: La tierra desconocida (1991)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtoZFOdv8Zu-S6PJOLu6KGAN
+#EXTINF:-1 xui-id="187825" tvg-name="Viaje a las estrellas V: La última frontera (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6AFpvYk8uxXoRkg6r47AWuLqJxo.jpg" group-title="SAGAS",Viaje a las estrellas V: La última frontera (1989)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtofYhP0510f-ZuBNAGyReP1
+#EXTINF:-1 xui-id="187860" tvg-name="El Hobbit: Un viaje inesperado (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2Also6fDCjczi6xEFYFOqiau3f7.jpg" group-title="SAGAS",El Hobbit: Un viaje inesperado (2012)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtpG4xbM_eWq3LPL1XnKDh6x
+#EXTINF:-1 xui-id="187861" tvg-name="El Hobbit 3: La Batalla de Los Cinco Ejércitos (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="SAGAS",El Hobbit 3: La Batalla de Los Cinco Ejércitos (2014)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtqJeGxsPClGGw09gzYmIaoH
+#EXTINF:-1 xui-id="187862" tvg-name="El Hobbit 2: La Desolación de Smaug (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m8uQ5swzBLRyY19UwqCsVK2fM7C.jpg" group-title="SAGAS",El Hobbit 2: La Desolación de Smaug (2013)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtqBrrpp_700jNc-iEqUd4Vw
+#EXTINF:-1 xui-id="187863" tvg-name="El señor de los anillos: La comunidad del anillo (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg" group-title="SAGAS",El señor de los anillos: La comunidad del anillo (2001)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtqleu5qOMVgmB0f0jpKKkTk
+#EXTINF:-1 xui-id="187864" tvg-name="El señor de los anillos: El retorno del rey (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg" group-title="SAGAS",El señor de los anillos: El retorno del rey (2003)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtqB5zaLBqyynUY7t0okvJ6r
+#EXTINF:-1 xui-id="187865" tvg-name="El señor de los anillos: Las dos torres (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg" group-title="SAGAS",El señor de los anillos: Las dos torres (2002)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtqy0ij-gqz5Y3HHIWBw4lxg
+#EXTINF:-1 xui-id="187868" tvg-name="Maze Runner: Correr o morir (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jt7SZYSnE9NHV4ZrDex1ilRyVIW.jpg" group-title="SAGAS",Maze Runner: Correr o morir (2014)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRIqLFnmq3vLWumd-raPKHtoTMIm8XFLvmJ923YNGtQTF
+#EXTINF:-1 xui-id="215587" tvg-name="Liga de la Justicia (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg" group-title="WESTERN",Liga de la Justicia (2017)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRMJ_zOBpySMWXYLm5I8C2Iw2aHyY4QcQ-wHHZAGqZ5d5
+#EXTINF:-1 xui-id="226721" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="DC COMICS",La Liga de la Justicia de Zack Snyder (2021)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRBjnyHRAl2RqG1MCl9fZTlRfUJbVjvXNhcuEKdQTaGlt
+#EXTINF:-1 xui-id="226722" tvg-name="Liga de la Justicia (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg" group-title="DC COMICS",Liga de la Justicia (2017)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRBjnyHRAl2RqG1MCl9fZTlSyf9ceHq6yZ5y_xbpUe5R2
+#EXTINF:-1 xui-id="236865" tvg-name="El señor de los anillos: Las dos torres (2002)" tvg-logo="http://boxdigital.xyz:8080/images/c57109f8fc7b69d980f622670dbfcba6.jpg" group-title="PELICULAS SD 480P",El señor de los anillos: Las dos torres (2002)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRL1sg8q6McA0MZ5JCeTfv4hgVKxewMbC2A27_R6pDzTV
+#EXTINF:-1 xui-id="271799" tvg-name="El Hobbit: Un viaje inesperado (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2Also6fDCjczi6xEFYFOqiau3f7.jpg" group-title="AVENTURA Y FAMILIAR",El Hobbit: Un viaje inesperado (2012)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRB3usFR_LqgoEsjaE1zYauSubU-BL3BaxfFgJBH3BHz0
+#EXTINF:-1 xui-id="271800" tvg-name="El Hobbit 3: La Batalla de Los Cinco Ejércitos (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="AVENTURA Y FAMILIAR",El Hobbit 3: La Batalla de Los Cinco Ejércitos (2014)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRB3usFR_LqgoEsjaE1zYauSklG10_HRSDQiCXh0SGwBx
+#EXTINF:-1 xui-id="271801" tvg-name="El Hobbit 2: La Desolación de Smaug (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m8uQ5swzBLRyY19UwqCsVK2fM7C.jpg" group-title="AVENTURA Y FAMILIAR",El Hobbit 2: La Desolación de Smaug (2013)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRB3usFR_LqgoEsjaE1zYauShhp3postpA3yC7FCtdK55
+#EXTINF:-1 xui-id="271822" tvg-name="El señor de los anillos: La comunidad del anillo (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg" group-title="AVENTURA Y FAMILIAR",El señor de los anillos: La comunidad del anillo (2001)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRB3usFR_LqgoEsjaE1zYauTMACOEVXTMJZizzDlcTPBg
+#EXTINF:-1 xui-id="271823" tvg-name="El señor de los anillos: El retorno del rey (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg" group-title="AVENTURA Y FAMILIAR",El señor de los anillos: El retorno del rey (2003)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRB3usFR_LqgoEsjaE1zYauRkz83W20Q9X1z8HqYyLf0p
+#EXTINF:-1 xui-id="271824" tvg-name="El señor de los anillos: Las dos torres (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg" group-title="AVENTURA Y FAMILIAR",El señor de los anillos: Las dos torres (2002)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRB3usFR_LqgoEsjaE1zYauTXOgclccc_YSRrQF8moWsR
+#EXTINF:-1 xui-id="271832" tvg-name="Maze Runner: Correr o morir (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jt7SZYSnE9NHV4ZrDex1ilRyVIW.jpg" group-title="AVENTURA Y FAMILIAR",Maze Runner: Correr o morir (2014)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRB3usFR_LqgoEsjaE1zYauS7XOwXoCs8HAalVo0Pm-Rr
+#EXTINF:-1 xui-id="278033" tvg-name="Liga de la Justicia (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg" group-title="CIENCIA FICCION",Liga de la Justicia (2017)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRH1lOMJOQS65DW_qdjyqBrjiivnlMlw01fXtVt1j_R3a
+#EXTINF:-1 xui-id="278096" tvg-name="Maze Runner: Correr o morir (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jt7SZYSnE9NHV4ZrDex1ilRyVIW.jpg" group-title="CIENCIA FICCION",Maze Runner: Correr o morir (2014)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRH1lOMJOQS65DW_qdjyqBrgnZ-0v08q9Um5GN6PS4ssS
+#EXTINF:-1 xui-id="278177" tvg-name="Star Trek Sin Límites (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2yfbpstJY4Fan8DSfPFDl05jx9.jpg" group-title="CIENCIA FICCION",Star Trek Sin Límites (2016)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRH1lOMJOQS65DW_qdjyqBriKwDDg0dCHktctTgP4JiQE
+#EXTINF:-1 xui-id="279711" tvg-name="Star Trek (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AkgW79i6Z26Y1omckHA6SR5lKx.jpg" group-title="ACCION Y CRIMEN",Star Trek (2009)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oRNTMQL_vKLLMurdqtUHDUW51gJdOnpLB-hzbBas2l41z
+#EXTINF:-1 xui-id="375198" tvg-name="El señor de los anillos: La comunidad del anillo (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg" group-title="CIENCIA FICCION",El señor de los anillos: La comunidad del anillo (2001)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oREKL3F3tlt1p1vGAy7xS2r5EWIf7zQ_YNWLQi-VxMeDg
+#EXTINF:-1 xui-id="375199" tvg-name="El señor de los anillos: Las dos torres (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg" group-title="CIENCIA FICCION",El señor de los anillos: Las dos torres (2002)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oREKL3F3tlt1p1vGAy7xS2r4EyxJhUe725Ws0_N9C5stL
+#EXTINF:-1 xui-id="375200" tvg-name="El señor de los anillos: El retorno del rey (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg" group-title="CIENCIA FICCION",El señor de los anillos: El retorno del rey (2003)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oREKL3F3tlt1p1vGAy7xS2r41_IFkbYF-JyQZweBsUePn
+#EXTINF:-1 xui-id="375248" tvg-name="Viaje a las estrellas: La película (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gzI6CLwtkGHUv9y4tptWwAREXTL.jpg" group-title="CIENCIA FICCION",Viaje a las estrellas: La película (1979)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oREKL3F3tlt1p1vGAy7xS2r5Ve6cAs-4Qhqex0ChEmb_6
+#EXTINF:-1 xui-id="375249" tvg-name="Star Trek (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/axuw64XX2mWG0okoNCzjlGc4yVp.jpg" group-title="CIENCIA FICCION",Star Trek (2009)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oREKL3F3tlt1p1vGAy7xS2r5IIsqmYp021Td9WjinZM0U
+#EXTINF:-1 xui-id="375250" tvg-name="Star Trek: En la oscuridad (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ncnBVignnCQ4vFNxiSLWDpFUcs.jpg" group-title="CIENCIA FICCION",Star Trek: En la oscuridad (2013)
+https://boxtreampro.vip:2087/play/VqT56WuUrpX-X7etuT2oREKL3F3tlt1p1vGAy7xS2r7lmfhkfC8xpT1DGagNtyBJ
 
 
 
