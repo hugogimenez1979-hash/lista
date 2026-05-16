@@ -15,6 +15,327 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8335
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/67004
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/178777
 
+#EXTM3U x-tvg-url="http://starfamily.vip:8080/epg/123ivanchuq/Q2v5XCh6Mszt"
+#EXTINF:-1 xc_vm-id="4022735" tvg-id="" tvg-name="CINE ®| ENT CHANNEL HD" tvg-logo="https://i.ibb.co/G44JfY1T/Ent-Family.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| ENT CHANNEL HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgQcu0zpaSnqWatCTN6qso5/ts
+#EXTINF:-1 xc_vm-id="4022736" tvg-id="" tvg-name="CINE ®| SONY CINE HD" tvg-logo="https://i.ibb.co/ZJD2m7p/CANAL-SOMY.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| SONY CINE HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLh8L-RsGbv3F6EwCwX8WRH8/ts
+#EXTINF:-1 xc_vm-id="4022737" tvg-id="SETLPE" tvg-name="CINE ®| SONY CHANNEL HD" tvg-logo="https://i.ibb.co/ZJD2m7p/CANAL-SOMY.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| SONY CHANNEL HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLizfvrlV6w8kP9q7yXYCEby/ts
+#EXTINF:-1 xc_vm-id="4022738" tvg-id="" tvg-name="CINE ®| SONY  COMEDIA HD" tvg-logo="https://i.ibb.co/ZJD2m7p/CANAL-SOMY.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| SONY  COMEDIA HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjfXaMDJhA6BUuWvGnUu6HZ/ts
+#EXTINF:-1 xc_vm-id="4022739" tvg-id="" tvg-name="CINE ®| SONY BLACKLIST HD" tvg-logo="https://i.ibb.co/ZJD2m7p/CANAL-SOMY.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| SONY BLACKLIST HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjNiAfjF1f9K9DMhlUNMuZX/ts
+#EXTINF:-1 xc_vm-id="4022797" tvg-id="SETLHDA" tvg-name="CINE ®| SONY THRILLER HD" tvg-logo="https://i.ibb.co/ZJD2m7p/CANAL-SOMY.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| SONY THRILLER HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjDGw4OaRlwSVRqMU793IBm/ts
+#EXTINF:-1 xc_vm-id="4022848" tvg-id="hbo.co" tvg-name="CINE ®| HBO SD" tvg-logo="https://i.ibb.co/jbDTNGw/HBO.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| HBO SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLipwxvO6RBJcjv6JvVTJdBI/ts
+#EXTINF:-1 xc_vm-id="4022849" tvg-id="hbo2.mx" tvg-name="CINE ®| HBO 2 HD" tvg-logo="https://i.ibb.co/nM3FYsc/HBO-2.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| HBO 2 HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiK3wtNfiGz1DcW60ixnOo9/ts
+#EXTINF:-1 xc_vm-id="4022850" tvg-id="hbo2.mx" tvg-name="CINE ®| HBO 2 SD" tvg-logo="https://i.ibb.co/nM3FYsc/HBO-2.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| HBO 2 SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLi3zHjHLunN8t_h6YvHcgf9/ts
+#EXTINF:-1 xc_vm-id="4022851" tvg-id="hbofamily.co" tvg-name="CINE ®| HBO FAMILY HD" tvg-logo="https://i.ibb.co/3f3wKQy/HBO-FAMILY.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| HBO FAMILY HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgzZ1Xy4akA3vuBJSy4687N/ts
+#EXTINF:-1 xc_vm-id="4022855" tvg-id="hboplus.co" tvg-name="CINE ®| HBO PLUS HD" tvg-logo="https://i.ibb.co/1rk0zZT/HBO-PLUS.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| HBO PLUS HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgbyMT9JCbCM7W2bY55uVV5/ts
+#EXTINF:-1 xc_vm-id="4022856" tvg-id="hboplus.mx" tvg-name="CINE ®| HBO PLUS SD" tvg-logo="https://i.ibb.co/1rk0zZT/HBO-PLUS.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| HBO PLUS SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhy7ntGwfcLopksk-K_hbkn/ts
+#EXTINF:-1 xc_vm-id="4022857" tvg-id="hbomundi.co" tvg-name="CINE ®| HBO MUNDI HD" tvg-logo="https://i.ibb.co/hZQB5Dy/HBO-MUNDI.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| HBO MUNDI HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLi82YGZaeSGPm6yfZrFHB0O/ts
+#EXTINF:-1 xc_vm-id="4022858" tvg-id="hbomundi.mx" tvg-name="CINE ®| HBO MUNDI SD" tvg-logo="https://i.ibb.co/hZQB5Dy/HBO-MUNDI.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| HBO MUNDI SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLg8vV-p2t-xKXNcciIZ-p9R/ts
+#EXTINF:-1 xc_vm-id="4022859" tvg-id="hbopop.co" tvg-name="CINE ®| HBO POP HD" tvg-logo="https://i.ibb.co/ZWHnfcW/HBO-POP.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| HBO POP HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiNgb-gzR6wskYeKQTQ4Prp/ts
+#EXTINF:-1 xc_vm-id="4022860" tvg-id="hbopo.mx" tvg-name="CINE ®| HBO POP SD" tvg-logo="https://i.ibb.co/ZWHnfcW/HBO-POP.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| HBO POP SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLh4KTA4tLicyxNv9f0QabHY/ts
+#EXTINF:-1 xc_vm-id="4022862" tvg-id="hboxtreme.mx" tvg-name="CINE ®| HBO XTREME SD" tvg-logo="https://i.ibb.co/dJmrBXc/HBO-XTREME.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| HBO XTREME SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLg2OkkcID8xVJiVridyyX7b/ts
+#EXTINF:-1 xc_vm-id="4022864" tvg-id="PTVSAMC" tvg-name="CINE ®| SERIES por M+©️ HD" tvg-logo="https://i.ibb.co/86tf9LZ/SERIES-M.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| SERIES por M+©️ HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgQyCGxcbi-8GxWQPYa00gH/ts
+#EXTINF:-1 xc_vm-id="4022865" tvg-id="" tvg-name="CINE ®| CLASICO por M+©️ HD" tvg-logo="https://i.ibb.co/TLWGZT1/CLASICOS-M.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| CLASICO por M+©️ HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjUpFT9xqp_F7Fwl8uxBx8_/ts
+#EXTINF:-1 xc_vm-id="4022866" tvg-id="movistarcomedia.es" tvg-name="CINE ®| COMEDIA por M+©️ HD" tvg-logo="https://i.ibb.co/9r5x7X1/COMEDIA-M.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| COMEDIA por M+©️ HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhjbw94uJ5sbgFJczL7Qs3Z/ts
+#EXTINF:-1 xc_vm-id="4022867" tvg-id="movistaraccion.es" tvg-name="CINE ®| INDIE por M+©️ HD" tvg-logo="https://i.ibb.co/wdz09V3/INDIE-M.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| INDIE por M+©️ HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgc1WxpeMJ8HF0J6L0RsSAM/ts
+#EXTINF:-1 xc_vm-id="4022868" tvg-id="MDRAM" tvg-name="CINE ®| DRAMA por M+©️ HD" tvg-logo="https://i.ibb.co/4FNwwB1/DRAMA-M.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| DRAMA por M+©️ HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhsBL4hY4ajsrVDCP2fOJMa/ts
+#EXTINF:-1 xc_vm-id="4022869" tvg-id="MCINNHD" tvg-name="CINE ®| CINE por M+©️ HD" tvg-logo="https://i.ibb.co/cT8XfzC/CINE-M.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| CINE por M+©️ HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjbgYDxoWCtUAJVrmLQUt-w/ts
+#EXTINF:-1 xc_vm-id="4022870" tvg-id="ESCAPA" tvg-name="CINE ®| ACCION por M+©️ HD" tvg-logo="https://i.ibb.co/NYKhftZ/ACCION-M.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| ACCION por M+©️ HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiOCqdhVyItWy_n-iLesc5Z/ts
+#EXTINF:-1 xc_vm-id="4022871" tvg-id="bomcine.es" tvg-name="CINE ®| CINE ESPAÑOL por M+©️ HD" tvg-logo="https://i.ibb.co/G9ZjgPb/CINE-ESPA-OL-M.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| CINE ESPAÑOL por M+©️ HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhK5PQAhhAnrT3t_drLbyPl/ts
+#EXTINF:-1 xc_vm-id="4022873" tvg-id="" tvg-name="CINE ®| MOVISTAR PLUS por M+©️ HD" tvg-logo="https://i.ibb.co/FhG90Ck/MOVISTAR-PLUS-M.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| MOVISTAR PLUS por M+©️ HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjzaSjEhiZsKzv9rrxGgYr7/ts
+#EXTINF:-1 xc_vm-id="4022874" tvg-id="universalcomedy.mx" tvg-name="CINE ®| UNIVERSAL COMEDY HD" tvg-logo="https://i.ibb.co/kc717Yt/UNIVERSAL-CINEMA.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| UNIVERSAL COMEDY HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgF-FLEbUrQsHNFz74Ky7RG/ts
+#EXTINF:-1 xc_vm-id="4022875" tvg-id="universalreality.mx" tvg-name="CINE ®| UNIVERSAL REALITY HD" tvg-logo="https://i.ibb.co/xCgZq4K/UNIVERSAL-REALTY.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| UNIVERSAL REALITY HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLj4ZGC8GBoOBQDyBqR7Hh4E/ts
+#EXTINF:-1 xc_vm-id="4022876" tvg-id="universalcrime.mx" tvg-name="CINE ®| UNIVERSAL CRIMEN HD" tvg-logo="https://i.ibb.co/zQYftpS/UNIVERSAL-CRIMEN.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| UNIVERSAL CRIMEN HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhcacgoRqooZk5aEmW843oI/ts
+#EXTINF:-1 xc_vm-id="4022877" tvg-id="" tvg-name="CINE ®| UNIVERSAL CINEMA HD" tvg-logo="https://i.ibb.co/kc717Yt/UNIVERSAL-CINEMA.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| UNIVERSAL CINEMA HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhWCr47WjnWTNsR6l3POFqf/ts
+#EXTINF:-1 xc_vm-id="4022878" tvg-id="universalpremiere.mx" tvg-name="CINE ®| UNIVERSAL PREMIER HD" tvg-logo="https://i.ibb.co/pfBPHLs/UNIVERSAL-PREMIER.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| UNIVERSAL PREMIER HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLj8ykMBnvs7-qh9vNHtIYtv/ts
+#EXTINF:-1 xc_vm-id="4022879" tvg-id="universalchannel.co" tvg-name="CINE ®| STUDIO UNIVERSAL HD" tvg-logo="https://i.ibb.co/vjQnkGg/UNIVERSAL-ESTUDIO.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| STUDIO UNIVERSAL HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLio374p82XqeAsDQs1E3x1s/ts
+#EXTINF:-1 xc_vm-id="4022880" tvg-id="universalchannel.mx" tvg-name="CINE ®| UNIVERSAL TV HD" tvg-logo="https://i.ibb.co/pfBPHLs/UNIVERSAL-PREMIER.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| UNIVERSAL TV HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLge4gOupRaW6iY9zvHPk4Vn/ts
+#EXTINF:-1 xc_vm-id="4022881" tvg-id="goldenpremier.mx" tvg-name="CINE ®| GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/2t4h3n6/GOLDEN-PREMIER.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| GOLDEN PREMIER HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgX-6tLO4zqJngDnd12dQnz/ts
+#EXTINF:-1 xc_vm-id="4022882" tvg-id="goldenplus.mx" tvg-name="CINE ®| GOLDEN PLUS HD" tvg-logo="https://i.ibb.co/vBdLJ05/GOLDEN-PLUS.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| GOLDEN PLUS HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjf6ooNDNRShpA0MQ44fA-w/ts
+#EXTINF:-1 xc_vm-id="4022883" tvg-id="GOLDEDG" tvg-name="CINE ®| GOLDEN EDGE HD" tvg-logo="https://i.ibb.co/34vwfML/GOLDEN-EDGE.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| GOLDEN EDGE HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLj7ijnheCKiykZ4zhdSKXCc/ts
+#EXTINF:-1 xc_vm-id="4022884" tvg-id="golden.mx" tvg-name="CINE ®| GOLDEN HD" tvg-logo="https://i.ibb.co/4dhgVZx/GOLDEN.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| GOLDEN HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjYVFbVWk8UYinEcyc-WfLp/ts
+#EXTINF:-1 xc_vm-id="4022885" tvg-id="tnt.co" tvg-name="CINE ®| TNT HD" tvg-logo="https://i.ibb.co/f4DFGQD/TNT.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| TNT HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLj-ek-jq7KqfnNcljBwHqfO/ts
+#EXTINF:-1 xc_vm-id="4022886" tvg-id="tnt.mx" tvg-name="CINE ®| TNT SD" tvg-logo="https://i.ibb.co/f4DFGQD/TNT.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| TNT SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLi77X1J0BUp8KK-YlPJsori/ts
+#EXTINF:-1 xc_vm-id="4022887" tvg-id="tntseries.mx" tvg-name="CINE ®| TNT SERIES HD" tvg-logo="https://i.ibb.co/s2Jbz21/TNT-SERIES.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| TNT SERIES HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjUmg1Tj4X1UEihhhNy9gZS/ts
+#EXTINF:-1 xc_vm-id="4022888" tvg-id="tntseries.mx" tvg-name="CINE ®| TNT SERIES SD" tvg-logo="https://i.ibb.co/s2Jbz21/TNT-SERIES.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| TNT SERIES SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgWtRfgmrn737nUFROaa0-_/ts
+#EXTINF:-1 xc_vm-id="4022889" tvg-id="amc.es" tvg-name="CINE ®| AMC HD" tvg-logo="https://i.ibb.co/gV2c6GG/AMC-2.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| AMC HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLidzClZMFNrxc78xfMFbumj/ts
+#EXTINF:-1 xc_vm-id="4022890" tvg-id="AMCAAMC" tvg-name="CINE ®| AMC SUR HD" tvg-logo="https://i.ibb.co/gV2c6GG/AMC-2.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| AMC SUR HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLg4RIyok-a0GNXa9sh0bXJc/ts
+#EXTINF:-1 xc_vm-id="4022892" tvg-id="amc.es" tvg-name="CINE ®| AMC EAST HD" tvg-logo="https://i.ibb.co/gV2c6GG/AMC-2.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| AMC EAST HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjWO2m1sWFo62d4gk9MIacD/ts
+#EXTINF:-1 xc_vm-id="4022894" tvg-id="WARCOL" tvg-name="CINE ®| WARNER BROS SUR HD" tvg-logo="https://i.ibb.co/6BZ6Gxr/WARNER-BROS.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| WARNER BROS SUR HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgXKLlSPl6wPnAebImM_1o-/ts
+#EXTINF:-1 xc_vm-id="4022896" tvg-id="AXNHDSP" tvg-name="CINE ®| AXN SUR HD" tvg-logo="https://i.ibb.co/VCMjP74/AXN.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| AXN SUR HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLib25XDV8rlSvN7iS4icQrM/ts
+#EXTINF:-1 xc_vm-id="4022899" tvg-id="alientovision.co" tvg-name="CINE ®| DHE HD" tvg-logo="https://i.ibb.co/x6gqf6Z/DHE.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| DHE HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLg5Drirw9X7SWP1XUx9-1zh/ts
+#EXTINF:-1 xc_vm-id="4022900" tvg-id="alientovision.co" tvg-name="CINE ®| DHE SD" tvg-logo="https://i.ibb.co/x6gqf6Z/DHE.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| DHE SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLibEcIEKmGDxsA6SaQc0MTB/ts
+#EXTINF:-1 xc_vm-id="4022901" tvg-id="cinecanal.mx" tvg-name="CINE ®| CINECANAL HD" tvg-logo="https://i.ibb.co/Wx5qhy1/CINECANAL.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| CINECANAL HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjtapBwHOmJwQ_-SsbDtjEH/ts
+#EXTINF:-1 xc_vm-id="4022902" tvg-id="cinecanalhd.mx" tvg-name="CINE ®| CINECANAL SD" tvg-logo="https://i.ibb.co/Wx5qhy1/CINECANAL.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| CINECANAL SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLi0Jyk4NK8QXZ6jTkXWsNbx/ts
+#EXTINF:-1 xc_vm-id="4022905" tvg-id="aande.mx" tvg-name="CINE ®| A&E HD" tvg-logo="https://i.ibb.co/L0P68VF/A-E.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| A&E HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiFn5pa4kRV7JFDZY2eSq7_/ts
+#EXTINF:-1 xc_vm-id="4022907" tvg-id="fx.mx" tvg-name="CINE ®| FX HD" tvg-logo="https://i.ibb.co/wwGpFJV/FX.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| FX HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhl_j6M598ks7yP2_V6mX2c/ts
+#EXTINF:-1 xc_vm-id="4022908" tvg-id="fx.mx" tvg-name="CINE ®| FX SD" tvg-logo="https://i.ibb.co/wwGpFJV/FX.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| FX SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgjO4fVwEDIfADF9ec7znaH/ts
+#EXTINF:-1 xc_vm-id="4022911" tvg-id="space.co" tvg-name="CINE ®| SPACE HD" tvg-logo="https://i.ibb.co/pnwmzRh/SPACE.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| SPACE HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiq8o9vbgEeId6VaD-ot_gW/ts
+#EXTINF:-1 xc_vm-id="4022912" tvg-id="space.mx" tvg-name="CINE ®| SPACE SD" tvg-logo="https://i.ibb.co/pnwmzRh/SPACE.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| SPACE SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjWHj-rzbSbhss0kyIR_ykR/ts
+#EXTINF:-1 xc_vm-id="4022914" tvg-id="PARALN" tvg-name="CINE ®| PARAMOUNT SD" tvg-logo="https://i.ibb.co/891GF2n/PARAMOUNT.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| PARAMOUNT SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLj5q1DOaeOWaPf5JWz-i_21/ts
+#EXTINF:-1 xc_vm-id="4022915" tvg-id="FOXLAHA" tvg-name="CINE ®| STAR CHANNEL HD" tvg-logo="https://i.ibb.co/y8T7HrH/STAR-CHANNEL.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| STAR CHANNEL HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhHuPlhkWlk_LHCPBZHCHZ3/ts
+#EXTINF:-1 xc_vm-id="4022917" tvg-id="usanetwork.mx" tvg-name="CINE ®| USA HD" tvg-logo="https://i.ibb.co/WHwgKYw/USA-TV.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| USA HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhMF7YOpeUqpGrPhyp6mMth/ts
+#EXTINF:-1 xc_vm-id="4022918" tvg-id="usanetwork.mx" tvg-name="CINE ®| USA SD" tvg-logo="https://i.ibb.co/WHwgKYw/USA-TV.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| USA SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgoW2wquR4gvPEjECajJvkc/ts
+#EXTINF:-1 xc_vm-id="4022920" tvg-id="filmandarts.mx" tvg-name="CINE ®| FILM & ARTS SD" tvg-logo="https://i.ibb.co/Gn6CjkZ/FILME-Y-ART.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| FILM & ARTS SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjsqaojsInMjPLbntDRSs2J/ts
+#EXTINF:-1 xc_vm-id="4022921" tvg-id="tcm.mx" tvg-name="CINE ®| TCM HD" tvg-logo="https://i.ibb.co/txDswd4/TCM.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| TCM HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiOK0aBzmjSicjiYz88fUG-/ts
+#EXTINF:-1 xc_vm-id="4022922" tvg-id="tcm.es" tvg-name="CINE ®| TCM SD" tvg-logo="https://i.ibb.co/txDswd4/TCM.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| TCM SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLi3jNT3wkfcIHi2BUHAJerf/ts
+#EXTINF:-1 xc_vm-id="4022923" tvg-id="calle13.es" tvg-name="CINE ®| CALLE©️ 13 HD" tvg-logo="https://i.ibb.co/ZgtPTnn/CALLE-13.jpgS.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| CALLE©️ 13 HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgmdO7QoTls18p59szY3BF1/ts
+#EXTINF:-1 xc_vm-id="4022925" tvg-id="europaeuropa.mx" tvg-name="CINE ®| EUROPA HD" tvg-logo="https://i.ibb.co/bKgJGQW/EUROPA.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| EUROPA HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLirIUusAO3TqixOK1uVyVan/ts
+#EXTINF:-1 xc_vm-id="4022926" tvg-id="CDINA" tvg-name="CINE ®| EURO CHANNEL HD" tvg-logo="https://i.ibb.co/bKgJGQW/EUROPA.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| EURO CHANNEL HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjiCIN_jjtDa_0KjyPcc1eR/ts
+#EXTINF:-1 xc_vm-id="4022927" tvg-id="CLACIHD" tvg-name="CINE ®| CLARO CINEMA HD" tvg-logo="https://i.ibb.co/QQXhw9B/CLARO-CINEMA.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| CLARO CINEMA HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLj5bZctbloakCTgIIwoMReP/ts
+#EXTINF:-1 xc_vm-id="4022928" tvg-id="DCCLARO" tvg-name="CINE ®| CANAL CLARO HD" tvg-logo="https://i.ibb.co/Wg2bjm1/CANAL-CLARO.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| CANAL CLARO HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLg_82-PqaBXybu82DbjEH0k/ts
+#EXTINF:-1 xc_vm-id="4022929" tvg-id="depeliculahd.mx" tvg-name="CINE ®| DE PELICULA CLASICO HD" tvg-logo="https://i.ibb.co/DfTqKpW/DE-PELICULA.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| DE PELICULA CLASICO HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgFjS460e5lKlplvm1ByjEh/ts
+#EXTINF:-1 xc_vm-id="4022931" tvg-id="depelicula.mx" tvg-name="CINE ®| CINE LATINO HD" tvg-logo="https://i.ibb.co/6Wzn1wy/CINELATINO.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| CINE LATINO HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhc2FbdPERcBr6wZIf4Wlf3/ts
+#EXTINF:-1 xc_vm-id="4022989" tvg-id="MPREL" tvg-name="CINE ®| MULTIPREMIER HD" tvg-logo="https://i.ibb.co/LnnC9pH/MULTIPREMIER.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| MULTIPREMIER HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiFm96quIdcM2ASpm9XGtxd/ts
+#EXTINF:-1 xc_vm-id="4022990" tvg-id="ISATS" tvg-name="CINE ®| ISAT HD" tvg-logo="https://i.ibb.co/fCFwkxX/ISAT-TV.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| ISAT HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjtJskWnx63JsawySiXJkS9/ts
+#EXTINF:-1 xc_vm-id="4022991" tvg-id="MCINLA" tvg-name="CINE ®| MULTICINEMA HD" tvg-logo="https://i.ibb.co/6sf7Lkk/MULTICINE.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| MULTICINEMA HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiXosC08p6FPAcwlYBozvK0/ts
+#EXTINF:-1 xc_vm-id="4023059" tvg-id="" tvg-name="CINE ®| LOS GOYA por M+©️ HD" tvg-logo="https://i.ibb.co/WfbRrVp/LOS-GOYA-M.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",CINE ®| LOS GOYA por M+©️ HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLilQ_U2AzbRz1OsvAIg4Er0/ts
+#EXTINF:-1 xc_vm-id="4063718" tvg-id="" tvg-name="STAR CHANNEL SUR" tvg-logo="https://i.ibb.co/bRQbVdwN/image.png" group-title="CINECALIDAD ⭐ | PREMIUM",STAR CHANNEL SUR
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhm6hOpF0CVH6Rkj7yX-656/ts
+#EXTINF:-1 xc_vm-id="4063721" tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CINECALIDAD ⭐ | PREMIUM",UNIVERSAL CRIME
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgwh1W5YlZI0ZJ4uFeSbgHP/ts
+#EXTINF:-1 xc_vm-id="4063722" tvg-id="" tvg-name="UNIVERSAL PREMIERE SUR" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CINECALIDAD ⭐ | PREMIUM",UNIVERSAL PREMIERE SUR
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgdYiLt6ujXfHmy7j2ETznd/ts
+#EXTINF:-1 xc_vm-id="4063723" tvg-id="" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CINECALIDAD ⭐ | PREMIUM",UNIVERSAL REALITY
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgzgPUdTXbec_cdGA37VHRD/ts
+#EXTINF:-1 xc_vm-id="4063724" tvg-id="" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CINECALIDAD ⭐ | PREMIUM",UNIVERSAL COMEDY
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLi6Z1DIKkGGoDVEZ1GdsEyF/ts
+#EXTINF:-1 xc_vm-id="4063797" tvg-id="" tvg-name="PREMIUM | HBO 2 FHD" tvg-logo="https://i.ibb.co/pjRBSMH7/image.png" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO 2 FHD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgz4TcbkgO6NzsgbRGwuQ67/ts
+#EXTINF:-1 xc_vm-id="4063798" tvg-id="" tvg-name="PREMIUM | HBO 2 HD" tvg-logo="https://i.ibb.co/pjRBSMH7/image.png" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO 2 HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLj2dv9fNV_sz1C_ZQ1-kKdA/ts
+#EXTINF:-1 xc_vm-id="4063800" tvg-id="" tvg-name="PREMIUM | HBO FAMILY HD *" tvg-logo="https://i.postimg.cc/vB1vZnLB/hbo.png" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO FAMILY HD *
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiC0NlU0a1pY8oFAQ7RHCPX/ts
+#EXTINF:-1 xc_vm-id="4063801" tvg-id="" tvg-name="PREMIUM | HBO SUR" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO SUR
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhzxjo--CH0LnvtJ7XReRRi/ts
+#EXTINF:-1 xc_vm-id="4063802" tvg-id="" tvg-name="PREMIUM | HBO" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLik5ZgTJRmOjmX9NvkGkDhI/ts
+#EXTINF:-1 xc_vm-id="4063803" tvg-id="" tvg-name="PREMIUM | HBO MUNDI HQ" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxtz-288c17db-800c-4771-a9c6-cafa6617d039.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYlwvZGdmbXh0ei0yODhjMTdkYi04MDBjLTQ3NzEtYTljNi1jYWZhNjYxN2QwMzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xrkNcAYvhdCP_csK4pFdOkCkkhDk5M0kk1AqmstelRI" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO MUNDI HQ
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhbTLhXX6PRVZwkIbdOG_Il/ts
+#EXTINF:-1 xc_vm-id="4063804" tvg-id="" tvg-name="PREMIUM | HBO PLUS FHD" tvg-logo="https://i.postimg.cc/vB1vZnLB/hbo.png" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO PLUS FHD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgIx5XuHiZuFa9e8kpYuD-Z/ts
+#EXTINF:-1 xc_vm-id="4063805" tvg-id="" tvg-name="PREMIUM | HBO PLUS HD *" tvg-logo="https://i.postimg.cc/vB1vZnLB/hbo.png" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO PLUS HD *
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhN0s6gSAzUoJbIHjxRVDUJ/ts
+#EXTINF:-1 xc_vm-id="4063806" tvg-id="" tvg-name="PREMIUM | HBO POP HD -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO POP HD -
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhx5jtfqzjipudqX8XbHzAz/ts
+#EXTINF:-1 xc_vm-id="4063807" tvg-id="" tvg-name="PREMIUM | HBO SIGNATURE HD" tvg-logo="https://1.bp.blogspot.com/-ZqLiBW9RJWA/X6DeXyrPj0I/AAAAAAAAKiI/Q_7ZpvOFmV4ThYcFBDlkUBXJegmG4CPVACLcBGAsYHQ/w680/hbo%2Bsignature.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO SIGNATURE HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgpiDejRcJYP8kvRSHhGaZ9/ts
+#EXTINF:-1 xc_vm-id="4063808" tvg-id="" tvg-name="PREMIUM | HBO SIGNATURE | HQ" tvg-logo="https://1.bp.blogspot.com/-ZqLiBW9RJWA/X6DeXyrPj0I/AAAAAAAAKiI/Q_7ZpvOFmV4ThYcFBDlkUBXJegmG4CPVACLcBGAsYHQ/w680/hbo%2Bsignature.jpg" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO SIGNATURE | HQ
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjZu87v8FgRq6as_ggF4HQ8/ts
+#EXTINF:-1 xc_vm-id="4063809" tvg-id="" tvg-name="PREMIUM | HBO XTREME HD" tvg-logo="https://i.postimg.cc/vB1vZnLB/hbo.png" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO XTREME HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgb8G1dn_XZM4B0QrNYTOWu/ts
+#EXTINF:-1 xc_vm-id="4063810" tvg-id="" tvg-name="PREMIUM | HBO XTREME" tvg-logo="https://i.postimg.cc/vB1vZnLB/hbo.png" group-title="CINECALIDAD ⭐ | PREMIUM",PREMIUM | HBO XTREME
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhAEowwaFvYbgoE79jeBfwL/ts
+#EXTINF:-1 xc_vm-id="4063863" tvg-id="" tvg-name="CINE | STUDIO CHANEL FHD" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CINECALIDAD ⭐ | PREMIUM",CINE | STUDIO CHANEL FHD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhnIk1HVq1fnzteT7bZFUzP/ts
+#EXTINF:-1 xc_vm-id="4063898" tvg-id="" tvg-name="Universal TV" tvg-logo="https://i.ibb.co/r2rvwTsT/image.png" group-title="CINECALIDAD ⭐ | PREMIUM",Universal TV
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgIzvxKScX49yR9zMsKe0qi/ts
+#EXTINF:-1 xc_vm-id="4063918" tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/vFW68BX/image.png" group-title="CINECALIDAD ⭐ | PREMIUM",STUDIO UNIVERSAL
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgnwXRoVZNM-Etvrw6j6SQ1/ts
+#EXTINF:-1 xc_vm-id="4069094" tvg-id="" tvg-name="AMAZON PRIME FHD" tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" group-title="CINECALIDAD ⭐ | PREMIUM",AMAZON PRIME FHD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhDxzJe5gDBZR6SvI9aZTEM/ts
+#EXTINF:-1 xc_vm-id="4069096" tvg-id="" tvg-name="NETFLIX FHD" tvg-logo="https://i.ibb.co/QP93v6B/daf30fac5e16393d66a3684dd27e29af.png" group-title="CINECALIDAD ⭐ | PREMIUM",NETFLIX FHD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiileDr-s8nz-C4NV-UuJHO/ts
+#EXTINF:-1 xc_vm-id="4069100" tvg-id="" tvg-name="CINEMA VIP 02 FHD" tvg-logo="https://i.ibb.co/7gwyNY2/depositphotos-73179751-stock-illustration-vector-logo-slate-board-for.png" group-title="CINECALIDAD ⭐ | PREMIUM",CINEMA VIP 02 FHD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiwdMMKT5LKPPNQZWHNr7F1/ts
+#EXTINF:-1 xc_vm-id="4069101" tvg-id="" tvg-name="CINEMA VIP 03 FHD" tvg-logo="https://i.ibb.co/7gwyNY2/depositphotos-73179751-stock-illustration-vector-logo-slate-board-for.png" group-title="CINECALIDAD ⭐ | PREMIUM",CINEMA VIP 03 FHD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgcYLsxACWENrkmHxgwAXrX/ts
+#EXTINF:-1 xc_vm-id="4069102" tvg-id="" tvg-name="CINEMA VIP 06 FHD" tvg-logo="https://i.ibb.co/7gwyNY2/depositphotos-73179751-stock-illustration-vector-logo-slate-board-for.png" group-title="CINECALIDAD ⭐ | PREMIUM",CINEMA VIP 06 FHD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgtXNtw2Zb06eHj_aUUwYvC/ts
+#EXTINF:-1 xc_vm-id="4069103" tvg-id="" tvg-name="CINEMA VIP 11 FHD" tvg-logo="https://i.ibb.co/7gwyNY2/depositphotos-73179751-stock-illustration-vector-logo-slate-board-for.png" group-title="CINECALIDAD ⭐ | PREMIUM",CINEMA VIP 11 FHD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLi3UuCwsi4M2BGORnVZ0tU6/ts
+#EXTINF:-1 xc_vm-id="4069106" tvg-id="" tvg-name="Cinema Accion Full HD" tvg-logo="https://i.ibb.co/7gwyNY2/depositphotos-73179751-stock-illustration-vector-logo-slate-board-for.png" group-title="CINECALIDAD ⭐ | PREMIUM",Cinema Accion Full HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgYE0zS732nuH6OBdznNkWD/ts
+#EXTINF:-1 xc_vm-id="4069152" tvg-id="" tvg-name="[VIX] Amor Real" tvg-logo="http://onerestream.us:80/images/vpC02e-85oEEdy5P_mF6f6VE_2OA8CeKKb43koJpZOzjjxEis0t8rsYxyCZPIeEy.png" group-title="CINECALIDAD ⭐ | PREMIUM",[VIX] Amor Real
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhIIXkiszyF8b0eJYWC78wi/ts
+#EXTINF:-1 xc_vm-id="4069167" tvg-id="" tvg-name="[VIX] Hasta que el dinero nos separe" tvg-logo="http://onerestream.us:80/images/vpC02e-85oEEdy5P_mF6f6VE_2OA8CeKKb43koJpZOzjjxEis0t8rsYxyCZPIeEy.png" group-title="CINECALIDAD ⭐ | PREMIUM",[VIX] Hasta que el dinero nos separe
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgtY9eN0h16A4GHtQoGIw9u/ts
+#EXTINF:-1 xc_vm-id="4069171" tvg-id="" tvg-name="[VIX] La Rosa de Guadalupe" tvg-logo="http://onerestream.us:80/images/vpC02e-85oEEdy5P_mF6f6VE_2OA8CeKKb43koJpZOzjjxEis0t8rsYxyCZPIeEy.png" group-title="CINECALIDAD ⭐ | PREMIUM",[VIX] La Rosa de Guadalupe
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhtklRHfYZPfRW9Y_MjQa0u/ts
+#EXTINF:-1 xc_vm-id="4069175" tvg-id="" tvg-name="[VIX] Milenio" tvg-logo="http://onerestream.us:80/images/vpC02e-85oEEdy5P_mF6f6VE_2OA8CeKKb43koJpZOzjjxEis0t8rsYxyCZPIeEy.png" group-title="CINECALIDAD ⭐ | PREMIUM",[VIX] Milenio
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiue9L-gUkEt_XOlDzLxwI4/ts
+#EXTINF:-1 xc_vm-id="4069187" tvg-id="" tvg-name="[VIX] Unicable" tvg-logo="http://onerestream.us:80/images/vpC02e-85oEEdy5P_mF6f6VE_2OA8CeKKb43koJpZOzjjxEis0t8rsYxyCZPIeEy.png" group-title="CINECALIDAD ⭐ | PREMIUM",[VIX] Unicable
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiXuQ_909dY8hqhGkp-ICuJ/ts
+#EXTINF:-1 xc_vm-id="4069188" tvg-id="" tvg-name="[VIX] Vecinos" tvg-logo="http://onerestream.us:80/images/vpC02e-85oEEdy5P_mF6f6VE_2OA8CeKKb43koJpZOzjjxEis0t8rsYxyCZPIeEy.png" group-title="CINECALIDAD ⭐ | PREMIUM",[VIX] Vecinos
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjIjPf4601U9GrMmTbKt6ur/ts
+#EXTINF:-1 xc_vm-id="4069189" tvg-id="" tvg-name="[VIX] Zona TUDN" tvg-logo="http://onerestream.us:80/images/rU9hlV3R9jqS4KVHEzvegLzFIpGNIopI2nhBTXP2Gk417pN187ERlxPGT_1mLjkEWSJhwKcOaWxpHail15qg19moFxGFIu6LtS9zaylJe7YeierkS2aHbRh43f5U6sXCZEi9Fly_HBI40vHIPZ25lw.png" group-title="CINECALIDAD ⭐ | PREMIUM",[VIX] Zona TUDN
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLivHR5_vb2OmB2L865SEJY6/ts
+#EXTINF:-1 xc_vm-id="4069195" tvg-id="" tvg-name="Disney+ Series 4" tvg-logo="http://onerestream.us:80/images/_2TRz82hbAf6FqxrchgOwu4gVPjmD5vRLU8SYoElbWrTdIiRM_8mrCh7YTBq1ZXCFBi2mCcBwYe5Iu6pM1OVl7dMHIEqPsVE2OaXFIeQPLc.png" group-title="CINECALIDAD ⭐ | PREMIUM",Disney+ Series 4
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiwEJV4r3QECJjXZKr-oWyt/ts
+#EXTINF:-1 xc_vm-id="4069205" tvg-id="" tvg-name="AMAZON CINESHOW-07" tvg-logo="http://onerestream.us:80/images/_2TRz82hbAf6FqxrchgOwhLqtzx--lxfJX6MnR_MDFtpVJc4WYVydLQQgl9cEnY_BSeL1NzQf9Vtr-Pna1JpxdzrU0ivbHY8kPIuWHHf9aA.png" group-title="CINECALIDAD ⭐ | PREMIUM",AMAZON CINESHOW-07
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjiwoaS2pzfiRAxsQa45tCa/ts
+#EXTINF:-1 xc_vm-id="4069208" tvg-id="" tvg-name="AMAZON CINESHOW-14" tvg-logo="http://onerestream.us:80/images/_2TRz82hbAf6FqxrchgOwhLqtzx--lxfJX6MnR_MDFtpVJc4WYVydLQQgl9cEnY_BSeL1NzQf9Vtr-Pna1JpxdzrU0ivbHY8kPIuWHHf9aA.png" group-title="CINECALIDAD ⭐ | PREMIUM",AMAZON CINESHOW-14
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLicQwRIov_M5tUWdVDI3PBk/ts
+#EXTINF:-1 xc_vm-id="4069213" tvg-id="" tvg-name="AMAZON CINESHOW-19" tvg-logo="http://onerestream.us:80/images/_2TRz82hbAf6FqxrchgOwhLqtzx--lxfJX6MnR_MDFtpVJc4WYVydLQQgl9cEnY_BSeL1NzQf9Vtr-Pna1JpxdzrU0ivbHY8kPIuWHHf9aA.png" group-title="CINECALIDAD ⭐ | PREMIUM",AMAZON CINESHOW-19
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgA3TuBES_eCPCD4AC_0Cec/ts
+#EXTINF:-1 xc_vm-id="4069215" tvg-id="" tvg-name="AMAZON CINESHOW-21" tvg-logo="http://onerestream.us:80/images/_2TRz82hbAf6FqxrchgOwhLqtzx--lxfJX6MnR_MDFtpVJc4WYVydLQQgl9cEnY_BSeL1NzQf9Vtr-Pna1JpxdzrU0ivbHY8kPIuWHHf9aA.png" group-title="CINECALIDAD ⭐ | PREMIUM",AMAZON CINESHOW-21
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhg3hHkSvOJd9jbrFLOSbA3/ts
+#EXTINF:-1 xc_vm-id="4085923" tvg-id="" tvg-name="Hbo Xtreme  (dual audio)" tvg-logo="https://i.postimg.cc/vB1vZnLB/hbo.png" group-title="CINECALIDAD ⭐ | PREMIUM",Hbo Xtreme  (dual audio)
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLh9mTMKJHM2XAhEmovLb5ad/ts
+#EXTINF:-1 xc_vm-id="4085924" tvg-id="" tvg-name="Hbo Plus (dual audio)" tvg-logo="https://i.postimg.cc/vB1vZnLB/hbo.png" group-title="CINECALIDAD ⭐ | PREMIUM",Hbo Plus (dual audio)
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLi3D0ZKQiOfQIWH993Elx8F/ts
+#EXTINF:-1 xc_vm-id="4085926" tvg-id="" tvg-name="Hbo  (dual audio)" tvg-logo="https://i.postimg.cc/vB1vZnLB/hbo.png" group-title="CINECALIDAD ⭐ | PREMIUM",Hbo  (dual audio)
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjZHyTJN9hw8XqKDEcqExV5/ts
+#EXTINF:-1 xc_vm-id="4085927" tvg-id="" tvg-name="Hbo Family (dual audio)" tvg-logo="https://i.postimg.cc/vB1vZnLB/hbo.png" group-title="CINECALIDAD ⭐ | PREMIUM",Hbo Family (dual audio)
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjjpAvWuNyGo22Zl7LVhTca/ts
+#EXTINF:-1 xc_vm-id="4085928" tvg-id="" tvg-name="Hbo Mundi (dual Audio)" tvg-logo="https://i.postimg.cc/vB1vZnLB/hbo.png" group-title="CINECALIDAD ⭐ | PREMIUM",Hbo Mundi (dual Audio)
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhGZuLZYUkYeysD4gb4MXEB/ts
+#EXTINF:-1 xc_vm-id="4088683" tvg-id="TELEFE.ar" tvg-name="ARG ®| TELEFE HD" tvg-logo="https://i.ibb.co/XYWRd5Q/TELEFE.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| TELEFE HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhbrpO-pJwiIX-qbBDwFrNy/ts
+#EXTINF:-1 xc_vm-id="4088684" tvg-id="TELEFE.ar" tvg-name="ARG ®| TELEFE SD" tvg-logo="https://i.ibb.co/XYWRd5Q/TELEFE.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| TELEFE SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjr57A_w9Kpmm5ikzHjWOzf/ts
+#EXTINF:-1 xc_vm-id="4088685" tvg-id="EL NUEVE.ar" tvg-name="ARG ®| EL NUEVE HD" tvg-logo="https://i.ibb.co/SdDxp9N/EL-NUEVE.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| EL NUEVE HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhkWgNVuQ645TH1_z09FsqY/ts
+#EXTINF:-1 xc_vm-id="4088686" tvg-id="EL NUEVE.ar" tvg-name="ARG ®| EL NUEVE SD" tvg-logo="https://i.ibb.co/SdDxp9N/EL-NUEVE.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| EL NUEVE SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjdO4NUn8u0boqkb8G77Smq/ts
+#EXTINF:-1 xc_vm-id="4088687" tvg-id="EL TRECE.ar" tvg-name="ARG ®| EL TRECE HD" tvg-logo="https://i.ibb.co/n6vcqLc/CANAL-TRECE.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| EL TRECE HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhYEW2uk8L47YxiN49MKKlP/ts
+#EXTINF:-1 xc_vm-id="4088688" tvg-id="EL TRECE HD.ar" tvg-name="ARG ®| EL TRECE SD" tvg-logo="https://i.ibb.co/n6vcqLc/CANAL-TRECE.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| EL TRECE SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLijC1CZH03CPs2vc3MlHOPo/ts
+#EXTINF:-1 xc_vm-id="4088689" tvg-id="AMERICA 2 HD.ar" tvg-name="ARG ®| AMERICA TV HD" tvg-logo="https://i.ibb.co/sHBGjy4/AMARICA.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| AMERICA TV HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLg18pX85NFovv6cEYFmnrUe/ts
+#EXTINF:-1 xc_vm-id="4088690" tvg-id="AMERICA 2 HD.ar" tvg-name="ARG ®| AMERICA TV SD" tvg-logo="https://i.ibb.co/sHBGjy4/AMARICA.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| AMERICA TV SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjPno0npy_UiWcnMPLEZ-Uo/ts
+#EXTINF:-1 xc_vm-id="4088691" tvg-id="TV PUBLICA.ar" tvg-name="ARG ®| TV PUBLICA HD" tvg-logo="https://i.ibb.co/0CDxSmb/TELEVISION-PUBLICA.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| TV PUBLICA HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhbT_BuhfYTepG0DS5PqXFq/ts
+#EXTINF:-1 xc_vm-id="4088692" tvg-id="TV PUBLICA.ar" tvg-name="ARG ®| TV PUBLICA SD" tvg-logo="https://i.ibb.co/0CDxSmb/TELEVISION-PUBLICA.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| TV PUBLICA SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLheDK69_CwwZbtFwT7qKkoU/ts
+#EXTINF:-1 xc_vm-id="4088693" tvg-id="TN.ar" tvg-name="ARG ®| TN HD" tvg-logo="https://i.ibb.co/rmPS6yP/TN.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| TN HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjAUAbRqLnouPU7w7XlIIJk/ts
+#EXTINF:-1 xc_vm-id="4088694" tvg-id="TN.ar" tvg-name="ARG ®| TN SD" tvg-logo="https://i.ibb.co/rmPS6yP/TN.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| TN SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhJJESlwocQL1ucuFFNxPoT/ts
+#EXTINF:-1 xc_vm-id="4088695" tvg-id="A24.ar" tvg-name="ARG ®| CANAL A24 HD" tvg-logo="https://i.ibb.co/GQY78ZV/A24.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CANAL A24 HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjbexl6WcQrcE3wxHu8evQD/ts
+#EXTINF:-1 xc_vm-id="4088696" tvg-id="A24.ar" tvg-name="ARG ®| CANAL A24 SD" tvg-logo="https://i.ibb.co/GQY78ZV/A24.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CANAL A24 SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgRFEN4yHYSyRdXO7m_TEwS/ts
+#EXTINF:-1 xc_vm-id="4088697" tvg-id="CRONICA.ar" tvg-name="ARG ®| CRONICA TV HD" tvg-logo="https://i.ibb.co/KxGHfrY/CRONICAS-TV.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CRONICA TV HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgqz2_nrdVam00LqjmABao3/ts
+#EXTINF:-1 xc_vm-id="4088698" tvg-id="CRONICA.ar" tvg-name="ARG ®| CRONICA TV SD" tvg-logo="https://i.ibb.co/KxGHfrY/CRONICAS-TV.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CRONICA TV SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiYKDXs82BBAMihlEP4XQvD/ts
+#EXTINF:-1 xc_vm-id="4088699" tvg-id="C5N.ar" tvg-name="ARG ®| C5N HD" tvg-logo="https://i.ibb.co/9YwJpG4/C5N.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| C5N HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjtw0GeJ-t0mfRjfqW04I_k/ts
+#EXTINF:-1 xc_vm-id="4088700" tvg-id="C5N.ar" tvg-name="ARG ®| C5N SD" tvg-logo="https://i.ibb.co/9YwJpG4/C5N.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| C5N SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLip8UpYlzUqYJI9xvUPAHVn/ts
+#EXTINF:-1 xc_vm-id="4088701" tvg-id="26TV.ar" tvg-name="ARG ®| CANAL 26 HD" tvg-logo="https://i.ibb.co/6WHLJJh/CANAL-26.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CANAL 26 HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhf6_KDMmgHYYHIdpXqmJbX/ts
+#EXTINF:-1 xc_vm-id="4088702" tvg-id="26TV.ar" tvg-name="ARG ®| CANAL 26 SD" tvg-logo="https://i.ibb.co/6WHLJJh/CANAL-26.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CANAL 26 SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhFlqHaR6Xke3Bk_fSDx23c/ts
+#EXTINF:-1 xc_vm-id="4088703" tvg-id="CANAL DE LA CIUDAD.ar" tvg-name="ARG ®| CIUDAD MAGAZINE" tvg-logo="https://i.ibb.co/LpB4YZW/ciudad-magazine.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CIUDAD MAGAZINE
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjgISahr7idZtZB77FpRP8I/ts
+#EXTINF:-1 xc_vm-id="4088704" tvg-id="VOLVER.ar" tvg-name="ARG ®| CANAL VOLVER HD" tvg-logo="https://i.ibb.co/H2d0P5H/VOLVER.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CANAL VOLVER HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiWaCMrTBYAHIBeaKXZF-mC/ts
+#EXTINF:-1 xc_vm-id="4088705" tvg-id="CINE.AR.ar" tvg-name="ARG ®| CINE AR" tvg-logo="https://i.ibb.co/BzHGptB/CINEAR.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CINE AR
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgy9Vzoe0IgE_IIdCI7c6em/ts
+#EXTINF:-1 xc_vm-id="4088706" tvg-id="" tvg-name="ARG ®| NET TV HD" tvg-logo="https://i.ibb.co/zbpZfpJ/NET.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| NET TV HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhQLjsvxdXdaytXhckonVsF/ts
+#EXTINF:-1 xc_vm-id="4088707" tvg-id="26TV.ar" tvg-name="ARG ®| LN+ HD" tvg-logo="https://i.ibb.co/N75xr0n/LN.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| LN+ HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhuf64U7zJjtJA8fsUy30TU/ts
+#EXTINF:-1 xc_vm-id="4088708" tvg-id="C5N.ar" tvg-name="ARG ®| CANAL 5 BRAGADO" tvg-logo="https://i.ibb.co/hJ7fvQyH/Whats-App-Image-2025-10-25-at-22-50-57.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CANAL 5 BRAGADO
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLg5nhrmSorssmBX37pGa4fY/ts
+#EXTINF:-1 xc_vm-id="4088709" tvg-id="Garage TV" tvg-name="ARG ®| BRAGADO TV HD" tvg-logo="https://i.ibb.co/RCmYRL3/BRAGADO-TV-HD.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| BRAGADO TV HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhHw4zOXQ-2fxL5NwJw6QPu/ts
+#EXTINF:-1 xc_vm-id="4088710" tvg-id="tycsports.us" tvg-name="ARG ®| CANAL 10 CORDOBA" tvg-logo="https://i.ibb.co/zsR7qSZ/Whats-App-Image-2024-10-05-at-17-19-48-1.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CANAL 10 CORDOBA
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLg6x1LiKbPQHhXmTI_WlZTd/ts
+#EXTINF:-1 xc_vm-id="4088711" tvg-id="TNTSPOR" tvg-name="ARG ®| CANAL 9 TELEVIDA" tvg-logo="https://i.ibb.co/bMfhYpDg/televida.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CANAL 9 TELEVIDA
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjaduIGqufHKXTRUeTnTEcL/ts
+#EXTINF:-1 xc_vm-id="4088715" tvg-id="417184" tvg-name="ARG ®| CANAL 9 LITORIAL" tvg-logo="https://i.ibb.co/fvCrmS3/Whats-App-Image-2024-10-05-at-17-19-46.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CANAL 9 LITORIAL
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhXrgaTxeIxNxCTi0_GDdJW/ts
+#EXTINF:-1 xc_vm-id="4088786" tvg-id="" tvg-name="ARG ®| CANAL 7 JUJUY" tvg-logo="https://i.ibb.co/M5xXHrt/Whats-App-Image-2024-10-05-at-17-19-37.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| CANAL 7 JUJUY
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiji6jTLLQq2GapWdIcvnb6/ts
+#EXTINF:-1 xc_vm-id="4088788" tvg-id="" tvg-name="ARG ®| MULTIVISION" tvg-logo="https://i.ibb.co/b5vSv6qm/Whats-App-Image-2024-10-06-at-09-07-54.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| MULTIVISION
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhe8cZulKlKBvJGpDUxHGQM/ts
+#EXTINF:-1 xc_vm-id="4088789" tvg-id="DEPORTV.ar" tvg-name="ARG ®| DEPORTV HD" tvg-logo="https://i.ibb.co/MBK7GHL/DEPORTV.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| DEPORTV HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjjJN3HlKCzyb79s9oM6_5m/ts
+#EXTINF:-1 xc_vm-id="4088790" tvg-id="" tvg-name="ARG ®| GARAGE HD" tvg-logo="https://i.ibb.co/QDSv9b0/GARAGE-TV.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| GARAGE HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgzxmePwTamzd79AKsoufEf/ts
+#EXTINF:-1 xc_vm-id="4088791" tvg-id="" tvg-name="ARG ®| TNT SPORTS HD" tvg-logo="https://i.ibb.co/fxnCdYb/ARGENTINA-TNT.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| TNT SPORTS HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhQCfdfSrwe0iffmn_Ra7ah/ts
+#EXTINF:-1 xc_vm-id="4088792" tvg-id="" tvg-name="ARG ®| TNT SPORTS SD" tvg-logo="https://i.ibb.co/fxnCdYb/ARGENTINA-TNT.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| TNT SPORTS SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLiqqTwV0dy6rFkjxCpUlb0P/ts
+#EXTINF:-1 xc_vm-id="4088793" tvg-id="TYC SPORTS INTERIOR.ar" tvg-name="ARG ®| TYC SPORTS INT" tvg-logo="https://i.ibb.co/88zWHbH/TYC-SPORTS.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| TYC SPORTS INT
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgJHPrNdewiFI5CyneFtJbJ/ts
+#EXTINF:-1 xc_vm-id="4088797" tvg-id="TYC SPORTS.ar" tvg-name="ARG ®| TYC SPORTS HD" tvg-logo="https://i.ibb.co/88zWHbH/TYC-SPORTS.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| TYC SPORTS HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgDkNmt0O8fID2_TDSwX9Kb/ts
+#EXTINF:-1 xc_vm-id="4088798" tvg-id="TYC SPORTS.ar" tvg-name="ARG ®| TYC SPORTS SD" tvg-logo="https://i.ibb.co/88zWHbH/TYC-SPORTS.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| TYC SPORTS SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLjY6B6I0hsLqK2fC-dCZpfs/ts
+#EXTINF:-1 xc_vm-id="4088799" tvg-id="" tvg-name="ARG ®| ESPN PREMIUM HD" tvg-logo="https://i.ibb.co/VH9Kxc7/ESPN-ARG-PREMIUM.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| ESPN PREMIUM HD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLhSGCDCiYnM7bLBCUGVJHRW/ts
+#EXTINF:-1 xc_vm-id="4088800" tvg-id="ESPN HD.ar" tvg-name="ARG ®| ESPN PREMIUM SD" tvg-logo="https://i.ibb.co/VH9Kxc7/ESPN-ARG-PREMIUM.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG ®| ESPN PREMIUM SD
+http://starfamily.vip:8080/play/S7GKd3RyykAigD4gABYmtccGkn5mdSJN1s87iCl4kLgcJqh3cjFCDXWAhRVBlyaX/ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="AR | AMERIC∆  ꜱᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERIC∆  ꜱᴅ
 http://mundo2.vip:80/live/JUF297LUY0/cta27playec/81275.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERICA TV HD
