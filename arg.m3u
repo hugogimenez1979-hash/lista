@@ -1,6 +1,342 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Undefined",Canal 7 Jujuy (720p)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MetroTV.ar@SD" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Entertainment",Metro TV (720p)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-id="NeoTV.ar@SD" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="General",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="General",Telefe (480p)
+http://201.190.41.246:8822/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="General",Telefe Buenos Aires (1080p)
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-id="TelefeInterior.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="General",Telefe Interior (720p)
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Series",TNT Novelas (1080p)
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | Canal 5 HD MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" group-title="⭐ TELENOVELAS",TELENOVELAS | Canal 5 HD MX
+http://liontv.es:8080/Edgari2023/Edgari2023/783392
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | KANAL D" tvg-logo="https://i.ibb.co/20DNbBzj/Imagen-de-Whats-App-2025-10-20-a-las-00-15-15-d8ef2b14.jpg" group-title="⭐ TELENOVELAS",TELENOVELAS | KANAL D
+http://liontv.es:8080/Edgari2023/Edgari2023/330477
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | GALAVISION" tvg-logo="https://i.ibb.co/LzJFPDkn/Imagen-de-Whats-App-2025-10-20-a-las-00-21-05-0eb595d9.jpg" group-title="⭐ TELENOVELAS",TELENOVELAS | GALAVISION
+http://liontv.es:8080/Edgari2023/Edgari2023/361292
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1471" group-title="⭐ CINE Y SERIES HD",HBO 2 HD
+http://liontv.es:8080/Edgari2023/Edgari2023/345637
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | TELEMUNDO OPC1" tvg-logo="https://i.ibb.co/ChfJNSB/Telemundo-Novelas.jpg" group-title="⭐ TELENOVELAS",TELENOVELAS | TELEMUNDO OPC1
+http://liontv.es:8080/Edgari2023/Edgari2023/356984
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | UNIVISION HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/20_es.png" group-title="⭐ TELENOVELAS",TELENOVELAS | UNIVISION HD
+http://liontv.es:8080/Edgari2023/Edgari2023/354411
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | TLNovelas" tvg-logo="https://i.ibb.co/Smm5vsp/TLENOVELAS.jpg" group-title="⭐ TELENOVELAS",TELENOVELAS | TLNovelas
+http://liontv.es:8080/Edgari2023/Edgari2023/332678
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | TELEMUNDO OPC 2" tvg-logo="https://i.ibb.co/ChfJNSB/Telemundo-Novelas.jpg" group-title="⭐ TELENOVELAS",TELENOVELAS | TELEMUNDO OPC 2
+http://liontv.es:8080/Edgari2023/Edgari2023/361294
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | TELEMUNDO INTERNACIONAL FHD" tvg-logo="https://i.ibb.co/ChfJNSB/Telemundo-Novelas.jpg" group-title="⭐ TELENOVELAS",TELENOVELAS | TELEMUNDO INTERNACIONAL FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/354410
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | UNICABLE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="⭐ TELENOVELAS",TELENOVELAS | UNICABLE HD
+http://liontv.es:8080/Edgari2023/Edgari2023/354417
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | UNIVISION TLNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="⭐ TELENOVELAS",TELENOVELAS | UNIVISION TLNOVELAS
+http://liontv.es:8080/Edgari2023/Edgari2023/355918
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | RCN NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1200px-RCN_Novelas_logo_2019.png" group-title="⭐ TELENOVELAS",TELENOVELAS | RCN NOVELAS
+http://liontv.es:8080/Edgari2023/Edgari2023/354412
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | AZ CORAZON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/1920px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="⭐ TELENOVELAS",TELENOVELAS | AZ CORAZON
+http://liontv.es:8080/Edgari2023/Edgari2023/361297
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | LAS ESTRELLAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/1024px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="⭐ TELENOVELAS",TELENOVELAS | LAS ESTRELLAS MX
+http://liontv.es:8080/Edgari2023/Edgari2023/354414
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | CARACOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png" group-title="⭐ TELENOVELAS",TELENOVELAS | CARACOL HD
+http://liontv.es:8080/Edgari2023/Edgari2023/361298
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | UNIMAS  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="⭐ TELENOVELAS",TELENOVELAS | UNIMAS  HD
+http://liontv.es:8080/Edgari2023/Edgari2023/361295
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | PASIONES" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/PASIONESHD/EXPORTACION_WEB/SS/PASIONESHD_t-290x163.png" group-title="⭐ TELENOVELAS",TELENOVELAS | PASIONES
+http://liontv.es:8080/Edgari2023/Edgari2023/356944
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | AZTECA CORAZON" tvg-logo="https://masmediatv.es/images/2020/canales-azcorazon.png" group-title="⭐ TELENOVELAS",TELENOVELAS | AZTECA CORAZON
+http://liontv.es:8080/Edgari2023/Edgari2023/855262
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | SONY NOVELAS" tvg-logo="https://archive.org/download/brootv_SONY_CCN/SONY_NOVELAS.png" group-title="⭐ TELENOVELAS",TELENOVELAS | SONY NOVELAS
+http://liontv.es:8080/Edgari2023/Edgari2023/1371584
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | AMC FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/210.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | AMC FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/126
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | AXN FHD" tvg-logo="https://go4.pw/LATINO/AXNTV.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | AXN FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/778651
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | AZ-CINEMA FHD" tvg-logo="https://asatlinkpr.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | AZ-CINEMA FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/331594
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINECANAL FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/cienecanal.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINECANAL FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/772989
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINE DINAMITA FHD" tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINE DINAMITA FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/511176
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINE LATINO FHD" tvg-logo="https://go4.pw/LATINO/cine latino.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINE LATINO FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/331591
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINEMA +" tvg-logo="https://images.seeklogo.com/logo-png/49/2/canal-cinema-logo-png_seeklogo-491970.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES | CINEMA +
+http://190.232.196.93:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINE MARVEL FHD" tvg-logo="https://www.freepnglogos.com/uploads/marvel-logo-png/image-marvel-studios-logo-disney-wiki-18.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINE MARVEL FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/332123
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINEMAX FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/509.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINEMAX FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/129
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CINE MEXICANO FHD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CINE MEXICANO FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/780792
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | FREE TV SUREÑO FHD" tvg-logo="https://redge.media/uploads/gradient_on_light_ec3a48812f.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | FREE TV SUREÑO FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/342884
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | CLARO CINEMA FHD" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/885/CH_LOGO/160/160/0/0/213917850797501.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | CLARO CINEMA FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/1422378
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES |  DE PELICULA FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/DPel%20cula_Plus.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES |  DE PELICULA FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/327374
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | DE PELICULA PLUS FHD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | DE PELICULA PLUS FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/327376
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | DHE FHD" tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | DHE FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/131
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | EUROCHANNEL FHD" tvg-logo="https://th.bing.com/th/id/OIP.9vQJCRgOi1HryrV6iQ-giwHaCN?pid=ImgDet&rs=1" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | EUROCHANNEL FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/838250
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | EUROPA EUROPA FHD" tvg-logo="https://th.bing.com/th/id/R.53c404d9ff6d9b48461191d966fb8afe?rik=9Q8bSbidk7BJkg&riu=http%3a%2f%2ftelevision.com.ar%2fwp-content%2fuploads%2f2016%2f06%2feuropalogo.jpg&ehk=9NXX4ygZodGw8Ox3awTqiJMwB8fQMUVSQYjF4z4ok5I%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | EUROPA EUROPA FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/838249
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | FX FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/217.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | FX FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/124
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN EDGE FHD" tvg-logo="https://go4.pw/Mexico/edge.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN EDGE FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/134
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/503.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/133
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN PLUS FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/GOLDEN.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN PLUS FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/135
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN PREMIER 2 FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/GOLDEN.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN PREMIER 2 FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/1399235
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | GOLDEN PREMIER FHD" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.926c708c6f8ba665429c99b39b760a32.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | GOLDEN PREMIER FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/137
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES |  HBO 2 FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1525.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES |  HBO 2 FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/87726
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO 2 WEST FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1525.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO 2 WEST FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/140
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO EXTREME FHD" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO EXTREME FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/349873
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO FAMILY FHD" tvg-logo="https://go4.pw/usa/HBO_Family_East_HD.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO FAMILY FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/349869
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO FHD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo-1.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/138
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO MUNDI FHD" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO MUNDI FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/349870
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO PLUS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/1000?cb=20200122002249&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO PLUS FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/349871
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO POP FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhux9A5Ndss9srav2M7LBo0str36oCSzlmPELBmQ0_HT9-zl-D_XGWHVkSKOumpMnE5x5Gb5dijT2afmSO77CAiYjDIbCrYrTOVfBCV-2BU1gXnfoypkNm1qQLmHBMltwl-PnmfC-K5UVoxDJUAGSxVvU1PBEbaf9XDHv2Aro6HbjA3ZDU4j_8rQQ2/s1600/hbo-pop.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO POP FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/349868
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | HBO SIGNATURE FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/HBO_Signature_2012.png/revision/latest?cb=20151009181232&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | HBO SIGNATURE FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/349872
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | A3 SERIES" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/742/CH_LOGO/160/160/0/0/663841360790898.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | A3 SERIES
+http://liontv.es:8080/Edgari2023/Edgari2023/1422385
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | AMC" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/561/CH_LOGO/160/160/0/0/672311760790653.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | AMC
+http://liontv.es:8080/Edgari2023/Edgari2023/1422386
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | AXN" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/813/CH_LOGO/160/160/0/0/561493290772534.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | AXN
+http://liontv.es:8080/Edgari2023/Edgari2023/1422387
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | AZ CINEMA" tvg-logo="https://americancable.ec/wp-content/uploads/2021/09/40-logo-azcinema.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | AZ CINEMA
+http://liontv.es:8080/Edgari2023/Edgari2023/1422388
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | CINECANAL" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/564/CH_LOGO/160/160/0/0/510548440716435.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | CINECANAL
+http://liontv.es:8080/Edgari2023/Edgari2023/1422389
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | CINE FAMILIAR" tvg-logo="https://i.vimeocdn.com/video/1805384875-cf73b73bd6792b04d49146e0901764d40baee49d8be688930d94fedc58ef5445-d_640?f=webp" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | CINE FAMILIAR
+http://liontv.es:8080/Edgari2023/Edgari2023/1422430
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | CINE HISPANO" tvg-logo="https://i.vimeocdn.com/video/1805386680-16b76e008e4748c644da30c0d8d4a2bf69a759c89c3fdde4d733953429dcd92e-d_640?f=webp" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | CINE HISPANO
+http://liontv.es:8080/Edgari2023/Edgari2023/1422431
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | CINE LATINO" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/209/CH_LOGO/160/160/0/0/481702750715296.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | CINE LATINO
+http://liontv.es:8080/Edgari2023/Edgari2023/1422391
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | CINEMAX" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/565/CH_LOGO/160/160/0/0/834008940716794.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | CINEMAX
+http://liontv.es:8080/Edgari2023/Edgari2023/1422392
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | CINE PREMIUM" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | CINE PREMIUM
+http://liontv.es:8080/Edgari2023/Edgari2023/780569
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | DHE" tvg-logo="https://go4.pw/LATINO/DHE.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | DHE
+http://liontv.es:8080/Edgari2023/Edgari2023/1422395
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | EUROPA" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/610/CH_LOGO/160/160/0/0/139444140727741.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | EUROPA
+http://liontv.es:8080/Edgari2023/Edgari2023/1422397
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | FX" tvg-logo="https://go4.pw/LATINO/MEXICO/FX.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | FX
+http://liontv.es:8080/Edgari2023/Edgari2023/1422402
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | HBO" tvg-logo="https://go4.pw/LATINO/HBOTV.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | HBO
+http://liontv.es:8080/Edgari2023/Edgari2023/1422403
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | HBO 2" tvg-logo="https://logodix.com/logo/1265680.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | HBO 2
+http://liontv.es:8080/Edgari2023/Edgari2023/1422404
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | HBO FAMILY" tvg-logo="https://go4.pw/usa/HBO_Family_East_HD.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | HBO FAMILY
+http://liontv.es:8080/Edgari2023/Edgari2023/1422405
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | HBO MUNDI" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | HBO MUNDI
+http://liontv.es:8080/Edgari2023/Edgari2023/1422406
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | HBO PLUS" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_12/large.small.1604084289_HBO.png.58efe620b615781b29d0423ed9536326.png.98032fd4b7f214c9b6e1ce668515bcaa.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | HBO PLUS
+http://liontv.es:8080/Edgari2023/Edgari2023/1422407
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | HBO POP" tvg-logo="https://i.ytimg.com/vi/vOjlNHFQgTc/maxresdefault.jpg" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | HBO POP
+http://liontv.es:8080/Edgari2023/Edgari2023/1422408
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | HBO SIGNATURE" tvg-logo="https://www.tvchinese.net/uploads/tv/hbosignature.jpg" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | HBO SIGNATURE
+http://liontv.es:8080/Edgari2023/Edgari2023/1422409
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | HBO XTREME" tvg-logo="https://iili.io/HvUnRDJ.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | HBO XTREME
+http://liontv.es:8080/Edgari2023/Edgari2023/1422410
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | MULTIPREMIER" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/216/CH_LOGO/160/160/0/0/164308500718169.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | MULTIPREMIER
+http://liontv.es:8080/Edgari2023/Edgari2023/1422411
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | PARAMOUNT" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/543/CH_LOGO/160/160/0/0/784444190791029.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | PARAMOUNT
+http://liontv.es:8080/Edgari2023/Edgari2023/1422413
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | SONY" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/613/CH_LOGO/160/160/0/0/598750610719385.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | SONY
+http://liontv.es:8080/Edgari2023/Edgari2023/1422414
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | SPACE" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/602/CH_LOGO/160/160/0/0/490552050760801.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | SPACE
+http://liontv.es:8080/Edgari2023/Edgari2023/1422415
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | STAR CHANNEL" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/604/CH_LOGO/160/160/0/0/555712060715688.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | STAR CHANNEL
+http://liontv.es:8080/Edgari2023/Edgari2023/1422416
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | STUDIO UNIVERSAL" tvg-logo="https://go4.pw/LATINO/Studio-Universal.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | STUDIO UNIVERSAL
+http://liontv.es:8080/Edgari2023/Edgari2023/1422418
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | TNT" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/601/CH_LOGO/160/160/0/0/239979240719384.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | TNT
+http://liontv.es:8080/Edgari2023/Edgari2023/1422419
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | TNT NOVELAS" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/606/CH_LOGO/160/160/0/0/1348700007140026.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | TNT NOVELAS
+http://liontv.es:8080/Edgari2023/Edgari2023/1422420
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | TNT SERIES" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/603/CH_LOGO/160/160/0/0/7961086907107366.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | TNT SERIES
+http://liontv.es:8080/Edgari2023/Edgari2023/1422421
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | ULTRA CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdK4atig_Rq5lhmp6gWB08NAaTGC0oeUGbWw&s" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | ULTRA CINE
+http://liontv.es:8080/Edgari2023/Edgari2023/1422946
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | ULTRA CLASICO" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_clasico_Logo.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | ULTRA CLASICO
+http://liontv.es:8080/Edgari2023/Edgari2023/1422945
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | ULTRA DOCU" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_Docu_Logo.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | ULTRA DOCU
+http://liontv.es:8080/Edgari2023/Edgari2023/1422944
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | ULTRA FAMILIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAG3SgcM3sp8oEiBRUIy2HmPhesIEHeY9pQ&s" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | ULTRA FAMILIA
+http://liontv.es:8080/Edgari2023/Edgari2023/1422943
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | ULTRA KIDS" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidz_NLogo.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | ULTRA KIDS
+http://liontv.es:8080/Edgari2023/Edgari2023/1422942
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | ULTRA MACHO" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Logo-Ultra-Macho.jpg" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | ULTRA MACHO
+http://liontv.es:8080/Edgari2023/Edgari2023/1422940
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | ULTRA MEX" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-Mex-Logo.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | ULTRA MEX
+http://liontv.es:8080/Edgari2023/Edgari2023/1422941
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | UNIVERSAL CINEMA" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.a88ebacac50bab493289c33a1afef121.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | UNIVERSAL CINEMA
+http://liontv.es:8080/Edgari2023/Edgari2023/1422422
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | UNIVERSAL COMEDY" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/small.1490211344_UniversalComedy-Claro.png.403056024faa978a626240351fc1686e.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | UNIVERSAL COMEDY
+http://liontv.es:8080/Edgari2023/Edgari2023/1422423
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | UNIVERSAL CRIME" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | UNIVERSAL CRIME
+http://liontv.es:8080/Edgari2023/Edgari2023/1422424
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | UNIVERSAL PREMIERE" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | UNIVERSAL PREMIERE
+http://liontv.es:8080/Edgari2023/Edgari2023/1422425
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | UNIVERSAL REALITY" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.4b8fc78cff89969ea5a888a779654e44.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | UNIVERSAL REALITY
+http://liontv.es:8080/Edgari2023/Edgari2023/1422426
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | UNIVERSAL TV" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/612/CH_LOGO/160/160/0/0/607883050716799.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | UNIVERSAL TV
+http://liontv.es:8080/Edgari2023/Edgari2023/1422427
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES HD | WARNER" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/622/CH_LOGO/160/160/0/0/610861530716213.png" group-title="⭐ CINE Y SERIES HD",CINE Y SERIES HD | WARNER
+http://liontv.es:8080/Edgari2023/Edgari2023/1422428
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MOVISTAR ACCION FHD" tvg-logo="https://go4.pw/SPAIN/AC.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MOVISTAR ACCION FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/491901
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MOVISTAR COMEDIA FHD" tvg-logo="https://go4.pw/SPAIN/CO.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MOVISTAR COMEDIA FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/478804
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MOVISTAR DRAMA FHD" tvg-logo="https://go4.pw/EUROPE/SPAIN/M.DRAMA.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MOVISTAR DRAMA FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/478803
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | MULTIPREMIER FHD" tvg-logo="https://th.bing.com/th/id/R.6f0172ed5e1f71a90df9480089306348?rik=WjPZ9PJLc23zaQ&pid=ImgRaw&r=0" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | MULTIPREMIER FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/838251
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | PARAMOUNT FHD" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | PARAMOUNT FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/349866
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | SONY MOVIES FHD" tvg-logo="https://go4.pw/AMERICA/USA/SONYMOVIESHD.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | SONY MOVIES FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/150
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | SPACE EAST FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/518.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | SPACE EAST FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/152
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | SPACE FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1518.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | SPACE FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/61858
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STAR CHANNEL FHD" tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STAR CHANNEL FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/153
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE CINEMA FHD" tvg-logo="https://images.seeklogo.com/logo-png/45/1/starz-cinema-logo-png_seeklogo-452970.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ ENCORE CINEMA FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/160
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE CLASSIC FHD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ ENCORE CLASSIC FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/161
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE FAMILY & KIDS FHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-family.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ ENCORE FAMILY & KIDS FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/164
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE WESTERN FHD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ ENCORE WESTERN FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/165
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ FHD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/163
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ WEST FHD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STARZ WEST FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/516035
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STUDIO UNIVERSAL FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/508.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STUDIO UNIVERSAL FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/167
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | SYFY FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/219.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | SYFY FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/331592
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | TBS FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/216.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TBS FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/331614
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | TCM FHD" tvg-logo="https://go4.pw/LATINO/TCM.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TCM FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/168
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | TNT FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1502.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TNT FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/169
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | TNT SERIES FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/213.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TNT SERIES FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/170
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL CINEMA FHD" tvg-logo="https://www.universalplus.com/files/channels/731381553.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL CINEMA FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/351494
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL COMEDY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL COMEDY FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/351490
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL CRIME ESTE FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL CRIME ESTE FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/351491
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL PREMIER FHD" tvg-logo="https://go4.pw/LATINO/MEXICO/UNIVERSAL.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL PREMIER FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/349882
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL REALITY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Universal_Reality_2021.png/revision/latest?cb=20220102015650&path-prefix=es" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL REALITY FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/351493
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | UNIVERSAL TV FHD" tvg-logo="https://logos.xbots.com.mx/57.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | UNIVERSAL TV FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/171
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | WARNER CHANNEL FHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | WARNER CHANNEL FHD
+http://liontv.es:8080/Edgari2023/Edgari2023/349867
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA | A&E HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1-500x250.png" group-title="⭐ CINE Y SERIES HD",CULTURA | A&E HD
+http://liontv.es:8080/Edgari2023/Edgari2023/214
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 01" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 01
+http://liontv.es:8080/Edgari2023/Edgari2023/1442328
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 02" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 02
+http://liontv.es:8080/Edgari2023/Edgari2023/1442329
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 03" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 03
+http://liontv.es:8080/Edgari2023/Edgari2023/1442330
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 04" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 04
+http://liontv.es:8080/Edgari2023/Edgari2023/1442331
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 05" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 05
+http://liontv.es:8080/Edgari2023/Edgari2023/1442332
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 06" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 06
+http://liontv.es:8080/Edgari2023/Edgari2023/1442333
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 07" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 07
+http://liontv.es:8080/Edgari2023/Edgari2023/1442334
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 08" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 08
+http://liontv.es:8080/Edgari2023/Edgari2023/1442335
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 09" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 09
+http://liontv.es:8080/Edgari2023/Edgari2023/1442336
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 10" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 10
+http://liontv.es:8080/Edgari2023/Edgari2023/1442337
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 11" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 11
+http://liontv.es:8080/Edgari2023/Edgari2023/1442338
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 12" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 12
+http://liontv.es:8080/Edgari2023/Edgari2023/1442339
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 13" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 13
+http://liontv.es:8080/Edgari2023/Edgari2023/1442340
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 14" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 14
+http://liontv.es:8080/Edgari2023/Edgari2023/1442341
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 15" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 15
+http://liontv.es:8080/Edgari2023/Edgari2023/1442342
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 16" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 16
+http://liontv.es:8080/Edgari2023/Edgari2023/1442343
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 17" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 17
+http://liontv.es:8080/Edgari2023/Edgari2023/1442344
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 18" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 18
+http://liontv.es:8080/Edgari2023/Edgari2023/1442345
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 19" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 19
+http://liontv.es:8080/Edgari2023/Edgari2023/1442346
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 20" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 20
+http://liontv.es:8080/Edgari2023/Edgari2023/1442347
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 21" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 21
+http://liontv.es:8080/Edgari2023/Edgari2023/1442348
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 22" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 22
+http://liontv.es:8080/Edgari2023/Edgari2023/1442349
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 23" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 23
+http://liontv.es:8080/Edgari2023/Edgari2023/1442350
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 24" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 24
+http://liontv.es:8080/Edgari2023/Edgari2023/1442351
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 25" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 25
+http://liontv.es:8080/Edgari2023/Edgari2023/1442352
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 26" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 26
+http://liontv.es:8080/Edgari2023/Edgari2023/1442353
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 27" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 27
+http://liontv.es:8080/Edgari2023/Edgari2023/1442354
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 28" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 28
+http://liontv.es:8080/Edgari2023/Edgari2023/1442355
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 29" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 29
+http://liontv.es:8080/Edgari2023/Edgari2023/1442356
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 30" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 30
+http://liontv.es:8080/Edgari2023/Edgari2023/1442357
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 31" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 31
+http://liontv.es:8080/Edgari2023/Edgari2023/1442358
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 32" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 32
+http://liontv.es:8080/Edgari2023/Edgari2023/1442359
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 33" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 33
+http://liontv.es:8080/Edgari2023/Edgari2023/1442360
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 34" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 34
+http://liontv.es:8080/Edgari2023/Edgari2023/1442361
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 35" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 35
+http://liontv.es:8080/Edgari2023/Edgari2023/1442362
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 36" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 36
+http://liontv.es:8080/Edgari2023/Edgari2023/1442363
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 37" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="▶️ PPV CINE LATINO ʜᴅ",LAT| PPV 37
+http://liontv.es:8080/Edgari2023/Edgari2023/1442364
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS | TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/960px-Logo_TNT_Novelas.png" group-title="⭐ TELENOVELAS",TELENOVELAS | TNT NOVELAS
+http://liontv.es:8080/Edgari2023/Edgari2023/1613840
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | A&E FHD
 http://superxlatino.com:8880/tXqmrGxAbXrD/QafuwWCEEg7z/414453
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | A&E HD
