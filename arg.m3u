@@ -4,16 +4,8 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.ar@SD" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Entertainment",Metro TV (720p)
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTM3U url-tvg="https://impeditor.com/epg/capanueve/capanueve"
-https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/CtsG-wtNuB0FdGLd3k873hPgtDOocA6yom4ih-WvW-bCVcAvPrrHsATvh10abonriKoiDiS9cHvftkA0y1dzXD1viF2txNK4q0nErYQ1hBbsOFii7ygzlgCKvjUSjvjgYxhRgXvoDLAqPuVBMuJXLc0mybIq4HLGevSHrwxRerJdOaTNi446kCT9u9u4rrCzqrBORr-g2q4CoAOHsG3oW2O8nteF1sLX70x_qGDA6wpDfeKls9FX0yXJYUlIB6Jck9ymtuJba_2sJAt8R4jn637PcO2b4FfimsuInOrIrS1yLHF-DdBIX_IXIl00gr-S0Oy83adhIvff6uwLkwBOWfR_R1-H0R3sizXZ5VdZ3RaP5oEQS-4NHz4DBW4ObxcJvIEwzbpRTaNYRc2abFLOhqSptB3yFCqFeL25b49txY-lJ6x90faa-i_odGBS9YYHOVwOcwqVeOtVJ2SEoKqmxthRqxxdh2-nlz1Yy3GXSKTAlnAj1AYTNd6uZLKzSJsoVF8693TqikxIy1d8YfMq75YwvM8chd0UmSzRppYXwaw-h4wiDm4RN17OocmGyzJ9ilYQJq8D1sDo-lmkvm5kQagSVGkEA-EvyxJ0FgkLV6AZuZ8RlsBaQ4jiUmwXkZPO8eRpEUCI2RcYV1cb5vumehlbyouiurbtIEklvKMqa5Gorm12RJwx1p6CB-KhbuAwZ1oU-P07gMCP3fJehb9yC9fl7x4lq2BRlcxid7wCFI7Y9Ikw5B6z0cKG5lnaatlBsQmF2PcqAHoWMHgx-fuwZAkkIXIAyvoMrsW8PNDIJ-66cgJNV_chJa1tvN1dntbgC-3roB-Vq0m7N1R-h43FFeywIT97Vwrj8NhN7TbCZWiSCukTU1HimQK0WEcbiYJOn0Z1CzXZBr5yiZ6r6O6tz_fPG5ipuQZ8EsLwkRqVwWsampVMXGsCx918xV3vEE2RlEA_QAQuIxH_VfjH9xE0W2JrAQiVADJhJEkA4TUri-jRLs_tFmtZbGSYq0FzvpNiKQxSx-i21dMOUwpLEAEXpvOa6ALwPwMbr68CWXWCkVY1K0ojYuXEvvjfpIyw8jzSnZPmPv48PShW1hBQ9aEssUWzkGOc1dGd3OojJPeVm9-wSOluZXHUC1kk35r-uxoMd3uXpn-W0MhtQ0IxIAEqCXVzLWVhc3QtMjDNEA.m3u8
-
-#EXTINF:-1 group-title="Aire / Nacionales" tvg-id="TodoNoticias.ar" tvg-name="TN Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png",TN Todo Noticias
-https://www.youtube.com/c/todonoticias/live
-#EXTINF:-1 group-title="Aire / Nacionales" tvg-id="TVPublica.ar" tvg-name="Televisión Pública" tvg-logo="https://i.imgur.com/4hYYpiu.png",Televisión Pública
-https://www.youtube.com/user/TVPublicaArgentina/live
-#EXTINF:-1 group-title="Aire / Nacionales" tvg-id="CronicaTV.ar" tvg-name="Crónica TV" tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Crónica TV
-https://www.youtube.com/c/cronicatv/live
-#EXTINF:-1 group-title="Aire / Nacionales" tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png",A24
-https://www.youtube.com/c/A24com/live
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+https://cdn1.tvlin.net/open/telesol/chunks.m3u8?nimblesessionid=83247207
 
 
 
